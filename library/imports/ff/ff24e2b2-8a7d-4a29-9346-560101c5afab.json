@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_lu",
+    "texture": "8739ee71-dc2a-4756-8a93-b0639f307421",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      219,
+      120
+    ],
+    "offset": [
+      -16.5,
+      0
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

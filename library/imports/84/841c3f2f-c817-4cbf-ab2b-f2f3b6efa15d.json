@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txdi_ding",
+    "texture": "683f44a4-5eac-4988-8d71-9a768377aedf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      703,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      703,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

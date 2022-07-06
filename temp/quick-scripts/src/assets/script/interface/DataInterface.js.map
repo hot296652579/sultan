@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/interface/DataInterface.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["import BaseData from \"../base/BaseData\";\n\nexport interface DataParam<T extends BaseData> {\n    // 数据类\n    dataClass: DataClass<T>,\n}\n\nexport interface DataClass<T extends BaseData> {\n    new(): T;\n}"]}

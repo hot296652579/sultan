@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wenbenkuang",
+    "texture": "22d6ee80-d6df-4b53-b465-51465ee006d4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      38
+    ],
+    "capInsets": [
+      15,
+      17,
+      15,
+      16
+    ]
+  }
+}

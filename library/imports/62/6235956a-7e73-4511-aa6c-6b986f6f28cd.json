@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhu",
+    "texture": "2e1a50f2-10b3-4dc9-b39f-003844e2c0ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      629,
+      482
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      629,
+      482
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

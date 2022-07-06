@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuanzhong",
+    "texture": "db3cd169-b5b6-4e26-8cf4-c7434082a3f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      338,
+      7
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      338,
+      7
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

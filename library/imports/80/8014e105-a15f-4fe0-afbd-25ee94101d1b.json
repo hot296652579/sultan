@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huojian_bgdj",
+    "texture": "c78597f7-1dcf-4c93-a134-af65bc81e404",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      350,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      356,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xian",
+    "texture": "47d7ce50-2d3b-4d7b-bf11-c50736c26b41",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      26
+    ],
+    "capInsets": [
+      10,
+      0,
+      10,
+      0
+    ]
+  }
+}

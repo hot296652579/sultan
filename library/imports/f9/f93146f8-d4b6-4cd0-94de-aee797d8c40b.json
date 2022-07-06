@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_dice",
+    "texture": "313a11f3-3f38-4fb8-b260-67c1773e5fc7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      232
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      255,
+      232
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

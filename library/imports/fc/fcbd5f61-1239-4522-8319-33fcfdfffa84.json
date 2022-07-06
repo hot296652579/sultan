@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_hubi",
+    "texture": "ae2bd807-3b8e-42fa-968a-498b2418508d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      598
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      598
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

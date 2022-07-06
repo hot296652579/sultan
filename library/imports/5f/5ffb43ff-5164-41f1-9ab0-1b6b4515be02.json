@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_tuijian",
+    "texture": "c678287a-32a6-40ad-be6e-80bbaf7525cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

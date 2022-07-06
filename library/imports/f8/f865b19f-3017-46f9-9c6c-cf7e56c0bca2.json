@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fengexian_grzx",
+    "texture": "87baa6a4-4fea-4f86-8c0a-40b0c86478ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

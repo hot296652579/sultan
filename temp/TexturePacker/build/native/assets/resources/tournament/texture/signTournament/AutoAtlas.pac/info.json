@@ -1,0 +1,718 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "93b6ab67-3b4e-40a8-9b28-f43e4b22dcf5": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242080
+    },
+    "02321129-1da9-498a-9b06-05ce881b8c07": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242118
+    },
+    "47194f47-f861-4ac0-9f71-095ed51aab31": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242118
+    },
+    "0881f2a7-26c2-4695-81b4-74f69f6f075e": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242156
+    },
+    "134131dc-b211-4000-81a8-abe6abbb3bf2": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242156
+    },
+    "276c8bb2-e859-48bc-8c21-07b2909bf13c": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242176
+    },
+    "93da8e64-c296-47e4-9c2a-a66f4a70fdd5": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242176
+    },
+    "2c0f8ebe-d022-4cef-95f7-249e70f7f7e7": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242143
+    },
+    "e5a64888-a106-4e55-a224-5e85873f14f9": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242143
+    },
+    "3072c8b9-86eb-4733-96c2-c34dc58fb7d3": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242205
+    },
+    "91202229-c9af-4b44-876c-741b1f97cfb7": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242205
+    },
+    "3ccedbe2-2fa4-4e0d-938d-60530bac1563": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242206
+    },
+    "42feb23c-f68c-4d23-8f3c-45792a46f7b8": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242206
+    },
+    "4075c409-c219-44d8-9ae3-2f28bef0a4bb": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242153
+    },
+    "96fca45b-8f41-40a9-847d-975144c56d62": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242153
+    },
+    "408ef0a6-386a-41d0-b8e9-d511851ec736": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242161
+    },
+    "d0bde9b7-d648-4c53-84dc-cccb34d270df": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242161
+    },
+    "4a2517ad-0730-4cab-92df-06ff626dfc19": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242137
+    },
+    "6e8f60b9-975b-4d8a-8317-fc039e6ee96d": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242137
+    },
+    "570971c7-c18b-4384-944c-0ec3a940c692": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242119
+    },
+    "cb23c399-75dc-4a6f-b4d4-d7b4aa9e089f": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242119
+    },
+    "5865ada3-0980-4af2-aec6-f4dc72c45056": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242175
+    },
+    "dec162d8-f5b1-4445-beb9-6ca121e69835": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242175
+    },
+    "64829adc-8fba-452d-948a-633919da7618": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242141
+    },
+    "a16c6fec-2ce0-477e-ba3b-f2b594d5b966": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242141
+    },
+    "8d6748eb-5a2c-4d90-993f-8efddb0bcb70": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242109
+    },
+    "3d394a2e-a8ef-4138-a048-60b058395598": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242109
+    },
+    "a0258ad7-0a4a-4c43-a9a6-6eeb14b97eec": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242154
+    },
+    "297ce1ab-1dd8-433f-ae7b-3d5ef6233bb7": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242154
+    },
+    "b8edfae9-a0c9-4062-8f53-004c7de8cabc": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242144
+    },
+    "17759080-5cc6-4061-9069-82e35d1c4dec": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242144
+    },
+    "c7fb2c6e-fec8-477c-9a86-dfef0dbb5e58": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242160
+    },
+    "9a979fe9-7eaa-4b4f-87ae-74611a6cde78": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242160
+    },
+    "cef9406e-cca7-4173-8cc2-ece5beb9ce55": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242107
+    },
+    "f485dc17-34c9-4a43-b802-d7bbaeed8231": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242107
+    },
+    "d70950d5-3a55-4a5e-875a-02cdd349e26e": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242194
+    },
+    "a928410f-4b07-4fcd-bb5e-9d742a05827a": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242194
+    },
+    "ddd84500-8f8d-4fb8-bac5-1b643a7f5bcb": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242163
+    },
+    "502dc922-6f43-441c-9c8f-daeb26c8b9e9": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242163
+    },
+    "ea535e71-0b53-4483-8c80-ad6e2c9e7d88": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242180
+    },
+    "16905092-d4cd-4389-9ac8-4138818c501a": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242180
+    },
+    "ef01b369-98a3-42fe-96de-d22d7e1822e8": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242162
+    },
+    "58961708-7527-4750-adee-ef52932fc9aa": {
+      "assetMtime": 1647255630000,
+      "metaMtime": 1647574242162
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "93b6ab67-3b4e-40a8-9b28-f43e4b22dcf5",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ng_jbs_fl_Myparticipation",
+            "uuid": "d70950d5-3a55-4a5e-875a-02cdd349e26e",
+            "textureUuid": "a928410f-4b07-4fcd-bb5e-9d742a05827a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690705_image_17.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 170,
+              "height": 36,
+              "rotatedWidth": 170,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 170,
+            "rawHeight": 36,
+            "width": 176,
+            "height": 42,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a9/a928410f-4b07-4fcd-bb5e-9d742a05827a.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 176,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "ng_jbs_bjk1_2",
+            "uuid": "4a2517ad-0730-4cab-92df-06ff626dfc19",
+            "textureUuid": "6e8f60b9-975b-4d8a-8317-fc039e6ee96d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690702_image_8.png",
+            "trim": {
+              "x": 179,
+              "y": 3,
+              "width": 100,
+              "height": 2,
+              "rotatedWidth": 2,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 100,
+            "rawHeight": 2,
+            "width": 106,
+            "height": 8,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/6e/6e8f60b9-975b-4d8a-8317-fc039e6ee96d.png",
+            "x": 176,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 8,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "ng_jbs_bjk1_3",
+            "uuid": "64829adc-8fba-452d-948a-633919da7618",
+            "textureUuid": "a16c6fec-2ce0-477e-ba3b-f2b594d5b966",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690703_image_11.png",
+            "trim": {
+              "x": 187,
+              "y": 3,
+              "width": 2,
+              "height": 100,
+              "rotatedWidth": 2,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 2,
+            "rawHeight": 100,
+            "width": 8,
+            "height": 106,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a1/a16c6fec-2ce0-477e-ba3b-f2b594d5b966.png",
+            "x": 184,
+            "y": 0,
+            "rotatedWidth": 8,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "ng_jbs_bjk2_2",
+            "uuid": "a0258ad7-0a4a-4c43-a9a6-6eeb14b97eec",
+            "textureUuid": "297ce1ab-1dd8-433f-ae7b-3d5ef6233bb7",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690704_image_13.png",
+            "trim": {
+              "x": 195,
+              "y": 3,
+              "width": 100,
+              "height": 2,
+              "rotatedWidth": 2,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 100,
+            "rawHeight": 2,
+            "width": 106,
+            "height": 8,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/29/297ce1ab-1dd8-433f-ae7b-3d5ef6233bb7.png",
+            "x": 192,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 8,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "ng_jbs_bjk2_3",
+            "uuid": "ef01b369-98a3-42fe-96de-d22d7e1822e8",
+            "textureUuid": "58961708-7527-4750-adee-ef52932fc9aa",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690705_image_20.png",
+            "trim": {
+              "x": 203,
+              "y": 3,
+              "width": 2,
+              "height": 100,
+              "rotatedWidth": 2,
+              "rotatedHeight": 100
+            },
+            "rawWidth": 2,
+            "rawHeight": 100,
+            "width": 8,
+            "height": 106,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/58/58961708-7527-4750-adee-ef52932fc9aa.png",
+            "x": 200,
+            "y": 0,
+            "rotatedWidth": 8,
+            "rotatedHeight": 106
+          },
+          {
+            "name": "ng_jbs_fl_Mycreation",
+            "uuid": "ddd84500-8f8d-4fb8-bac5-1b643a7f5bcb",
+            "textureUuid": "502dc922-6f43-441c-9c8f-daeb26c8b9e9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690705_image_18.png",
+            "trim": {
+              "x": 3,
+              "y": 45,
+              "width": 128,
+              "height": 36,
+              "rotatedWidth": 128,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 128,
+            "rawHeight": 36,
+            "width": 134,
+            "height": 42,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/50/502dc922-6f43-441c-9c8f-daeb26c8b9e9.png",
+            "x": 0,
+            "y": 42,
+            "rotatedWidth": 134,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "ng_jbs_fl_All",
+            "uuid": "ea535e71-0b53-4483-8c80-ad6e2c9e7d88",
+            "textureUuid": "16905092-d4cd-4389-9ac8-4138818c501a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690705_image_19.png",
+            "trim": {
+              "x": 137,
+              "y": 45,
+              "width": 39,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 39,
+            "rawHeight": 32,
+            "width": 45,
+            "height": 38,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/16/16905092-d4cd-4389-9ac8-4138818c501a.png",
+            "x": 134,
+            "y": 42,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "ng_jbs_zj",
+            "uuid": "3072c8b9-86eb-4733-96c2-c34dc58fb7d3",
+            "textureUuid": "91202229-c9af-4b44-876c-741b1f97cfb7",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690699_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 90,
+              "width": 914,
+              "height": 54,
+              "rotatedWidth": 54,
+              "rotatedHeight": 914
+            },
+            "rawWidth": 914,
+            "rawHeight": 54,
+            "width": 920,
+            "height": 60,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/91/91202229-c9af-4b44-876c-741b1f97cfb7.png",
+            "x": 0,
+            "y": 87,
+            "rotated": true,
+            "rotatedWidth": 60,
+            "rotatedHeight": 920
+          },
+          {
+            "name": "ng_jbs_bjk1_1",
+            "uuid": "2c0f8ebe-d022-4cef-95f7-249e70f7f7e7",
+            "textureUuid": "e5a64888-a106-4e55-a224-5e85873f14f9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690699_image_3.png",
+            "trim": {
+              "x": 63,
+              "y": 90,
+              "width": 104,
+              "height": 105,
+              "rotatedWidth": 105,
+              "rotatedHeight": 104
+            },
+            "rawWidth": 104,
+            "rawHeight": 105,
+            "width": 110,
+            "height": 111,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e5/e5a64888-a106-4e55-a224-5e85873f14f9.png",
+            "x": 60,
+            "y": 87,
+            "rotated": true,
+            "rotatedWidth": 111,
+            "rotatedHeight": 110
+          },
+          {
+            "name": "ng_jbs_bt_TournamentDetails",
+            "uuid": "408ef0a6-386a-41d0-b8e9-d511851ec736",
+            "textureUuid": "d0bde9b7-d648-4c53-84dc-cccb34d270df",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690702_image_7.png",
+            "trim": {
+              "x": 174,
+              "y": 109,
+              "width": 343,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 343
+            },
+            "rawWidth": 343,
+            "rawHeight": 31,
+            "width": 349,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d0/d0bde9b7-d648-4c53-84dc-cccb34d270df.png",
+            "x": 171,
+            "y": 106,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 349
+          },
+          {
+            "name": "ng_jbs_bjk2_1",
+            "uuid": "b8edfae9-a0c9-4062-8f53-004c7de8cabc",
+            "textureUuid": "17759080-5cc6-4061-9069-82e35d1c4dec",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690704_image_14.png",
+            "trim": {
+              "x": 63,
+              "y": 200,
+              "width": 104,
+              "height": 105,
+              "rotatedWidth": 105,
+              "rotatedHeight": 104
+            },
+            "rawWidth": 104,
+            "rawHeight": 105,
+            "width": 110,
+            "height": 111,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/17/17759080-5cc6-4061-9069-82e35d1c4dec.png",
+            "x": 60,
+            "y": 197,
+            "rotated": true,
+            "rotatedWidth": 111,
+            "rotatedHeight": 110
+          },
+          {
+            "name": "ng_jbs_an_Details_h",
+            "uuid": "02321129-1da9-498a-9b06-05ce881b8c07",
+            "textureUuid": "47194f47-f861-4ac0-9f71-095ed51aab31",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690699_image_0.png",
+            "trim": {
+              "x": 63,
+              "y": 310,
+              "width": 94,
+              "height": 41,
+              "rotatedWidth": 94,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 94,
+            "rawHeight": 41,
+            "width": 100,
+            "height": 47,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/47/47194f47-f861-4ac0-9f71-095ed51aab31.png",
+            "x": 60,
+            "y": 307,
+            "rotatedWidth": 100,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "ng_jbs_an_Details_l",
+            "uuid": "570971c7-c18b-4384-944c-0ec3a940c692",
+            "textureUuid": "cb23c399-75dc-4a6f-b4d4-d7b4aa9e089f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690703_image_9.png",
+            "trim": {
+              "x": 63,
+              "y": 357,
+              "width": 94,
+              "height": 41,
+              "rotatedWidth": 94,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 94,
+            "rawHeight": 41,
+            "width": 100,
+            "height": 47,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/cb/cb23c399-75dc-4a6f-b4d4-d7b4aa9e089f.png",
+            "x": 60,
+            "y": 354,
+            "rotatedWidth": 100,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "ng_jbs_k3",
+            "uuid": "3ccedbe2-2fa4-4e0d-938d-60530bac1563",
+            "textureUuid": "42feb23c-f68c-4d23-8f3c-45792a46f7b8",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690699_image_5.png",
+            "trim": {
+              "x": 63,
+              "y": 404,
+              "width": 404,
+              "height": 50,
+              "rotatedWidth": 50,
+              "rotatedHeight": 404
+            },
+            "rawWidth": 404,
+            "rawHeight": 50,
+            "width": 410,
+            "height": 56,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/42/42feb23c-f68c-4d23-8f3c-45792a46f7b8.png",
+            "x": 60,
+            "y": 401,
+            "rotated": true,
+            "rotatedWidth": 56,
+            "rotatedHeight": 410
+          },
+          {
+            "name": "ng_jbs_fl_k_2",
+            "uuid": "276c8bb2-e859-48bc-8c21-07b2909bf13c",
+            "textureUuid": "93da8e64-c296-47e4-9c2a-a66f4a70fdd5",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690699_image_2.png",
+            "trim": {
+              "x": 63,
+              "y": 814,
+              "width": 203,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 203
+            },
+            "rawWidth": 203,
+            "rawHeight": 40,
+            "width": 209,
+            "height": 46,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/93/93da8e64-c296-47e4-9c2a-a66f4a70fdd5.png",
+            "x": 60,
+            "y": 811,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 209
+          },
+          {
+            "name": "ng_jbs_fl_k_1",
+            "uuid": "5865ada3-0980-4af2-aec6-f4dc72c45056",
+            "textureUuid": "dec162d8-f5b1-4445-beb9-6ca121e69835",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690703_image_10.png",
+            "trim": {
+              "x": 109,
+              "y": 814,
+              "width": 203,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 203
+            },
+            "rawWidth": 203,
+            "rawHeight": 40,
+            "width": 209,
+            "height": 46,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/de/dec162d8-f5b1-4445-beb9-6ca121e69835.png",
+            "x": 106,
+            "y": 811,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 209
+          },
+          {
+            "name": "ng_jbs_MINE",
+            "uuid": "cef9406e-cca7-4173-8cc2-ece5beb9ce55",
+            "textureUuid": "f485dc17-34c9-4a43-b802-d7bbaeed8231",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690704_image_16.png",
+            "trim": {
+              "x": 119,
+              "y": 404,
+              "width": 43,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 43,
+            "rawHeight": 43,
+            "width": 49,
+            "height": 49,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f4/f485dc17-34c9-4a43-b802-d7bbaeed8231.png",
+            "x": 116,
+            "y": 401,
+            "rotatedWidth": 49,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "ng_jbs_OFFICIAL",
+            "uuid": "8d6748eb-5a2c-4d90-993f-8efddb0bcb70",
+            "textureUuid": "3d394a2e-a8ef-4138-a048-60b058395598",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690704_image_12.png",
+            "trim": {
+              "x": 119,
+              "y": 453,
+              "width": 43,
+              "height": 42,
+              "rotatedWidth": 43,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 43,
+            "rawHeight": 42,
+            "width": 49,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/3d/3d394a2e-a8ef-4138-a048-60b058395598.png",
+            "x": 116,
+            "y": 450,
+            "rotatedWidth": 49,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "ng_jbs_bt_Tournament",
+            "uuid": "c7fb2c6e-fec8-477c-9a86-dfef0dbb5e58",
+            "textureUuid": "9a979fe9-7eaa-4b4f-87ae-74611a6cde78",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690704_image_15.png",
+            "trim": {
+              "x": 168,
+              "y": 458,
+              "width": 215,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 215
+            },
+            "rawWidth": 215,
+            "rawHeight": 31,
+            "width": 221,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/9a/9a979fe9-7eaa-4b4f-87ae-74611a6cde78.png",
+            "x": 165,
+            "y": 455,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 221
+          },
+          {
+            "name": "ng_jbs_bt_MyTournament",
+            "uuid": "4075c409-c219-44d8-9ae3-2f28bef0a4bb",
+            "textureUuid": "96fca45b-8f41-40a9-847d-975144c56d62",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690702_image_6.png",
+            "trim": {
+              "x": 119,
+              "y": 501,
+              "width": 278,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 278
+            },
+            "rawWidth": 278,
+            "rawHeight": 38,
+            "width": 284,
+            "height": 44,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/96/96fca45b-8f41-40a9-847d-975144c56d62.png",
+            "x": 116,
+            "y": 498,
+            "rotated": true,
+            "rotatedWidth": 44,
+            "rotatedHeight": 284
+          },
+          {
+            "name": "ng_jbs_bt_SignUpPlayers",
+            "uuid": "0881f2a7-26c2-4695-81b4-74f69f6f075e",
+            "textureUuid": "134131dc-b211-4000-81a8-abe6abbb3bf2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880690699_image_1.png",
+            "trim": {
+              "x": 163,
+              "y": 679,
+              "width": 274,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 274
+            },
+            "rawWidth": 274,
+            "rawHeight": 38,
+            "width": 280,
+            "height": 44,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/13/134131dc-b211-4000-81a8-abe6abbb3bf2.png",
+            "x": 160,
+            "y": 676,
+            "rotated": true,
+            "rotatedWidth": 44,
+            "rotatedHeight": 280
+          }
+        ],
+        "width": 208,
+        "height": 1020,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/tournament/texture/signTournament/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/tournament/texture/signTournament/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

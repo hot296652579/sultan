@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_moren",
+    "texture": "6b52b546-0686-4552-a1d4-178fc41f7196",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      42,
+      45
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

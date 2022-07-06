@@ -1,0 +1,20 @@
+
+xinguan.png
+size: 33,18
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guandi
+  rotate: false
+  xy: 2, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guandi2
+  rotate: false
+  xy: 18, 3
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

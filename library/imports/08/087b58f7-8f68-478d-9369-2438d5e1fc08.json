@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redCircle",
+    "texture": "49c5e679-f09d-4ffe-b33b-7078f63eb1c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

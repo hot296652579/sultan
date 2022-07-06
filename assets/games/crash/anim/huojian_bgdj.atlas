@@ -1,0 +1,41 @@
+
+huojian_bgdj.png
+size: 356,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guandi
+  rotate: false
+  xy: 179, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guandi2
+  rotate: false
+  xy: 195, 3
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 268, 20
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: false
+  xy: 2, 7
+  size: 175, 50
+  orig: 175, 50
+  offset: 0, 0
+  index: -1
+yu3
+  rotate: false
+  xy: 179, 18
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1

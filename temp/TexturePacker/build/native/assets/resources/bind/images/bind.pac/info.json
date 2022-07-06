@@ -1,0 +1,118 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "9cc537aa-c580-4f3c-8c60-d6065f01870b": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574215814
+    },
+    "3d7af839-9ec9-476f-afbd-66ef703eabf1": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574215849
+    },
+    "14399f31-1cba-49d2-bfe6-cf7943bec47f": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574215849
+    },
+    "ac59f3c6-244b-4fcf-acf2-5b4cfc19e711": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574215850
+    },
+    "a247dc07-57a1-4ace-b668-808fdd7c8c8c": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574215850
+    }
+  },
+  "result": {
+    "name": "bind",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "9cc537aa-c580-4f3c-8c60-d6065f01870b",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "img_change_withdrawal_account",
+            "uuid": "3d7af839-9ec9-476f-afbd-66ef703eabf1",
+            "textureUuid": "14399f31-1cba-49d2-bfe6-cf7943bec47f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880657932_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 426,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 426
+            },
+            "rawWidth": 426,
+            "rawHeight": 34,
+            "width": 432,
+            "height": 40,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/14/14399f31-1cba-49d2-bfe6-cf7943bec47f.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 40,
+            "rotatedHeight": 432
+          },
+          {
+            "name": "img_bind_withdrawal_account",
+            "uuid": "ac59f3c6-244b-4fcf-acf2-5b4cfc19e711",
+            "textureUuid": "a247dc07-57a1-4ace-b668-808fdd7c8c8c",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880657933_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 435,
+              "width": 381,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 381
+            },
+            "rawWidth": 381,
+            "rawHeight": 28,
+            "width": 387,
+            "height": 34,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a2/a247dc07-57a1-4ace-b668-808fdd7c8c8c.png",
+            "x": 0,
+            "y": 432,
+            "rotated": true,
+            "rotatedWidth": 34,
+            "rotatedHeight": 387
+          }
+        ],
+        "width": 40,
+        "height": 819,
+        "name": "bind-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/bind/images/bind.pac/bind-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/bind/images/bind.pac/compressed/bind-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

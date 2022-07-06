@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_kefu",
+    "texture": "771185f1-0ede-4075-97cc-34fa4c29b6a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

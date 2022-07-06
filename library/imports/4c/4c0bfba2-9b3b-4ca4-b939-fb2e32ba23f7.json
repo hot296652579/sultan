@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_xiangzi",
+    "texture": "acff19bf-8c30-4b0b-94aa-43e2b50874d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      251,
+      252
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      251,
+      252
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

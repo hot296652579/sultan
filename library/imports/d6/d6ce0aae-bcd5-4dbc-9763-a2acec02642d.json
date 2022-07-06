@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_kg1",
+    "texture": "ca039682-f23d-456d-a7eb-c550b57d62dc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

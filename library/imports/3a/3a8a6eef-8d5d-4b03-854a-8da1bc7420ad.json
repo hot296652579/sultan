@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_permainan",
+    "texture": "b68bb5ac-6cda-47ff-a696-84e3acf78937",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

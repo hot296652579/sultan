@@ -1,0 +1,20 @@
+
+btn_zi.png
+size: 239,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 2
+  size: 219, 106
+  orig: 219, 106
+  offset: 0, 0
+  index: -1
+guandi
+  rotate: false
+  xy: 223, 94
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

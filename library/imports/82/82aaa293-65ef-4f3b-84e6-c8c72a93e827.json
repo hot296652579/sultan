@@ -1,0 +1,6704 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "wingo",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "+OltblANqqdWrL99pWo6SKqjErw",
+      "spine": "3.7.94",
+      "width": 222.78,
+      "height": 308.62,
+      "images": "./images/",
+      "audio": "F:/spine动画/大厅图标/roulette"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "x": -117,
+        "y": 154.5
+      },
+      {
+        "name": "yizi3",
+        "parent": "root",
+        "length": 23.9,
+        "rotation": 176.42,
+        "x": 118.89,
+        "y": -135.55
+      },
+      {
+        "name": "yizi2",
+        "parent": "root",
+        "length": 14.23,
+        "rotation": 12.09,
+        "x": 182.9,
+        "y": -207.03
+      },
+      {
+        "name": "zi",
+        "parent": "root",
+        "length": 29.86,
+        "rotation": 2.86,
+        "x": 80.69,
+        "y": -248.79
+      },
+      {
+        "name": "texi",
+        "parent": "root",
+        "x": 114.31,
+        "y": -157.3,
+        "scaleX": 1.038,
+        "scaleY": 1.038
+      },
+      {
+        "name": "bone",
+        "parent": "texi",
+        "length": 1.49,
+        "x": 8.65,
+        "y": -134.56,
+        "scaleX": 1.777,
+        "scaleY": 1.777
+      },
+      {
+        "name": "bone2",
+        "parent": "texi",
+        "length": 1.49,
+        "x": 39.79,
+        "y": -133.12,
+        "scaleX": 2.843,
+        "scaleY": 2.843
+      },
+      {
+        "name": "bone5",
+        "parent": "texi",
+        "length": 1.49,
+        "x": -24.87,
+        "y": -133.12,
+        "scaleX": 2.488,
+        "scaleY": 2.488
+      },
+      {
+        "name": "bone8",
+        "parent": "texi",
+        "length": 1.49,
+        "x": -59.69,
+        "y": -133.12,
+        "scaleX": 2.843,
+        "scaleY": 2.843
+      },
+      {
+        "name": "bone9",
+        "parent": "texi",
+        "length": 1.49,
+        "x": 60.12,
+        "y": -133.12,
+        "scaleX": 2.133,
+        "scaleY": 2.133
+      },
+      {
+        "name": "bone10",
+        "parent": "texi",
+        "length": 1.49,
+        "x": -43.32,
+        "y": -133.12,
+        "scaleX": 1.777,
+        "scaleY": 1.777
+      },
+      {
+        "name": "bone11",
+        "parent": "texi",
+        "length": 1.49,
+        "x": -96.45,
+        "y": -133.12,
+        "scaleX": 2.133,
+        "scaleY": 2.133
+      },
+      {
+        "name": "bone12",
+        "parent": "texi",
+        "length": 1.49,
+        "x": -4.01,
+        "y": -133.12,
+        "scaleX": 2.843,
+        "scaleY": 2.843
+      },
+      {
+        "name": "bone13",
+        "parent": "texi",
+        "length": 1.49,
+        "x": 29.9,
+        "y": -133.12,
+        "scaleX": 1.777,
+        "scaleY": 1.777
+      },
+      {
+        "name": "bone14",
+        "parent": "texi",
+        "length": 1.49,
+        "x": 78.76,
+        "y": -133.12,
+        "scaleX": 2.31,
+        "scaleY": 2.31
+      },
+      {
+        "name": "bone19",
+        "parent": "texi",
+        "length": 1.49,
+        "x": -80.41,
+        "y": -133.12,
+        "scaleX": 2.843,
+        "scaleY": 2.843
+      },
+      {
+        "name": "bone20",
+        "parent": "texi",
+        "length": 1.49,
+        "x": 100.31,
+        "y": -133.12,
+        "scaleX": 2.31,
+        "scaleY": 2.31
+      },
+      {
+        "name": "zi2",
+        "parent": "root",
+        "length": 29.86,
+        "rotation": 2.86,
+        "x": 80.69,
+        "y": -248.79
+      },
+      {
+        "name": "bone3",
+        "parent": "root",
+        "length": 17.73,
+        "x": 115.59,
+        "y": -52.47,
+        "scaleX": 1.146,
+        "scaleY": 1.146
+      },
+      {
+        "name": "q1",
+        "parent": "bone3",
+        "length": 24.25,
+        "rotation": 90,
+        "x": -0.36,
+        "y": 1.67
+      },
+      {
+        "name": "0",
+        "parent": "bone3",
+        "length": 12.3,
+        "rotation": 89.3,
+        "x": 0.3,
+        "y": -0.6
+      },
+      {
+        "name": "tx",
+        "parent": "bone3",
+        "length": 10.61,
+        "rotation": -180,
+        "x": -2.11,
+        "y": 1.06
+      },
+      {
+        "name": "bone4",
+        "parent": "root",
+        "length": 17.73,
+        "x": 185.43,
+        "y": -153.35,
+        "scaleX": 0.705,
+        "scaleY": 0.705
+      },
+      {
+        "name": "q2",
+        "parent": "bone4",
+        "length": 24.25,
+        "rotation": 90,
+        "x": -0.36,
+        "y": 1.67
+      },
+      {
+        "name": "1",
+        "parent": "bone4",
+        "length": 12.3,
+        "rotation": 89.3,
+        "x": 0.3,
+        "y": -0.6
+      },
+      {
+        "name": "tx2",
+        "parent": "bone4",
+        "length": 10.61,
+        "rotation": -180,
+        "x": -2.11,
+        "y": 1.06
+      },
+      {
+        "name": "bone6",
+        "parent": "root",
+        "length": 17.73,
+        "x": 37.45,
+        "y": -159.39,
+        "scaleX": -0.592,
+        "scaleY": 0.596
+      },
+      {
+        "name": "q3",
+        "parent": "bone6",
+        "length": 24.25,
+        "rotation": 90,
+        "x": -0.36,
+        "y": 1.67
+      },
+      {
+        "name": "2",
+        "parent": "bone6",
+        "length": 12.3,
+        "rotation": 89.3,
+        "x": 0.3,
+        "y": -0.6,
+        "scaleX": 0.6
+      },
+      {
+        "name": "tx3",
+        "parent": "bone6",
+        "length": 10.61,
+        "rotation": -180,
+        "x": -2.11,
+        "y": 1.06
+      },
+      {
+        "name": "yizi4",
+        "parent": "root",
+        "length": 14.23,
+        "rotation": 12.09,
+        "x": 46.08,
+        "y": -212.3
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg",
+        "bone": "root",
+        "attachment": "bg"
+      },
+      {
+        "name": "yizi3",
+        "bone": "yizi3",
+        "attachment": "yizi3"
+      },
+      {
+        "name": "yizi2",
+        "bone": "yizi2",
+        "attachment": "yizi2"
+      },
+      {
+        "name": "yizi4",
+        "bone": "yizi4",
+        "attachment": "yizi2"
+      },
+      {
+        "name": "zi",
+        "bone": "zi",
+        "attachment": "zi"
+      },
+      {
+        "name": "zi2",
+        "bone": "zi2",
+        "attachment": "zi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi",
+        "bone": "bone",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi2",
+        "bone": "bone2",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi5",
+        "bone": "bone5",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi8",
+        "bone": "bone8",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi9",
+        "bone": "bone9",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi10",
+        "bone": "bone10",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi11",
+        "bone": "bone11",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi12",
+        "bone": "bone12",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi13",
+        "bone": "bone13",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi14",
+        "bone": "bone14",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi19",
+        "bone": "bone19",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "guandi20",
+        "bone": "bone20",
+        "attachment": "guandi",
+        "blend": "additive"
+      },
+      {
+        "name": "q1",
+        "bone": "q1",
+        "attachment": "q4"
+      },
+      {
+        "name": "q2",
+        "bone": "q2",
+        "attachment": "q4"
+      },
+      {
+        "name": "q3",
+        "bone": "q3",
+        "attachment": "q4"
+      },
+      {
+        "name": "tx",
+        "bone": "tx",
+        "color": "ffffff2f",
+        "attachment": "texiao/5",
+        "blend": "additive"
+      },
+      {
+        "name": "tx2",
+        "bone": "tx2",
+        "color": "ffffff2f",
+        "attachment": "texiao/5",
+        "blend": "additive"
+      },
+      {
+        "name": "tx3",
+        "bone": "tx3",
+        "color": "ffffff2f",
+        "attachment": "texiao/5",
+        "blend": "additive"
+      },
+      {
+        "name": "0",
+        "bone": "0",
+        "attachment": "0"
+      },
+      {
+        "name": "1",
+        "bone": "1",
+        "attachment": "0"
+      },
+      {
+        "name": "2",
+        "bone": "2",
+        "attachment": "0"
+      }
+    ],
+    "skins": {
+      "default": {
+        "0": {
+          "0": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "1": {
+            "x": 0.98,
+            "y": 2.2,
+            "rotation": -89.3,
+            "width": 16,
+            "height": 33
+          },
+          "2": {
+            "x": 2.49,
+            "y": 0.72,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "3": {
+            "x": 1.49,
+            "y": 0.71,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "4": {
+            "x": 2,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 26,
+            "height": 33
+          },
+          "5": {
+            "x": 0.99,
+            "y": 0.7,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "6": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "7": {
+            "x": 1.01,
+            "y": -0.3,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "8": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "9": {
+            "x": 1.5,
+            "y": 0.21,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          }
+        },
+        "1": {
+          "0": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "1": {
+            "x": 0.98,
+            "y": 2.2,
+            "rotation": -89.3,
+            "width": 16,
+            "height": 33
+          },
+          "2": {
+            "x": 2.49,
+            "y": 0.72,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "3": {
+            "x": 1.49,
+            "y": 0.71,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "4": {
+            "x": 2,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 26,
+            "height": 33
+          },
+          "5": {
+            "x": 0.99,
+            "y": 0.7,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "6": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "7": {
+            "x": 1.01,
+            "y": -0.3,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "8": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "9": {
+            "x": 1.5,
+            "y": 0.21,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          }
+        },
+        "2": {
+          "0": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "1": {
+            "x": 0.98,
+            "y": 2.2,
+            "rotation": -89.3,
+            "width": 16,
+            "height": 33
+          },
+          "2": {
+            "x": 2.49,
+            "y": 0.72,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "3": {
+            "x": 1.49,
+            "y": 0.71,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "4": {
+            "x": 2,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 26,
+            "height": 33
+          },
+          "5": {
+            "x": 0.99,
+            "y": 0.7,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "6": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "7": {
+            "x": 1.01,
+            "y": -0.3,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "8": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "9": {
+            "x": 1.5,
+            "y": 0.21,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          }
+        },
+        "bg": {
+          "bg": {
+            "x": 116,
+            "y": -159.5,
+            "width": 220,
+            "height": 285
+          }
+        },
+        "guandi": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi10": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi11": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi12": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi13": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi14": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi19": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi2": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi20": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi5": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi8": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "guandi9": {
+          "guandi": {
+            "width": 8,
+            "height": 8
+          }
+        },
+        "q1": {
+          "q1": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q2": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q3": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q4": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q5": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q6": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          }
+        },
+        "q2": {
+          "q1": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q2": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q3": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q4": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q5": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q6": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          }
+        },
+        "q3": {
+          "q1": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q2": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q3": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q4": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q5": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q6": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          }
+        },
+        "tx": {
+          "texiao/1": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/2": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/3": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/4": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/5": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/6": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/7": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/8": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/9": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/10": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/11": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/12": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/13": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/14": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/15": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/16": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/17": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/18": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/19": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/20": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/21": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/22": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/23": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/24": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/25": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/26": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/27": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/28": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/29": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/30": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/31": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/32": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/33": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/34": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/35": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/36": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/37": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/38": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/39": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/40": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/41": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/42": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/43": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/44": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/45": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/46": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/47": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/48": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/49": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/50": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/51": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/52": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/53": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/54": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/55": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/56": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/57": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/58": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/59": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/60": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/61": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/62": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/63": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/64": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/65": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/66": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/67": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/68": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/69": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/70": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/71": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/72": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/73": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/74": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/75": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/76": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/77": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/78": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/79": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/80": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/81": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/82": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/83": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/84": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/85": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/86": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/87": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/88": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/89": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/90": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          }
+        },
+        "tx2": {
+          "texiao/1": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/2": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/3": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/4": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/5": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/6": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/7": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/8": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/9": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/10": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/11": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/12": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/13": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/14": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/15": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/16": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/17": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/18": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/19": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/20": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/21": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/22": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/23": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/24": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/25": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/26": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/27": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/28": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/29": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/30": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/31": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/32": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/33": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/34": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/35": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/36": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/37": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/38": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/39": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/40": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/41": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/42": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/43": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/44": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/45": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/46": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/47": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/48": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/49": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/50": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/51": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/52": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/53": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/54": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/55": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/56": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/57": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/58": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/59": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/60": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/61": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/62": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/63": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/64": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/65": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/66": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/67": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/68": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/69": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/70": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/71": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/72": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/73": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/74": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/75": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/76": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/77": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/78": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/79": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/80": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/81": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/82": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/83": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/84": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/85": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/86": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/87": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/88": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/89": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/90": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          }
+        },
+        "tx3": {
+          "texiao/1": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/2": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/3": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/4": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/5": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/6": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/7": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/8": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/9": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/10": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/11": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/12": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/13": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/14": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/15": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/16": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/17": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/18": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/19": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/20": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/21": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/22": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/23": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/24": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/25": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/26": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/27": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/28": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/29": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/30": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/31": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/32": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/33": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/34": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/35": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/36": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/37": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/38": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/39": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/40": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/41": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/42": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/43": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/44": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/45": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/46": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/47": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/48": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/49": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/50": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/51": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/52": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/53": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/54": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/55": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/56": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/57": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/58": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/59": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/60": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/61": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/62": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/63": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/64": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/65": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/66": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/67": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/68": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/69": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/70": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/71": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/72": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/73": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/74": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/75": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/76": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/77": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/78": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/79": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/80": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/81": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/82": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/83": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/84": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/85": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/86": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/87": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/88": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/89": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/90": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          }
+        },
+        "yizi2": {
+          "yizi2": {
+            "x": -0.37,
+            "y": 1.11,
+            "rotation": -12.09,
+            "width": 46,
+            "height": 23
+          }
+        },
+        "yizi3": {
+          "yizi3": {
+            "x": -0.38,
+            "y": 0.22,
+            "rotation": -176.42,
+            "width": 93,
+            "height": 51
+          }
+        },
+        "yizi4": {
+          "yizi2": {
+            "x": -0.37,
+            "y": 1.11,
+            "rotation": -12.09,
+            "width": 46,
+            "height": 23
+          }
+        },
+        "zi": {
+          "zi": {
+            "x": 5.14,
+            "y": 0.03,
+            "rotation": -2.86,
+            "width": 122,
+            "height": 41
+          }
+        },
+        "zi2": {
+          "zi": {
+            "x": 5.14,
+            "y": 0.03,
+            "rotation": -2.86,
+            "width": 122,
+            "height": 41
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1"
+              }
+            ]
+          },
+          "2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "2"
+              }
+            ]
+          },
+          "guandi": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 2.2667,
+                "color": "ffffffb8"
+              },
+              {
+                "time": 4,
+                "color": "ffffff77"
+              },
+              {
+                "time": 4.5667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "guandi2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1333,
+                "color": "ffffff77"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffffc9"
+              },
+              {
+                "time": 4.5667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 5.1333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "guandi5": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.2667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 4.5667,
+                "color": "ffffffb6"
+              },
+              {
+                "time": 6.2667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 6.8333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "guandi8": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff77"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.5667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 6.2667,
+                "color": "ffffffa2"
+              },
+              {
+                "time": 8,
+                "color": "ffffff77"
+              }
+            ]
+          },
+          "guandi9": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff5e"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 1.1333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 5.1333,
+                "color": "ffffff77"
+              },
+              {
+                "time": 6.8333,
+                "color": "ffffff7a"
+              },
+              {
+                "time": 8,
+                "color": "ffffff6e"
+              }
+            ]
+          },
+          "guandi10": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff70"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff77"
+              },
+              {
+                "time": 1.7667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 5.1333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 5.7,
+                "color": "ffffff77"
+              },
+              {
+                "time": 7.4,
+                "color": "ffffffa9"
+              },
+              {
+                "time": 8,
+                "color": "ffffff70"
+              }
+            ]
+          },
+          "guandi11": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffa8"
+              },
+              {
+                "time": 1.7667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 5.7,
+                "color": "ffffff00"
+              },
+              {
+                "time": 6.2667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 8,
+                "color": "ffffffa8"
+              }
+            ]
+          },
+          "guandi12": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff8d"
+              },
+              {
+                "time": 0.6333,
+                "color": "ffffff33"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffff77"
+              },
+              {
+                "time": 2.9,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.2667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 6.8333,
+                "color": "ffffff77"
+              },
+              {
+                "time": 8,
+                "color": "ffffff8d"
+              }
+            ]
+          },
+          "guandi13": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffa5"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff72"
+              },
+              {
+                "time": 2.9,
+                "color": "ffffff77"
+              },
+              {
+                "time": 3.4667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 7.4,
+                "color": "ffffff77"
+              },
+              {
+                "time": 8,
+                "color": "ffffff5d"
+              }
+            ]
+          },
+          "guandi14": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff77"
+              },
+              {
+                "time": 1.7667,
+                "color": "ffffff33"
+              },
+              {
+                "time": 3.4667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 7.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 8,
+                "color": "ffffff77"
+              }
+            ]
+          },
+          "guandi19": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.9,
+                "color": "ffffff77"
+              },
+              {
+                "time": 4.6333,
+                "color": "ffffff33"
+              },
+              {
+                "time": 6.3333,
+                "color": "ffffff77"
+              },
+              {
+                "time": 6.9,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "guandi20": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.9,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3.4667,
+                "color": "ffffff77"
+              },
+              {
+                "time": 5.2,
+                "color": "ffffffa2"
+              },
+              {
+                "time": 6.9,
+                "color": "ffffff81"
+              },
+              {
+                "time": 7.4667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "q2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q1"
+              }
+            ]
+          },
+          "q3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q2"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.2333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.3667,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.5,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.6333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/16"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/17"
+              },
+              {
+                "time": 0.7667,
+                "name": "texiao/18"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/19"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 0.9,
+                "name": "texiao/21"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.0333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.1667,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.2333,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.3,
+                "name": "texiao/30"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/31"
+              },
+              {
+                "time": 1.3667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 1.4333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/34"
+              },
+              {
+                "time": 1.5,
+                "name": "texiao/35"
+              },
+              {
+                "time": 1.5667,
+                "name": "texiao/36"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/37"
+              },
+              {
+                "time": 1.6333,
+                "name": "texiao/38"
+              },
+              {
+                "time": 1.7,
+                "name": "texiao/39"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/40"
+              },
+              {
+                "time": 1.7667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 1.8333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/43"
+              },
+              {
+                "time": 1.9,
+                "name": "texiao/44"
+              },
+              {
+                "time": 1.9667,
+                "name": "texiao/45"
+              },
+              {
+                "time": 2,
+                "name": "texiao/46"
+              },
+              {
+                "time": 2.0333,
+                "name": "texiao/47"
+              },
+              {
+                "time": 2.1,
+                "name": "texiao/48"
+              },
+              {
+                "time": 2.1667,
+                "name": "texiao/49"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/50"
+              },
+              {
+                "time": 2.2333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 2.3,
+                "name": "texiao/52"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/53"
+              },
+              {
+                "time": 2.3667,
+                "name": "texiao/54"
+              },
+              {
+                "time": 2.4333,
+                "name": "texiao/55"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 2.5,
+                "name": "texiao/57"
+              },
+              {
+                "time": 2.5667,
+                "name": "texiao/58"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/59"
+              },
+              {
+                "time": 2.6333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 2.7,
+                "name": "texiao/61"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/62"
+              },
+              {
+                "time": 2.7667,
+                "name": "texiao/63"
+              },
+              {
+                "time": 2.8333,
+                "name": "texiao/64"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 2.9,
+                "name": "texiao/66"
+              },
+              {
+                "time": 2.9667,
+                "name": "texiao/67"
+              },
+              {
+                "time": 3,
+                "name": "texiao/68"
+              },
+              {
+                "time": 3.0333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 3.1,
+                "name": "texiao/70"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/71"
+              },
+              {
+                "time": 3.1667,
+                "name": "texiao/72"
+              },
+              {
+                "time": 3.2333,
+                "name": "texiao/73"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 3.3,
+                "name": "texiao/75"
+              },
+              {
+                "time": 3.3667,
+                "name": "texiao/76"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/77"
+              },
+              {
+                "time": 3.4333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/79"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/80"
+              },
+              {
+                "time": 3.5667,
+                "name": "texiao/81"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/82"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 3.7,
+                "name": "texiao/84"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/85"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/86"
+              },
+              {
+                "time": 3.8333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/88"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/89"
+              },
+              {
+                "time": 3.9667,
+                "name": "texiao/90"
+              },
+              {
+                "time": 4,
+                "name": "texiao/1"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 4.1,
+                "name": "texiao/3"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/4"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/5"
+              },
+              {
+                "time": 4.2333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/7"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/8"
+              },
+              {
+                "time": 4.3667,
+                "name": "texiao/9"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/10"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 4.5,
+                "name": "texiao/12"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/13"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/14"
+              },
+              {
+                "time": 4.6333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/16"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/17"
+              },
+              {
+                "time": 4.7667,
+                "name": "texiao/18"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/19"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 4.9,
+                "name": "texiao/21"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/22"
+              },
+              {
+                "time": 5,
+                "name": "texiao/23"
+              },
+              {
+                "time": 5.0333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/25"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/26"
+              },
+              {
+                "time": 5.1667,
+                "name": "texiao/27"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/28"
+              },
+              {
+                "time": 5.2333,
+                "name": "texiao/29"
+              },
+              {
+                "time": 5.3,
+                "name": "texiao/30"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/31"
+              },
+              {
+                "time": 5.3667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 5.4333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/34"
+              },
+              {
+                "time": 5.5,
+                "name": "texiao/35"
+              },
+              {
+                "time": 5.5667,
+                "name": "texiao/36"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/37"
+              },
+              {
+                "time": 5.6333,
+                "name": "texiao/38"
+              },
+              {
+                "time": 5.7,
+                "name": "texiao/39"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/40"
+              },
+              {
+                "time": 5.7667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 5.8333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/43"
+              },
+              {
+                "time": 5.9,
+                "name": "texiao/44"
+              },
+              {
+                "time": 5.9667,
+                "name": "texiao/45"
+              },
+              {
+                "time": 6,
+                "name": "texiao/46"
+              },
+              {
+                "time": 6.0333,
+                "name": "texiao/47"
+              },
+              {
+                "time": 6.1,
+                "name": "texiao/48"
+              },
+              {
+                "time": 6.1667,
+                "name": "texiao/49"
+              },
+              {
+                "time": 6.2,
+                "name": "texiao/50"
+              },
+              {
+                "time": 6.2333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 6.3,
+                "name": "texiao/52"
+              },
+              {
+                "time": 6.3333,
+                "name": "texiao/53"
+              },
+              {
+                "time": 6.3667,
+                "name": "texiao/54"
+              },
+              {
+                "time": 6.4333,
+                "name": "texiao/55"
+              },
+              {
+                "time": 6.4667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 6.5,
+                "name": "texiao/57"
+              },
+              {
+                "time": 6.5667,
+                "name": "texiao/58"
+              },
+              {
+                "time": 6.6,
+                "name": "texiao/59"
+              },
+              {
+                "time": 6.6333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 6.7,
+                "name": "texiao/61"
+              },
+              {
+                "time": 6.7333,
+                "name": "texiao/62"
+              },
+              {
+                "time": 6.7667,
+                "name": "texiao/63"
+              },
+              {
+                "time": 6.8333,
+                "name": "texiao/64"
+              },
+              {
+                "time": 6.8667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 6.9,
+                "name": "texiao/66"
+              },
+              {
+                "time": 6.9667,
+                "name": "texiao/67"
+              },
+              {
+                "time": 7,
+                "name": "texiao/68"
+              },
+              {
+                "time": 7.0333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 7.1,
+                "name": "texiao/70"
+              },
+              {
+                "time": 7.1333,
+                "name": "texiao/71"
+              },
+              {
+                "time": 7.1667,
+                "name": "texiao/72"
+              },
+              {
+                "time": 7.2333,
+                "name": "texiao/73"
+              },
+              {
+                "time": 7.2667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 7.3,
+                "name": "texiao/75"
+              },
+              {
+                "time": 7.3667,
+                "name": "texiao/76"
+              },
+              {
+                "time": 7.4,
+                "name": "texiao/77"
+              },
+              {
+                "time": 7.4333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 7.4667,
+                "name": "texiao/79"
+              },
+              {
+                "time": 7.5333,
+                "name": "texiao/80"
+              },
+              {
+                "time": 7.5667,
+                "name": "texiao/81"
+              },
+              {
+                "time": 7.6,
+                "name": "texiao/82"
+              },
+              {
+                "time": 7.6667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 7.7,
+                "name": "texiao/84"
+              },
+              {
+                "time": 7.7333,
+                "name": "texiao/85"
+              },
+              {
+                "time": 7.8,
+                "name": "texiao/86"
+              },
+              {
+                "time": 7.8333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 7.8667,
+                "name": "texiao/88"
+              },
+              {
+                "time": 7.9333,
+                "name": "texiao/89"
+              },
+              {
+                "time": 7.9667,
+                "name": "texiao/90"
+              }
+            ]
+          },
+          "tx2": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.2333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.3667,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.5,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.6333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/16"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/17"
+              },
+              {
+                "time": 0.7667,
+                "name": "texiao/18"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/19"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 0.9,
+                "name": "texiao/21"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.0333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.1667,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.2333,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.3,
+                "name": "texiao/30"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/31"
+              },
+              {
+                "time": 1.3667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 1.4333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/34"
+              },
+              {
+                "time": 1.5,
+                "name": "texiao/35"
+              },
+              {
+                "time": 1.5667,
+                "name": "texiao/36"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/37"
+              },
+              {
+                "time": 1.6333,
+                "name": "texiao/38"
+              },
+              {
+                "time": 1.7,
+                "name": "texiao/39"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/40"
+              },
+              {
+                "time": 1.7667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 1.8333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/43"
+              },
+              {
+                "time": 1.9,
+                "name": "texiao/44"
+              },
+              {
+                "time": 1.9667,
+                "name": "texiao/45"
+              },
+              {
+                "time": 2,
+                "name": "texiao/46"
+              },
+              {
+                "time": 2.0333,
+                "name": "texiao/47"
+              },
+              {
+                "time": 2.1,
+                "name": "texiao/48"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/49"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/50"
+              },
+              {
+                "time": 2.2333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 2.3,
+                "name": "texiao/52"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/53"
+              },
+              {
+                "time": 2.3667,
+                "name": "texiao/54"
+              },
+              {
+                "time": 2.4333,
+                "name": "texiao/55"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 2.5,
+                "name": "texiao/57"
+              },
+              {
+                "time": 2.5667,
+                "name": "texiao/58"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/59"
+              },
+              {
+                "time": 2.6333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 2.7,
+                "name": "texiao/61"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/62"
+              },
+              {
+                "time": 2.7667,
+                "name": "texiao/63"
+              },
+              {
+                "time": 2.8333,
+                "name": "texiao/64"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 2.9,
+                "name": "texiao/66"
+              },
+              {
+                "time": 2.9667,
+                "name": "texiao/67"
+              },
+              {
+                "time": 3,
+                "name": "texiao/68"
+              },
+              {
+                "time": 3.0333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 3.1,
+                "name": "texiao/70"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/71"
+              },
+              {
+                "time": 3.1667,
+                "name": "texiao/72"
+              },
+              {
+                "time": 3.2333,
+                "name": "texiao/73"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 3.3,
+                "name": "texiao/75"
+              },
+              {
+                "time": 3.3667,
+                "name": "texiao/76"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/77"
+              },
+              {
+                "time": 3.4333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/79"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/80"
+              },
+              {
+                "time": 3.5667,
+                "name": "texiao/81"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/82"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 3.7,
+                "name": "texiao/84"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/85"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/86"
+              },
+              {
+                "time": 3.8333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/88"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/89"
+              },
+              {
+                "time": 3.9667,
+                "name": "texiao/90"
+              },
+              {
+                "time": 4,
+                "name": "texiao/1"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 4.1,
+                "name": "texiao/3"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/4"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/5"
+              },
+              {
+                "time": 4.2333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/7"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/8"
+              },
+              {
+                "time": 4.3667,
+                "name": "texiao/9"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/10"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 4.5,
+                "name": "texiao/12"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/13"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/14"
+              },
+              {
+                "time": 4.6333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/16"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/17"
+              },
+              {
+                "time": 4.7667,
+                "name": "texiao/18"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/19"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 4.9,
+                "name": "texiao/21"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/22"
+              },
+              {
+                "time": 5,
+                "name": "texiao/23"
+              },
+              {
+                "time": 5.0333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/25"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/26"
+              },
+              {
+                "time": 5.1667,
+                "name": "texiao/27"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/28"
+              },
+              {
+                "time": 5.2333,
+                "name": "texiao/29"
+              },
+              {
+                "time": 5.3,
+                "name": "texiao/30"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/31"
+              },
+              {
+                "time": 5.3667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 5.4333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/34"
+              },
+              {
+                "time": 5.5,
+                "name": "texiao/35"
+              },
+              {
+                "time": 5.5667,
+                "name": "texiao/36"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/37"
+              },
+              {
+                "time": 5.6333,
+                "name": "texiao/38"
+              },
+              {
+                "time": 5.7,
+                "name": "texiao/39"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/40"
+              },
+              {
+                "time": 5.7667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 5.8333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/43"
+              },
+              {
+                "time": 5.9,
+                "name": "texiao/44"
+              },
+              {
+                "time": 5.9667,
+                "name": "texiao/45"
+              },
+              {
+                "time": 6,
+                "name": "texiao/46"
+              },
+              {
+                "time": 6.0333,
+                "name": "texiao/47"
+              },
+              {
+                "time": 6.1,
+                "name": "texiao/48"
+              },
+              {
+                "time": 6.1333,
+                "name": "texiao/49"
+              },
+              {
+                "time": 6.2,
+                "name": "texiao/50"
+              },
+              {
+                "time": 6.2333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 6.3,
+                "name": "texiao/52"
+              },
+              {
+                "time": 6.3333,
+                "name": "texiao/53"
+              },
+              {
+                "time": 6.3667,
+                "name": "texiao/54"
+              },
+              {
+                "time": 6.4333,
+                "name": "texiao/55"
+              },
+              {
+                "time": 6.4667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 6.5,
+                "name": "texiao/57"
+              },
+              {
+                "time": 6.5667,
+                "name": "texiao/58"
+              },
+              {
+                "time": 6.6,
+                "name": "texiao/59"
+              },
+              {
+                "time": 6.6333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 6.7,
+                "name": "texiao/61"
+              },
+              {
+                "time": 6.7333,
+                "name": "texiao/62"
+              },
+              {
+                "time": 6.7667,
+                "name": "texiao/63"
+              },
+              {
+                "time": 6.8333,
+                "name": "texiao/64"
+              },
+              {
+                "time": 6.8667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 6.9,
+                "name": "texiao/66"
+              },
+              {
+                "time": 6.9667,
+                "name": "texiao/67"
+              },
+              {
+                "time": 7,
+                "name": "texiao/68"
+              },
+              {
+                "time": 7.0333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 7.1,
+                "name": "texiao/70"
+              },
+              {
+                "time": 7.1333,
+                "name": "texiao/71"
+              },
+              {
+                "time": 7.1667,
+                "name": "texiao/72"
+              },
+              {
+                "time": 7.2333,
+                "name": "texiao/73"
+              },
+              {
+                "time": 7.2667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 7.3,
+                "name": "texiao/75"
+              },
+              {
+                "time": 7.3667,
+                "name": "texiao/76"
+              },
+              {
+                "time": 7.4,
+                "name": "texiao/77"
+              },
+              {
+                "time": 7.4333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 7.4667,
+                "name": "texiao/79"
+              },
+              {
+                "time": 7.5333,
+                "name": "texiao/80"
+              },
+              {
+                "time": 7.5667,
+                "name": "texiao/81"
+              },
+              {
+                "time": 7.6,
+                "name": "texiao/82"
+              },
+              {
+                "time": 7.6667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 7.7,
+                "name": "texiao/84"
+              },
+              {
+                "time": 7.7333,
+                "name": "texiao/85"
+              },
+              {
+                "time": 7.8,
+                "name": "texiao/86"
+              },
+              {
+                "time": 7.8333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 7.8667,
+                "name": "texiao/88"
+              },
+              {
+                "time": 7.9333,
+                "name": "texiao/89"
+              },
+              {
+                "time": 7.9667,
+                "name": "texiao/90"
+              }
+            ]
+          },
+          "tx3": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.2333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.3667,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.5,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.6333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/16"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/17"
+              },
+              {
+                "time": 0.7667,
+                "name": "texiao/18"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/19"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 0.9,
+                "name": "texiao/21"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.0333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.1667,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.2333,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.3,
+                "name": "texiao/30"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/31"
+              },
+              {
+                "time": 1.3667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 1.4333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/34"
+              },
+              {
+                "time": 1.5,
+                "name": "texiao/35"
+              },
+              {
+                "time": 1.5667,
+                "name": "texiao/36"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/37"
+              },
+              {
+                "time": 1.6333,
+                "name": "texiao/38"
+              },
+              {
+                "time": 1.7,
+                "name": "texiao/39"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/40"
+              },
+              {
+                "time": 1.7667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 1.8333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/43"
+              },
+              {
+                "time": 1.9,
+                "name": "texiao/44"
+              },
+              {
+                "time": 1.9667,
+                "name": "texiao/45"
+              },
+              {
+                "time": 2,
+                "name": "texiao/46"
+              },
+              {
+                "time": 2.0333,
+                "name": "texiao/47"
+              },
+              {
+                "time": 2.1,
+                "name": "texiao/48"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/49"
+              },
+              {
+                "time": 2.1667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 2.2333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/52"
+              },
+              {
+                "time": 2.3,
+                "name": "texiao/53"
+              },
+              {
+                "time": 2.3667,
+                "name": "texiao/54"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/55"
+              },
+              {
+                "time": 2.4333,
+                "name": "texiao/56"
+              },
+              {
+                "time": 2.5,
+                "name": "texiao/57"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/58"
+              },
+              {
+                "time": 2.5667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 2.6333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/61"
+              },
+              {
+                "time": 2.7,
+                "name": "texiao/62"
+              },
+              {
+                "time": 2.7667,
+                "name": "texiao/63"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/64"
+              },
+              {
+                "time": 2.8333,
+                "name": "texiao/65"
+              },
+              {
+                "time": 2.9,
+                "name": "texiao/66"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/67"
+              },
+              {
+                "time": 2.9667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 3.0333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/70"
+              },
+              {
+                "time": 3.1,
+                "name": "texiao/71"
+              },
+              {
+                "time": 3.1667,
+                "name": "texiao/72"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/73"
+              },
+              {
+                "time": 3.2333,
+                "name": "texiao/74"
+              },
+              {
+                "time": 3.3,
+                "name": "texiao/75"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/76"
+              },
+              {
+                "time": 3.3667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 3.4333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/79"
+              },
+              {
+                "time": 3.5,
+                "name": "texiao/80"
+              },
+              {
+                "time": 3.5667,
+                "name": "texiao/81"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/82"
+              },
+              {
+                "time": 3.6333,
+                "name": "texiao/83"
+              },
+              {
+                "time": 3.7,
+                "name": "texiao/84"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/85"
+              },
+              {
+                "time": 3.7667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 3.8333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/88"
+              },
+              {
+                "time": 3.9,
+                "name": "texiao/89"
+              },
+              {
+                "time": 3.9667,
+                "name": "texiao/90"
+              },
+              {
+                "time": 4,
+                "name": "texiao/1"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 4.1,
+                "name": "texiao/3"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/4"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/5"
+              },
+              {
+                "time": 4.2333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/7"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/8"
+              },
+              {
+                "time": 4.3667,
+                "name": "texiao/9"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/10"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 4.5,
+                "name": "texiao/12"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/13"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/14"
+              },
+              {
+                "time": 4.6333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/16"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/17"
+              },
+              {
+                "time": 4.7667,
+                "name": "texiao/18"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/19"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 4.9,
+                "name": "texiao/21"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/22"
+              },
+              {
+                "time": 5,
+                "name": "texiao/23"
+              },
+              {
+                "time": 5.0333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/25"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/26"
+              },
+              {
+                "time": 5.1667,
+                "name": "texiao/27"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/28"
+              },
+              {
+                "time": 5.2333,
+                "name": "texiao/29"
+              },
+              {
+                "time": 5.3,
+                "name": "texiao/30"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/31"
+              },
+              {
+                "time": 5.3667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 5.4333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/34"
+              },
+              {
+                "time": 5.5,
+                "name": "texiao/35"
+              },
+              {
+                "time": 5.5667,
+                "name": "texiao/36"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/37"
+              },
+              {
+                "time": 5.6333,
+                "name": "texiao/38"
+              },
+              {
+                "time": 5.7,
+                "name": "texiao/39"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/40"
+              },
+              {
+                "time": 5.7667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 5.8333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/43"
+              },
+              {
+                "time": 5.9,
+                "name": "texiao/44"
+              },
+              {
+                "time": 5.9667,
+                "name": "texiao/45"
+              },
+              {
+                "time": 6,
+                "name": "texiao/46"
+              },
+              {
+                "time": 6.0333,
+                "name": "texiao/47"
+              },
+              {
+                "time": 6.1,
+                "name": "texiao/48"
+              },
+              {
+                "time": 6.1333,
+                "name": "texiao/49"
+              },
+              {
+                "time": 6.1667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 6.2333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 6.2667,
+                "name": "texiao/52"
+              },
+              {
+                "time": 6.3,
+                "name": "texiao/53"
+              },
+              {
+                "time": 6.3667,
+                "name": "texiao/54"
+              },
+              {
+                "time": 6.4,
+                "name": "texiao/55"
+              },
+              {
+                "time": 6.4333,
+                "name": "texiao/56"
+              },
+              {
+                "time": 6.5,
+                "name": "texiao/57"
+              },
+              {
+                "time": 6.5333,
+                "name": "texiao/58"
+              },
+              {
+                "time": 6.5667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 6.6333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 6.6667,
+                "name": "texiao/61"
+              },
+              {
+                "time": 6.7,
+                "name": "texiao/62"
+              },
+              {
+                "time": 6.7667,
+                "name": "texiao/63"
+              },
+              {
+                "time": 6.8,
+                "name": "texiao/64"
+              },
+              {
+                "time": 6.8333,
+                "name": "texiao/65"
+              },
+              {
+                "time": 6.9,
+                "name": "texiao/66"
+              },
+              {
+                "time": 6.9333,
+                "name": "texiao/67"
+              },
+              {
+                "time": 6.9667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 7.0333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 7.0667,
+                "name": "texiao/70"
+              },
+              {
+                "time": 7.1,
+                "name": "texiao/71"
+              },
+              {
+                "time": 7.1667,
+                "name": "texiao/72"
+              },
+              {
+                "time": 7.2,
+                "name": "texiao/73"
+              },
+              {
+                "time": 7.2333,
+                "name": "texiao/74"
+              },
+              {
+                "time": 7.3,
+                "name": "texiao/75"
+              },
+              {
+                "time": 7.3333,
+                "name": "texiao/76"
+              },
+              {
+                "time": 7.3667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 7.4333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 7.4667,
+                "name": "texiao/79"
+              },
+              {
+                "time": 7.5,
+                "name": "texiao/80"
+              },
+              {
+                "time": 7.5667,
+                "name": "texiao/81"
+              },
+              {
+                "time": 7.6,
+                "name": "texiao/82"
+              },
+              {
+                "time": 7.6333,
+                "name": "texiao/83"
+              },
+              {
+                "time": 7.7,
+                "name": "texiao/84"
+              },
+              {
+                "time": 7.7333,
+                "name": "texiao/85"
+              },
+              {
+                "time": 7.7667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 7.8333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 7.8667,
+                "name": "texiao/88"
+              },
+              {
+                "time": 7.9,
+                "name": "texiao/89"
+              },
+              {
+                "time": 7.9667,
+                "name": "texiao/90"
+              }
+            ]
+          },
+          "zi2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2,
+                "color": "ffffff64"
+              },
+              {
+                "time": 4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 6,
+                "color": "ffffff64"
+              },
+              {
+                "time": 8,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -20.83
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -3.87,
+                "y": 0.89
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.667,
+                "y": -1
+              }
+            ]
+          },
+          "yizi3": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -9.44,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 0,
+                "y": -9.44,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": -9.44
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.948,
+                "y": 0.948,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 0.948,
+                "y": 0.948,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 0.948,
+                "y": 0.948
+              }
+            ]
+          },
+          "yizi2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 6.13,
+                "y": 9.81,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 2,
+                "x": -2.97,
+                "y": -1.14,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 6.13,
+                "y": 9.81,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 6,
+                "x": -2.97,
+                "y": -1.14,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 6.13,
+                "y": 9.81
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.108,
+                "y": 1.108,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 0.89,
+                "y": 0.89,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 1.108,
+                "y": 1.108,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 0.89,
+                "y": 0.89,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 1.108,
+                "y": 1.108
+              }
+            ]
+          },
+          "bone": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 4.5667,
+                "x": 0,
+                "y": 214.27
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 2.2667,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 4,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 4.5667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone2": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 5.1333,
+                "x": 0,
+                "y": 244.53
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.1333,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 2.8667,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 4.5667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 5.1333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone5": {
+            "translate": [
+              {
+                "time": 2.2667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 6.8333,
+                "x": 0,
+                "y": 153.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 2.2667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.8667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 4.5667,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 6.2667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 6.8333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone8": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 139.93
+              },
+              {
+                "time": 0.5667,
+                "x": 0,
+                "y": 218.59
+              },
+              {
+                "time": 4,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 139.93
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 0.5667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 4.5667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 6.2667,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 8,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "bone9": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 121.8
+              },
+              {
+                "time": 1.1333,
+                "x": 0,
+                "y": 195.54
+              },
+              {
+                "time": 4.5667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 121.8
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.533,
+                "y": 0.533
+              },
+              {
+                "time": 0.5667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 1.1333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 4.5667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 5.1333,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 6.8333,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 8,
+                "x": 0.533,
+                "y": 0.533
+              }
+            ]
+          },
+          "bone10": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 80.6
+              },
+              {
+                "time": 1.7667,
+                "x": 0,
+                "y": 149.43
+              },
+              {
+                "time": 5.1333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 80.6
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.467,
+                "y": 0.467
+              },
+              {
+                "time": 1.2,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 1.7667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 5.1333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 5.7,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 7.4,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 8,
+                "x": 0.467,
+                "y": 0.467
+              }
+            ]
+          },
+          "bone11": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 72.55
+              },
+              {
+                "time": 2.3333,
+                "x": 0,
+                "y": 126.37
+              },
+              {
+                "time": 5.7,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 72.55
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 1.7667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 2.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 5.7,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 6.2667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 8,
+                "x": 0.4,
+                "y": 0.4
+              }
+            ]
+          },
+          "bone12": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 70.26
+              },
+              {
+                "time": 2.9,
+                "x": 0,
+                "y": 156.63
+              },
+              {
+                "time": 6.2667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 70.26
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.467,
+                "y": 0.467
+              },
+              {
+                "time": 0.6333,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 2.3333,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 2.9,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.2667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 6.8333,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 8,
+                "x": 0.467,
+                "y": 0.467
+              }
+            ]
+          },
+          "bone13": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 67.98
+              },
+              {
+                "time": 3.4667,
+                "x": 0,
+                "y": 124.93
+              },
+              {
+                "time": 6.8333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 67.98
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.533,
+                "y": 0.533
+              },
+              {
+                "time": 1.2,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 2.9,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 3.4667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.8333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 7.4,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 8,
+                "x": 0.533,
+                "y": 0.533
+              }
+            ]
+          },
+          "bone14": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 18.75
+              },
+              {
+                "time": 4.0333,
+                "x": 0,
+                "y": 155.19
+              },
+              {
+                "time": 7.4,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 18.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 1.7667,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 3.4667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 4.0333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 7.4,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 0.6,
+                "y": 0.6
+              }
+            ]
+          },
+          "bone19": {
+            "translate": [
+              {
+                "time": 2.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 6.9,
+                "x": 0,
+                "y": 109.08
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 164.27
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.9,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 4.6333,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 6.3333,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 6.9,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone20": {
+            "translate": [
+              {
+                "time": 2.9,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 7.4667,
+                "x": 0,
+                "y": 139.34
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 188.77
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 2.9,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 3.4667,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 5.2,
+                "x": 0.4,
+                "y": 0.4
+              },
+              {
+                "time": 6.9,
+                "x": 0.6,
+                "y": 0.6
+              },
+              {
+                "time": 7.4667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 8,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bone3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "angle": 7,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "angle": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "angle": 7,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": -14.17,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 0,
+                "y": -14.17,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone4": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 20.65,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "angle": -9.6,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "angle": 20.65,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "angle": -9.6,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "angle": 20.65
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": -3.29,
+                "y": -11.98,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 14.23,
+                "y": 3.29,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": -3.29,
+                "y": -11.98,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 14.23,
+                "y": 3.29,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": -3.29,
+                "y": -11.98
+              }
+            ]
+          },
+          "bone6": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 20.65,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "angle": 0.93,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "angle": 20.65,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "angle": 0.93,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "angle": 20.65
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 19.88,
+                "y": -26.07,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 0.74,
+                "y": -13.99,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 19.88,
+                "y": -26.07,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 0.74,
+                "y": -13.99,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 19.88,
+                "y": -26.07
+              }
+            ]
+          },
+          "yizi4": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 6.13,
+                "y": 9.81,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 2,
+                "x": -2.97,
+                "y": -1.14,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 6.13,
+                "y": 9.81,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 6,
+                "x": -2.97,
+                "y": -1.14,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 6.13,
+                "y": 9.81
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.108,
+                "y": 1.108,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2,
+                "x": 0.89,
+                "y": 0.89,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4,
+                "x": 1.108,
+                "y": 1.108,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6,
+                "x": 0.89,
+                "y": 0.89,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8,
+                "x": 1.108,
+                "y": 1.108
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nwingo.png\nsize: 2048,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0\n  rotate: false\n  xy: 338, 23\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\n1\n  rotate: true\n  xy: 2, 6\n  size: 16, 33\n  orig: 16, 33\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 584, 66\n  size: 23, 34\n  orig: 23, 34\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 1240, 230\n  size: 23, 34\n  orig: 23, 34\n  offset: 0, 0\n  index: -1\n4\n  rotate: false\n  xy: 556, 231\n  size: 26, 33\n  orig: 26, 33\n  offset: 0, 0\n  index: -1\n5\n  rotate: true\n  xy: 50, 24\n  size: 23, 33\n  orig: 23, 33\n  offset: 0, 0\n  index: -1\n6\n  rotate: false\n  xy: 478, 433\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\n7\n  rotate: false\n  xy: 364, 24\n  size: 23, 33\n  orig: 23, 33\n  offset: 0, 0\n  index: -1\n8\n  rotate: false\n  xy: 1996, 476\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\n9\n  rotate: false\n  xy: 2022, 476\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\nbg\n  rotate: false\n  xy: 2, 225\n  size: 220, 285\n  orig: 220, 285\n  offset: 0, 0\n  index: -1\nguandi\n  rotate: false\n  xy: 224, 244\n  size: 8, 8\n  orig: 8, 8\n  offset: 0, 0\n  index: -1\nq1\n  rotate: false\n  xy: 2, 137\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq2\n  rotate: false\n  xy: 224, 424\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq3\n  rotate: false\n  xy: 2, 49\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq4\n  rotate: false\n  xy: 88, 137\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq5\n  rotate: false\n  xy: 224, 336\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq6\n  rotate: false\n  xy: 310, 424\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\ntexiao/1\n  rotate: false\n  xy: 88, 55\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/10\n  rotate: false\n  xy: 848, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/11\n  rotate: false\n  xy: 930, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/12\n  rotate: false\n  xy: 1012, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/13\n  rotate: false\n  xy: 1094, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/14\n  rotate: false\n  xy: 1176, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/15\n  rotate: false\n  xy: 1258, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/16\n  rotate: false\n  xy: 1340, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/17\n  rotate: false\n  xy: 1422, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/18\n  rotate: false\n  xy: 1504, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/19\n  rotate: false\n  xy: 1586, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/2\n  rotate: false\n  xy: 224, 254\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/20\n  rotate: false\n  xy: 1668, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/21\n  rotate: false\n  xy: 1750, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/22\n  rotate: false\n  xy: 1832, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/23\n  rotate: false\n  xy: 1914, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/24\n  rotate: false\n  xy: 392, 305\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/25\n  rotate: false\n  xy: 310, 260\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/26\n  rotate: false\n  xy: 392, 223\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/27\n  rotate: false\n  xy: 256, 172\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/28\n  rotate: false\n  xy: 256, 90\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/29\n  rotate: false\n  xy: 174, 61\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/3\n  rotate: false\n  xy: 310, 342\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/30\n  rotate: false\n  xy: 256, 8\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/31\n  rotate: false\n  xy: 338, 141\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/32\n  rotate: false\n  xy: 338, 59\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/33\n  rotate: false\n  xy: 420, 141\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/34\n  rotate: false\n  xy: 420, 59\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/35\n  rotate: false\n  xy: 474, 305\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/36\n  rotate: false\n  xy: 474, 223\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/37\n  rotate: false\n  xy: 502, 141\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/38\n  rotate: false\n  xy: 502, 59\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/39\n  rotate: false\n  xy: 556, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/4\n  rotate: false\n  xy: 174, 143\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/40\n  rotate: false\n  xy: 556, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/41\n  rotate: false\n  xy: 638, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/42\n  rotate: false\n  xy: 638, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/43\n  rotate: false\n  xy: 720, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/44\n  rotate: false\n  xy: 720, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/45\n  rotate: false\n  xy: 802, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/46\n  rotate: false\n  xy: 802, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/47\n  rotate: false\n  xy: 884, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/48\n  rotate: false\n  xy: 884, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/49\n  rotate: false\n  xy: 966, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/5\n  rotate: false\n  xy: 396, 387\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/50\n  rotate: false\n  xy: 966, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/51\n  rotate: false\n  xy: 1048, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/52\n  rotate: false\n  xy: 1048, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/53\n  rotate: false\n  xy: 1130, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/54\n  rotate: false\n  xy: 1130, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/55\n  rotate: false\n  xy: 1212, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/56\n  rotate: false\n  xy: 1212, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/57\n  rotate: false\n  xy: 1294, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/58\n  rotate: false\n  xy: 1294, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/59\n  rotate: false\n  xy: 1376, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/6\n  rotate: false\n  xy: 520, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/60\n  rotate: false\n  xy: 1376, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/61\n  rotate: false\n  xy: 1458, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/62\n  rotate: false\n  xy: 1458, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/63\n  rotate: false\n  xy: 1540, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/64\n  rotate: false\n  xy: 1540, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/65\n  rotate: false\n  xy: 1622, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/66\n  rotate: false\n  xy: 1622, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/67\n  rotate: false\n  xy: 1704, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/68\n  rotate: false\n  xy: 1704, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/69\n  rotate: false\n  xy: 1786, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/7\n  rotate: false\n  xy: 602, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/70\n  rotate: false\n  xy: 1786, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/71\n  rotate: false\n  xy: 1868, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/72\n  rotate: false\n  xy: 1868, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/73\n  rotate: false\n  xy: 1950, 348\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/74\n  rotate: false\n  xy: 1950, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/75\n  rotate: false\n  xy: 584, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/76\n  rotate: false\n  xy: 584, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/77\n  rotate: false\n  xy: 666, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/78\n  rotate: false\n  xy: 666, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/79\n  rotate: false\n  xy: 748, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/8\n  rotate: false\n  xy: 684, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/80\n  rotate: false\n  xy: 748, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/81\n  rotate: false\n  xy: 830, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/82\n  rotate: false\n  xy: 830, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/83\n  rotate: false\n  xy: 912, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/84\n  rotate: false\n  xy: 912, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/85\n  rotate: false\n  xy: 994, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/86\n  rotate: false\n  xy: 994, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/87\n  rotate: false\n  xy: 1076, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/88\n  rotate: false\n  xy: 1076, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/89\n  rotate: false\n  xy: 1158, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/9\n  rotate: false\n  xy: 766, 430\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/90\n  rotate: false\n  xy: 1158, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\nyizi2\n  rotate: false\n  xy: 2, 24\n  size: 46, 23\n  orig: 46, 23\n  offset: 0, 0\n  index: -1\nyizi3\n  rotate: false\n  xy: 88, 2\n  size: 93, 51\n  orig: 93, 51\n  offset: 0, 0\n  index: -1\nzi\n  rotate: false\n  xy: 396, 469\n  size: 122, 41\n  orig: 122, 41\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "c145d32c-fc66-4eb8-b71a-774abe663b4f"
+    }
+  ],
+  "textureNames": [
+    "wingo.png"
+  ],
+  "scale": 1
+}

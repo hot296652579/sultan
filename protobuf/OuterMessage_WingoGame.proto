@@ -1,0 +1,213 @@
+syntax = "proto3";
+package MST;
+
+// 定义注意：
+// **********************************
+// 1.枚举可定义，但无法当成字段类型使用
+
+// 玩法模式
+enum WingoMode
+{
+	// 30 秒刷新
+	CepatPlus = 0;
+	// 60 秒刷新
+	Cepat = 1;
+	// 180 秒刷新
+	Standar = 2;
+}
+
+// 颜色
+enum WingoColor
+{
+	// 绿色
+	Green = 0;
+	// 紫色
+	Purple = 1;
+	// 红色
+	Red = 2;
+	// 天蓝色
+	Azure = 3;
+	// 黄色
+	Yellow = 4;
+	// 蓝色
+	Blue = 5;
+	// 天蓝/红
+	AR = 6;
+	// 天蓝/绿
+	AG = 7;
+	// 蓝/红
+	BR = 8;
+	// 蓝/绿
+	BG = 9;
+}
+
+// 下注金币类型
+enum WingoBetGoldType
+{
+	// 2000 最低下注
+	Gold2000 = 0;
+	// 20000
+	Gold20000 = 1;
+	// 玩家身上的 1/2
+	Half = 2;
+	// 玩家身上的 全部
+	AllIn = 3;
+}
+
+// 下注类型
+enum WingoBetType
+{
+	// 数字
+	Num = 0;
+	// 颜色
+	Color = 1;
+}
+
+// 历史信息
+message WingoHistoryInfo 
+{
+	// 期号
+	int64 Issue = 1;
+	// 数字 0-9
+	int32 Num = 2;
+	// Harga
+	int32 Harga = 3;
+}
+
+//获取场景信息
+//OpCode 10702
+message C2M_GetWingoInfo_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//返回场景信息
+//OpCode 10703
+message M2C_GetWingoInfo_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	// CepatPlus 开奖时间戳
+	int64 CepatPlusTimestamp = 1;
+	// Cepat 开奖时间戳
+	int64 CepatTimestamp = 2;
+	// Standar 开奖时间戳
+	int64 StandarTimestamp = 3;
+	// 手续费率万分比
+	int32 Cost = 4;
+}
+
+// 历史记录 请求
+//OpCode 10704
+message C2M_GetWingoHistory_Req
+{
+	int32 RpcId = 90;
+	// 玩法模式 WingoMode
+	int32 Mode = 1;
+}
+
+// 历史记录 响应
+//OpCode 10705
+message M2C_GetWingoHistory_Res 
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	// 玩法模式
+	int32 Mode = 1;
+	// 当前待开奖期号
+	int64 CurrIssue = 2;
+	// 开奖信息列表 100 个
+	repeated WingoHistoryInfo HistoryInfo = 3;
+}
+
+// 开奖 通知
+//OpCode 10706
+message M2C_WingoLottery_Mes
+{
+	// 玩法模式 WingoMode
+	int32 Mode = 1;
+	// 开奖信息
+	WingoHistoryInfo LotteryInfo = 2;
+	// 下次开奖时间戳
+	int64 NextTimestamp = 3;
+	// 下次开奖期号
+	int64 NextIssue = 4;
+}
+
+// 下注 请求
+//OpCode 10707
+message C2M_WingoBet_Req
+{
+	int32 RpcId = 90;
+	// 玩法模式
+	int32 Mode = 1;
+	// 下注类型 WingoBetType
+	int32 BetType = 2;
+	// 下注值（数字：0-9 颜色：WingoColor 枚举 0-9）
+	int32 BetValue = 3;
+	// 倍数
+	int32 Multi = 4;
+	// 下注金额枚举 WingoBetGoldType
+	int32 GoldType = 5;
+}
+
+// 下注 响应
+//OpCode 10708
+message M2C_WingoBet_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+}
+
+// 个人下注记录信息
+message WingoMyRecordInfo {
+	// id 为了避免查询后，出现重复数据 首次请求默认为 -1 （查询后的数据不包含自身 ID）
+	int32 id = 1;
+	// 游戏号
+	int32 gameNo = 2;
+	// 下注时间戳
+	int64 betTimestamp = 3;
+	// 盈亏（盈利算入本金最终获得金额 [正数]，亏损就是下注金额 [负数]）
+	int64 incomeGold = 4;
+	// 实际下注金额（不包含手续费）
+	int64 betActualGold = 5;
+	// 手续费金额
+	int64 costGold = 6;
+	// 下注类型 WingoBetType
+	int32 betType = 7;
+	// 下注值（颜色 WingoColor | 数字）
+	int32 betValue = 8;
+	// Harga（暂时不知道是什么意思）
+	int32 harga = 9;
+	// 是否已开奖
+	bool isFinish = 10;
+	// 开奖数字（未开奖 -1）
+	int32 num = 11;
+}
+
+// 请求个人下注记录 10709
+message C2S_WingoMyRecord {
+	// 序列号 ID
+	int32 serial = 1;
+	// 玩法模式 WingoMode
+	int32 mode = 2;	
+	// id 为了避免查询后，出现重复数据 首次请求默认为 -1 （查询后的数据不包含自身 ID）
+	int32 id = 3;
+	// 每页数量
+	int32 count = 4;
+}
+
+// 响应个人下注记录 10710
+message S2C_WingoMyRecord {
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 客户端传入什么值返回什么值
+	int32 id = 3;
+	// 个人下注记录信息
+	repeated WingoMyRecordInfo myRecordInfo = 4;
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_fz",
+    "texture": "d512f5b9-7397-4a99-8033-cad216c63fb6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

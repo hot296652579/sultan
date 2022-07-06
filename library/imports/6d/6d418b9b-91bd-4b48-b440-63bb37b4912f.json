@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "texian",
+    "texture": "67074291-5251-4e42-b8a3-f288ae253f03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      71,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      71,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

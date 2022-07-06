@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txbg",
+    "texture": "1ff344b3-9617-4e4e-a050-10a75457fd3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      749,
+      381
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      749,
+      381
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

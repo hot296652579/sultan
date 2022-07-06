@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/common/interface/CommonInterface.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["\n// 引导退出选项回调接口\ninterface GuideExitOptionInterface {\n    // 确定回调\n    yesCallback?: Function,\n    // 取消回调\n    noCallback?: Function,\n}"]}

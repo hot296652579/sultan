@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_Crash",
+    "texture": "5e17fa19-1f0c-4033-9c6a-a275861144bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      219
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

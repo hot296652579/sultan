@@ -1,0 +1,461 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "48298802-c2a0-498f-8c6f-29f29992d77c": {
+      "assetMtime": 1655263609714,
+      "metaMtime": 1655263634187
+    },
+    "08d2ffd2-2690-4e2a-9da5-b1055a917b67": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767823
+    },
+    "5659f0ba-927b-41e4-b9a5-3beacf9a4b79": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767823
+    },
+    "13457d74-a5f6-48c2-8ac6-cad2dd4d9ddf": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767819
+    },
+    "123e08a7-95fb-48b1-886d-9420b9d37b9d": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767819
+    },
+    "1468e798-a6e8-428e-a0db-f94ebe99675d": {
+      "assetMtime": 1656987710158,
+      "metaMtime": 1656987767848
+    },
+    "fff4074a-268c-490b-abd1-dcaf36582ab2": {
+      "assetMtime": 1656987710158,
+      "metaMtime": 1656987767848
+    },
+    "31982459-ecb0-4e8b-9a0c-accf5adad63a": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767830
+    },
+    "4e71d8ad-3e56-4a3c-90ed-86cf01da929e": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767830
+    },
+    "4b3b3767-c4eb-4a54-9898-7f82e3164e38": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767829
+    },
+    "a0e14ed2-004c-466d-b3ec-4459a0ea8221": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767829
+    },
+    "4c175e21-c6e3-4f7d-8290-dd94a3e8959e": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767832
+    },
+    "138d4f63-d6fa-4e99-b610-ec85b4f80d08": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767832
+    },
+    "7d0739ea-d8df-4b7b-8b67-a429972c3889": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767842
+    },
+    "8235ea70-9d1e-4059-8cf0-ae64868714fc": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767842
+    },
+    "a3edf2e4-1318-480b-973b-f268a28df757": {
+      "assetMtime": 1656987710155,
+      "metaMtime": 1656987767824
+    },
+    "160145cb-ffdb-463d-8a56-c193a5538bae": {
+      "assetMtime": 1656987710155,
+      "metaMtime": 1656987767824
+    },
+    "be582e01-073b-4494-b820-bcf88c46b0ee": {
+      "assetMtime": 1656987710155,
+      "metaMtime": 1656987767812
+    },
+    "c7a5faea-cac1-49d5-b049-e56c3180440f": {
+      "assetMtime": 1656987710155,
+      "metaMtime": 1656987767812
+    },
+    "c1707173-54fd-4ef9-87d0-74950880ad57": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767831
+    },
+    "49627c10-526b-41c6-a4e6-4980683130f1": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767831
+    },
+    "c46fae57-e122-4c8e-b3de-f89de83203a0": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767825
+    },
+    "db6ae962-4b54-4ba4-8768-7dfb9ad7d741": {
+      "assetMtime": 1656987710156,
+      "metaMtime": 1656987767825
+    },
+    "d4438e2f-4f2e-4531-901f-8ba218b60ae1": {
+      "assetMtime": 1656931133834,
+      "metaMtime": 1656931239603
+    },
+    "3d948429-c06a-436b-8f5e-0fc7aa7d15a8": {
+      "assetMtime": 1656931133834,
+      "metaMtime": 1656931239603
+    },
+    "e5848288-efe0-4dea-b35d-ab4bcc32a948": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767843
+    },
+    "d1a9bd2c-082a-45c6-83de-d34b0693aeb4": {
+      "assetMtime": 1656987710157,
+      "metaMtime": 1656987767843
+    }
+  },
+  "result": {
+    "name": "minigame",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "48298802-c2a0-498f-8c6f-29f29992d77c",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bg_gg1",
+            "uuid": "a3edf2e4-1318-480b-973b-f268a28df757",
+            "textureUuid": "160145cb-ffdb-463d-8a56-c193a5538bae",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812564_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 750,
+              "height": 243,
+              "rotatedWidth": 243,
+              "rotatedHeight": 750
+            },
+            "rawWidth": 750,
+            "rawHeight": 243,
+            "width": 756,
+            "height": 249,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/16/160145cb-ffdb-463d-8a56-c193a5538bae.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 249,
+            "rotatedHeight": 756
+          },
+          {
+            "name": "btn_tt1",
+            "uuid": "c1707173-54fd-4ef9-87d0-74950880ad57",
+            "textureUuid": "49627c10-526b-41c6-a4e6-4980683130f1",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812569_image_9.png",
+            "trim": {
+              "x": 252,
+              "y": 3,
+              "width": 370,
+              "height": 75,
+              "rotatedWidth": 75,
+              "rotatedHeight": 370
+            },
+            "rawWidth": 370,
+            "rawHeight": 75,
+            "width": 376,
+            "height": 81,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/49/49627c10-526b-41c6-a4e6-4980683130f1.png",
+            "x": 249,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 81,
+            "rotatedHeight": 376
+          },
+          {
+            "name": "xian_a2",
+            "uuid": "d4438e2f-4f2e-4531-901f-8ba218b60ae1",
+            "textureUuid": "3d948429-c06a-436b-8f5e-0fc7aa7d15a8",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812573_image_11.png",
+            "trim": {
+              "x": 333,
+              "y": 3,
+              "width": 2,
+              "height": 44,
+              "rotatedWidth": 2,
+              "rotatedHeight": 44
+            },
+            "rawWidth": 2,
+            "rawHeight": 44,
+            "width": 8,
+            "height": 50,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/3d/3d948429-c06a-436b-8f5e-0fc7aa7d15a8.png",
+            "x": 330,
+            "y": 0,
+            "rotatedWidth": 8,
+            "rotatedHeight": 50
+          },
+          {
+            "name": "xian",
+            "uuid": "7d0739ea-d8df-4b7b-8b67-a429972c3889",
+            "textureUuid": "8235ea70-9d1e-4059-8cf0-ae64868714fc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812562_image_6.png",
+            "trim": {
+              "x": 333,
+              "y": 53,
+              "width": 566,
+              "height": 1,
+              "rotatedWidth": 1,
+              "rotatedHeight": 566
+            },
+            "rawWidth": 566,
+            "rawHeight": 1,
+            "width": 572,
+            "height": 7,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/82/8235ea70-9d1e-4059-8cf0-ae64868714fc.png",
+            "x": 330,
+            "y": 50,
+            "rotated": true,
+            "rotatedWidth": 7,
+            "rotatedHeight": 572
+          },
+          {
+            "name": "btn_ho1",
+            "uuid": "c46fae57-e122-4c8e-b3de-f89de83203a0",
+            "textureUuid": "db6ae962-4b54-4ba4-8768-7dfb9ad7d741",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812571_image_10.png",
+            "trim": {
+              "x": 252,
+              "y": 379,
+              "width": 453,
+              "height": 61,
+              "rotatedWidth": 61,
+              "rotatedHeight": 453
+            },
+            "rawWidth": 453,
+            "rawHeight": 61,
+            "width": 459,
+            "height": 67,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/db/db6ae962-4b54-4ba4-8768-7dfb9ad7d741.png",
+            "x": 249,
+            "y": 376,
+            "rotated": true,
+            "rotatedWidth": 67,
+            "rotatedHeight": 459
+          },
+          {
+            "name": "yizi_gg",
+            "uuid": "1468e798-a6e8-428e-a0db-f94ebe99675d",
+            "textureUuid": "fff4074a-268c-490b-abd1-dcaf36582ab2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812552_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 838,
+              "width": 186,
+              "height": 169,
+              "rotatedWidth": 186,
+              "rotatedHeight": 169
+            },
+            "rawWidth": 186,
+            "rawHeight": 169,
+            "width": 192,
+            "height": 175,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ff/fff4074a-268c-490b-abd1-dcaf36582ab2.png",
+            "x": 0,
+            "y": 835,
+            "rotatedWidth": 192,
+            "rotatedHeight": 175
+          },
+          {
+            "name": "icon_h1",
+            "uuid": "4b3b3767-c4eb-4a54-9898-7f82e3164e38",
+            "textureUuid": "a0e14ed2-004c-466d-b3ec-4459a0ea8221",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812554_image_4.png",
+            "trim": {
+              "x": 195,
+              "y": 759,
+              "width": 49,
+              "height": 49,
+              "rotatedWidth": 49,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 49,
+            "rawHeight": 49,
+            "width": 55,
+            "height": 55,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a0/a0e14ed2-004c-466d-b3ec-4459a0ea8221.png",
+            "x": 192,
+            "y": 756,
+            "rotatedWidth": 55,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "bg_cca",
+            "uuid": "be582e01-073b-4494-b820-bcf88c46b0ee",
+            "textureUuid": "c7a5faea-cac1-49d5-b049-e56c3180440f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812564_image_8.png",
+            "trim": {
+              "x": 3,
+              "y": 814,
+              "width": 19,
+              "height": 17,
+              "rotatedWidth": 19,
+              "rotatedHeight": 17
+            },
+            "rawWidth": 19,
+            "rawHeight": 17,
+            "width": 25,
+            "height": 23,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c7/c7a5faea-cac1-49d5-b049-e56c3180440f.png",
+            "x": 0,
+            "y": 811,
+            "rotatedWidth": 25,
+            "rotatedHeight": 23
+          },
+          {
+            "name": "icon_h2",
+            "uuid": "e5848288-efe0-4dea-b35d-ab4bcc32a948",
+            "textureUuid": "d1a9bd2c-082a-45c6-83de-d34b0693aeb4",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812577_image_12.png",
+            "trim": {
+              "x": 3,
+              "y": 759,
+              "width": 49,
+              "height": 49,
+              "rotatedWidth": 49,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 49,
+            "rawHeight": 49,
+            "width": 55,
+            "height": 55,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d1/d1a9bd2c-082a-45c6-83de-d34b0693aeb4.png",
+            "x": 0,
+            "y": 756,
+            "rotatedWidth": 55,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "bg_yandi",
+            "uuid": "13457d74-a5f6-48c2-8ac6-cad2dd4d9ddf",
+            "textureUuid": "123e08a7-95fb-48b1-886d-9420b9d37b9d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812552_image_1.png",
+            "trim": {
+              "x": 195,
+              "y": 814,
+              "width": 40,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 40,
+            "rawHeight": 40,
+            "width": 46,
+            "height": 46,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/12/123e08a7-95fb-48b1-886d-9420b9d37b9d.png",
+            "x": 192,
+            "y": 811,
+            "rotatedWidth": 46,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "btn_guanbi",
+            "uuid": "08d2ffd2-2690-4e2a-9da5-b1055a917b67",
+            "textureUuid": "5659f0ba-927b-41e4-b9a5-3beacf9a4b79",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812552_image_0.png",
+            "trim": {
+              "x": 58,
+              "y": 759,
+              "width": 53,
+              "height": 53,
+              "rotatedWidth": 53,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 53,
+            "rawHeight": 53,
+            "width": 59,
+            "height": 59,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/56/5659f0ba-927b-41e4-b9a5-3beacf9a4b79.png",
+            "x": 55,
+            "y": 756,
+            "rotatedWidth": 59,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "icon_fanpi",
+            "uuid": "4c175e21-c6e3-4f7d-8290-dd94a3e8959e",
+            "textureUuid": "138d4f63-d6fa-4e99-b610-ec85b4f80d08",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812556_image_5.png",
+            "trim": {
+              "x": 195,
+              "y": 860,
+              "width": 120,
+              "height": 120,
+              "rotatedWidth": 120,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 120,
+            "width": 126,
+            "height": 126,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/13/138d4f63-d6fa-4e99-b610-ec85b4f80d08.png",
+            "x": 192,
+            "y": 857,
+            "rotatedWidth": 126,
+            "rotatedHeight": 126
+          },
+          {
+            "name": "icon_g2",
+            "uuid": "31982459-ecb0-4e8b-9a0c-accf5adad63a",
+            "textureUuid": "4e71d8ad-3e56-4a3c-90ed-86cf01da929e",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987812554_image_3.png",
+            "trim": {
+              "x": 195,
+              "y": 986,
+              "width": 21,
+              "height": 21,
+              "rotatedWidth": 21,
+              "rotatedHeight": 21
+            },
+            "rawWidth": 50,
+            "rawHeight": 50,
+            "width": 27,
+            "height": 27,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/4e/4e71d8ad-3e56-4a3c-90ed-86cf01da929e.png",
+            "x": 192,
+            "y": 983,
+            "rotatedWidth": 27,
+            "rotatedHeight": 27
+          }
+        ],
+        "width": 338,
+        "height": 1010,
+        "name": "minigame-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/minigame/images/minigame.pac/minigame-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/minigame/images/minigame.pac/compressed/minigame-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

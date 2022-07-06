@@ -1,0 +1,23 @@
+syntax = "proto3";
+package MST;
+
+
+enum OuterOpcode_Roulette
+{
+	None = 0;
+	C2M_GetRouletteInfo_Req = 10802;
+	M2C_GetRouletteInfo_Res = 10803;
+	M2C_RouletteStart_mes = 10804;
+	C2M_MyRouletteBet_Req = 10805; 
+	M2C_MyRouletteBet_Res = 10806;
+	C2R_GetBetRankInfo_Req = 10807;
+	R2C_GetBetRandInfo_Res = 10808;
+	M2C_RouletteStartBet_Mes = 10809;
+	C2R_GetGameRecords_Req = 10810;
+	R2C_GetGameRecords_Res = 10811;
+	C2R_GetBetInfo_Req = 10812;
+	R2C_GetBetInfo_Res = 10813;
+	R2C_Calc_Mes = 10814;
+	R2C_Bet_Mes = 10815;
+	R2C_PaybackPhase_Mes = 10816;
+}

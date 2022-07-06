@@ -1,0 +1,27 @@
+
+dianiji.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+椭圆 1
+  rotate: false
+  xy: 64, 102
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+组 2
+  rotate: false
+  xy: 1, 102
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+bd_xsyd_s
+  rotate: false
+  xy: 1, 1
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1

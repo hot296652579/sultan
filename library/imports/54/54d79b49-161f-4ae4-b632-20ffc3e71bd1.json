@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lizi14",
+    "texture": "444ee011-5026-49ac-8a4e-32f80bee3d57",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      82,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      82,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

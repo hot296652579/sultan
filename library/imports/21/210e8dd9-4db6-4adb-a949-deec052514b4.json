@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kuang_jinbi",
+    "texture": "fda0294c-99ec-4cd6-a41d-4cfafc9bcce5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      281,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      281,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

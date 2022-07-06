@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_qlan_lv",
+    "texture": "f3d34e27-c9f5-4f33-9512-edb077addc5b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

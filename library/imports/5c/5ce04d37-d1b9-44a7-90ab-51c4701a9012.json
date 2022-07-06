@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuru3",
+    "texture": "6957d7cf-c407-4bfc-8ebf-1666d3f4958b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      42
+    ],
+    "capInsets": [
+      10,
+      10,
+      10,
+      10
+    ]
+  }
+}

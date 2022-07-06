@@ -1,0 +1,322 @@
+syntax = "proto3";
+package MST;
+import "OuterMessage_Gate.proto";
+
+// 定义注意：
+// **********************************
+// 1.枚举可定义，但无法当成字段类型使用
+
+//下注信息同步
+message CrashBetInfo
+{
+	UnitInfo player = 1;
+	int64 BetGold = 2;
+	int64 Multiple = 3;
+}
+
+enum CrashStatus
+{
+	// 开始下注 （到停止下注 10秒）
+	StartBet = 0;
+	// 停止下注 （到游戏开始 2秒）
+	StopBet = 1;
+	// 游戏开始 （到游戏结束 按照 哈希倍率算出过程时间）
+	GameBegin = 2;
+	// 游戏结束 爆炸 （到开始下注 3秒）
+	GameOver = 3;
+}
+
+enum CrashMode
+{
+	//手动下注
+	Manual = 0;
+	//按局数自动下注
+	Auto = 1;
+}
+
+message CrashAutoBetInfo
+{
+	//下注金额
+	int64 BetGold = 1;
+	//下注倍率
+	int64 BetMultiple = 2;
+	//自动下注局数
+	int32 AutoRound = 3;
+	//止盈金额
+	int64 StopProfit = 4;
+	//止损金额
+	int64 StopLoss = 5;
+}
+
+message CrashSeedInfo
+{
+	// Server Seed（如果当天没有就不赋值）
+	string ServerSeed = 1;
+	// SHA256 后的 Server Seed
+	string ServerSeedHash = 2;
+	// 公共 Seed
+	string PublicSeed = 10;
+}
+
+message CrashRecordInfo
+{
+	// id 为了避免查询后，出现重复数据 首次请求默认为 -1 （查询后的数据不包含自身 ID）
+	int32 ID = 1;
+	//游戏编号
+	int32 GameNo = 2;
+	// 开奖时间戳
+	int64 Timestamp = 3;
+	// 开出倍率
+	int64 Multiple = 4;
+	// 每局 Hash 和 Acak
+	CrashRoudHashCell RoundHashCell = 5;
+}
+
+message MyRecordInfo {
+	// id 为了避免查询后，出现重复数据 首次请求默认为 -1 （查询后的数据不包含自身 ID）
+	int32 id = 1;
+	// 游戏号
+	int32 gameNo = 2;
+	// 下注时间戳
+	int64 betTimestamp = 3;
+	// 下注倍数
+	int64 betMulti = 4;
+	// 下注金额
+	int64 betGold = 5;
+	// 盈亏（盈利算入本金最终获得金额 [正数]，亏损就是下注金额 [负数]）
+	int64 incomeGold = 6;
+}
+
+//获取场景信息
+//ResponseType M2C_GetCrashInfo_Res
+//OpCode 10402
+message C2M_GetCrashInfo_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//返回场景信息
+//OpCode 10403
+message M2C_GetCrashInfo_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	//同房间玩家下注信息 （总数9个，除开自己的下注信息，剩下是其他玩家数量）
+	repeated CrashBetInfo Bets = 1;
+	//当前状态 CrashStatus
+	int32 Status = 2;
+	//当前状态触发的时间戳
+	//（如果当前状态是下注：时间戳就是停止下注时间戳；
+	//  如果当前状态是游戏中：时间戳就是游戏开始时间戳）
+	int64 StartTimeStamp = 3;
+	//历史记录倍数 最近 7 个
+	repeated int64 MultipleRecord = 4;
+	//当前局下注总金额
+	int64 TotalGold = 5;
+	//自己下注金额和倍数
+	repeated CrashBetInfo MyBet = 6;
+	//下注总人数
+	int32 TotalPlayer = 7;
+	// 自动下注信息
+	CrashAutoBetInfo AtuoBetInfo = 8;
+	// 种子信息
+	CrashSeedInfo SeedInfo = 9;
+	//游戏编号
+	int32 GameNo = 10;
+	// 本局爆炸倍数（当 Status 是游戏开始的时候才发过来）
+	int64 Multi = 11;
+}
+
+//开始冲刺
+//OpCode 10404
+message M2C_CrashStart_mes // IActorMessage
+{
+	//开始时间戳
+	int64 StartTimeStamp = 1;
+	//本局爆炸倍数（提前通知给客户端）
+	int64 Multi = 2;
+}
+
+//下注
+//ResponseType M2C_MyCrashBet_Res
+//OpCode 10405
+message C2M_MyCrashBet_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+	//下注模式 CrashMode
+	int32 BetMode = 1;
+	//下注金额
+	int64 BetGold = 2;
+	//下注倍率
+	int64 BetMultiple = 3;
+	//自动下注局数
+	int32 AutoRound = 4;
+	//止盈金额
+	int64 StopProfit = 5;
+	//止损金额
+	int64 StopLoss = 6;
+}
+
+//OpCode 10406
+message M2C_MyCrashBet_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	//当前金币
+	int64 Gold = 1;
+	//下注时倍数
+	int64 Multiple = 2;
+	//模式 CrashMode
+	int32 BetMode = 3;
+}
+
+//同步下注信息
+//OpCode 10407
+message M2C_CrashBet_Mes // IActorMessage
+{
+	repeated CrashBetInfo Bets = 1;
+	int64 TotalGold = 2;
+	int32 TotalPlayer = 3;
+}
+
+message CrashEscape
+{
+	//id
+	int64 UnitId = 1;
+	//昵称
+	string Nick = 2;
+	//逃跑倍数
+	int64 Multiples = 3;
+}
+
+//结束
+//OpCode 10408
+message M2C_CrashStop_Mes // IActorMessage
+{ 
+	//停止的倍数
+	int64 Multiples = 1;
+	// 爆炸时间戳
+	int64 ExplosionTimeStamp = 2;
+	// 哈希结果
+	string HashResult = 3;
+	// 哈希前 6 位
+	double Acak = 4;
+}
+
+//开始下注
+//OpCode 10409
+message M2C_CrashStartBet_Mes // IActorMessage
+{
+	//停止下注时间戳
+	int64 StopBetTimeStamp = 1;
+	//游戏编号
+	int32 GameNo = 10;
+}
+
+//同房间玩家逃跑
+//OpCode 10410
+message M2C_CrashEscape_Mes // IActorMessage
+{
+	repeated CrashEscape Players = 1;
+}
+
+// 停止下注
+//OpCode 10411
+message M2C_CrashStopBet_Mes // IActorMessage
+{
+	
+}
+
+//请求取消自动下注
+//ResponseType M2C_CrashCancelAutoBet_Res
+//OpCode 10412
+message C2M_CrashCancelAutoBet_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//响应取消自动下注
+//OpCode 10413
+message M2C_CrashCancelAutoBet_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+}
+
+//通知取消自动下注
+//OpCode 10414
+message M2C_CrashCancelAutoBet_Mes // IActorMessage
+{
+	int32 Error = 1;
+}
+
+//hash信息变化（凌晨 0 点 改变 通知到客户端）
+//OpCode 10415
+message M2C_CrashHash_Mes // IActorMessage
+{
+	//hash信息
+	CrashSeedInfo SeedInfo = 1;
+}
+
+
+//hash历史记录单元
+message CrashRoudHashCell
+{
+	//hash散列计算结果
+	string RoundHash = 1;
+	//运算子
+	double Acak = 2;
+}
+
+//请求总历史记录
+//ResponseType M2C_CrashHashRecord_Res
+//OpCode 10416
+message C2M_CrashHashRecord_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+	string Date = 1; 
+	// id 为了避免查询后，出现重复数据 首次请求默认为 -1 （查询后的数据不包含自身 ID）
+	int32 ID = 2;
+	//每页数量
+	int32 PageNumber = 3;
+}
+
+//OpCode 10417
+message M2C_CrashHashRecord_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	string Date = 1; 
+	// 客户端传入什么值返回什么值
+	int32 ID = 2;
+	// 种子信息
+	CrashSeedInfo SeedInfo = 3;
+	// 当前日期 当前页的历史记录
+	repeated CrashRecordInfo RecordInfo = 4;
+}
+
+// 请求个人下注记录 10418
+message C2S_CrashMyRecord {
+	// 序列号 ID
+	int32 serial = 1;
+	// id 为了避免查询后，出现重复数据 首次请求默认为 -1 （查询后的数据不包含自身 ID）
+	int32 id = 2;
+	// 每页数量
+	int32 count = 3;
+}
+
+// 响应个人下注记录 10419
+message S2C_CrashMyRecord {
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 客户端传入什么值返回什么值
+	int32 id = 3;
+	// 个人下注记录信息
+	repeated MyRecordInfo myRecordInfo = 4;
+}

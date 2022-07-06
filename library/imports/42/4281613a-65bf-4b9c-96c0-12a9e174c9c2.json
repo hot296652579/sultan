@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caichan",
+    "texture": "e46543ac-b148-4830-bd03-8e95c7786e84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      109,
+      115
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      109,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

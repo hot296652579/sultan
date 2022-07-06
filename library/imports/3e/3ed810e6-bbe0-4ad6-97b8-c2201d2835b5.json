@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wingo",
+    "texture": "c145d32c-fc66-4eb8-b71a-774abe663b4f",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      2043,
+      507
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

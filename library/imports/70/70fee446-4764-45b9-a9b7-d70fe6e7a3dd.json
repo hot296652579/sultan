@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ewm_di",
+    "texture": "c4f7cc01-f0fc-4abe-a714-e51b34657b03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      45
+    ],
+    "capInsets": [
+      10,
+      10,
+      10,
+      20
+    ]
+  }
+}

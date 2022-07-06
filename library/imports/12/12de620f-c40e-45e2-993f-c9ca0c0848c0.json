@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_tentang",
+    "texture": "9941e3d4-6d56-4b8d-8c01-0809d68b31a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

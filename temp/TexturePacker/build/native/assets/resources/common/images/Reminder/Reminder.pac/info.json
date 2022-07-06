@@ -1,0 +1,214 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "f07862a8-65ce-4a92-a5be-5cb2cc480922": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239635
+    },
+    "04abc790-2a95-4c9c-b87b-d6eeaff1f838": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239664
+    },
+    "ce9f9f65-8b28-4fae-b2e2-b450f41d9aba": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239664
+    },
+    "19ef0d03-bd57-4226-a91f-08d4c0d01c79": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239667
+    },
+    "e3b4c78f-25f6-4277-ae1a-e4c7577aa214": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239667
+    },
+    "71a0aa0d-fcdf-420e-8995-2c544e027188": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239660
+    },
+    "523e2830-a29e-4225-ac8b-2047a55b813a": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239660
+    },
+    "e7790bd9-c033-4b83-879f-7ad53ace79b1": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239661
+    },
+    "ed92aa47-ea41-4734-aaa1-1a865366a82d": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239661
+    },
+    "eeade4e2-d01a-4846-9b17-f700acf4aef9": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239669
+    },
+    "e4d2376f-3016-4259-bc49-c0438e70fd89": {
+      "assetMtime": 1647255628000,
+      "metaMtime": 1647574239669
+    }
+  },
+  "result": {
+    "name": "Reminder",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "f07862a8-65ce-4a92-a5be-5cb2cc480922",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "ts_Reminder",
+            "uuid": "71a0aa0d-fcdf-420e-8995-2c544e027188",
+            "textureUuid": "523e2830-a29e-4225-ac8b-2047a55b813a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880662860_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 163,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 163
+            },
+            "rawWidth": 163,
+            "rawHeight": 31,
+            "width": 169,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/52/523e2830-a29e-4225-ac8b-2047a55b813a.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 169
+          },
+          {
+            "name": "ts_btn_QuitGame",
+            "uuid": "eeade4e2-d01a-4846-9b17-f700acf4aef9",
+            "textureUuid": "e4d2376f-3016-4259-bc49-c0438e70fd89",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880662860_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 172,
+              "width": 163,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 163
+            },
+            "rawWidth": 163,
+            "rawHeight": 31,
+            "width": 169,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e4/e4d2376f-3016-4259-bc49-c0438e70fd89.png",
+            "x": 0,
+            "y": 169,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 169
+          },
+          {
+            "name": "ts_btn_CANCEL",
+            "uuid": "e7790bd9-c033-4b83-879f-7ad53ace79b1",
+            "textureUuid": "ed92aa47-ea41-4734-aaa1-1a865366a82d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880662860_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 341,
+              "width": 135,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 135
+            },
+            "rawWidth": 135,
+            "rawHeight": 31,
+            "width": 141,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ed/ed92aa47-ea41-4734-aaa1-1a865366a82d.png",
+            "x": 0,
+            "y": 338,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 141
+          },
+          {
+            "name": "ts_btn_OK",
+            "uuid": "19ef0d03-bd57-4226-a91f-08d4c0d01c79",
+            "textureUuid": "e3b4c78f-25f6-4277-ae1a-e4c7577aa214",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880662860_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 482,
+              "width": 50,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 50,
+            "rawHeight": 31,
+            "width": 56,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e3/e3b4c78f-25f6-4277-ae1a-e4c7577aa214.png",
+            "x": 0,
+            "y": 479,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "ts_TIPS",
+            "uuid": "04abc790-2a95-4c9c-b87b-d6eeaff1f838",
+            "textureUuid": "ce9f9f65-8b28-4fae-b2e2-b450f41d9aba",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648880662859_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 538,
+              "width": 71,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 71,
+            "rawHeight": 29,
+            "width": 77,
+            "height": 35,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ce/ce9f9f65-8b28-4fae-b2e2-b450f41d9aba.png",
+            "x": 0,
+            "y": 535,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 77
+          }
+        ],
+        "width": 37,
+        "height": 612,
+        "name": "Reminder-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/common/images/Reminder/Reminder.pac/Reminder-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/common/images/Reminder/Reminder.pac/compressed/Reminder-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qianbao_black",
+    "texture": "8a16796b-67a6-46ed-a6aa-11089a43d7c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      384
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      384
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+package MST;
+
+
+enum OuterOpcode_Gate
+{
+	None = 0;
+	C2G_EnterMap_Req = 10102;
+	G2C_EnterMap_Res = 10103;
+	C2G_Ping_Req = 10104;
+	G2C_Ping_Res = 10105;
+	C2G_LoginGate_Req = 10106;
+	G2C_LoginGate_Res = 10107;
+	G2C_SystemError_Mes = 10110;
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_ui_middlebg",
+    "texture": "a5df537d-6bb5-4fe3-8019-16b6758ba473",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      10
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      10
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

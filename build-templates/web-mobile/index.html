@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Sultan777.io - Provably fair and fun games</title>
+
+  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
+  <meta name="viewport"
+    content="width=device-width,user-scalable=no,initial-scale=1, minimum-scale=1,maximum-scale=1" />
+
+  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- force webkit on 360 -->
+  <meta name="renderer" content="webkit" />
+  <meta name="force-rendering" content="webkit" />
+  <!-- force edge on IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- force full screen on some browser -->
+  <meta name="full-screen" content="yes" />
+  <meta name="x5-fullscreen" content="true" />
+  <meta name="360-fullscreen" content="true" />
+
+  <!-- force screen orientation on some browser -->
+  <meta name="screen-orientation" content="portrait" />
+  <meta name="x5-orientation" content="portrait">
+
+  <!--fix fireball/issues/3568 -->
+  <!--<meta name="browsermode" content="application">-->
+  <meta name="x5-page-mode" content="app">
+
+  <!--<link rel="apple-touch-icon" href=".png" />-->
+  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
+
+  <link rel="stylesheet" type="text/css" href="style-mobile.css" />
+  <link rel="icon" href="favicon.ico" />
+
+  <!-- <script src="https://accounts.google.com/gsi/client" onload="initClient()" async defer></script> -->
+  <!-- <script src="https://apis.google.com/js/api:client.js" async defer></script> -->
+</head>
+
+<body>
+  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
+  <div id="splash">
+    <div class="progress-bar stripes">
+      <span style="width: 0%"></span>
+    </div>
+  </div>
+
+  <div class="dragable-box" id="dragable-box" style="z-index:999" draggable="true">
+    <img src="btn_kefu.png" width="46" height="46"></img>
+  </div>
+  <!-- <script src="vconsole.min.js"></script> -->
+  <script src="src/settings.js" charset="utf-8"></script>
+
+  <!-- <script>
+    window.fbAsyncInit = function () {
+      FB.init({
+        appId: '740652370264994',
+        autoLogAppEvents: true,
+        xfbml: true,
+        version: 'v13.0'
+      });
+    };
+  </script> -->
+  <!-- <script>
+    window.onload = function () {
+      google.accounts.id.initialize({
+        client_id: '61224914451-uq6pa4fm7j16a0gs4434tkicn32e9fbu.apps.googleusercontent.com',
+        callback: handleCredentialResponse
+      });
+      google.accounts.id.prompt();
+    };
+  </script> -->
+  <script src="src/assets/script/framework/external/google.3a359.js"></script>
+  <script src="src/assets/script/framework/external/facebook.37b8f.js"></script>
+  <script src="https://telegram.org/js/telegram-widget.js"></script>
+  <script src="src/assets/script/framework/external/twitter.b9372.js"></script>
+  <!-- <script src="https://telegram.org/js/telegram-widget.js"></script> -->
+  <!-- <script src="https://accounts.google.com/gsi/client" async defer></script> -->
+
+  <script src="main.js" charset="utf-8"></script>
+  <input id="file" type="file" accept="image/*" style="opacity: 0 ; height: 0px;" class="fileToUpload"
+    onchange="webHandleFiles(this)" />
+
+  <script type="text/javascript">
+    (function () {
+      // open web debugger console
+      if (typeof VConsole !== 'undefined') {
+        window.vConsole = new VConsole();
+      }
+
+      var debug = window._CCSettings.debug;
+      var splash = document.getElementById('splash');
+      splash.style.display = 'block';
+
+      function loadScript(moduleName, cb) {
+        function scriptLoaded() {
+          document.body.removeChild(domScript);
+          domScript.removeEventListener('load', scriptLoaded, false);
+          cb && cb();
+        };
+        var domScript = document.createElement('script');
+        domScript.async = true;
+        domScript.src = moduleName;
+        domScript.addEventListener('load', scriptLoaded, false);
+        document.body.appendChild(domScript);
+      }
+
+      loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.js', function () {
+        if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
+          loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
+        }
+        else {
+          window.boot();
+        }
+      });
+    })();
+  </script>
+
+  <!-- Start of LiveChat (www.livechatinc.com) code -->
+  <!-- ariel96300@gmail.com
+       arielariel96300 -->
+  <script type="text/javascript">
+    window.__lc = window.__lc || {};
+    window.__lc.license = 14155977;
+    ; (function (n, t, c) {
+      function i(n) { return e._h ? e._h.apply(null, n) : e._q.push(n) };
+      var e = {
+        _q: [], _h: null, _v: "2.0", on: function () { i(["on", c.call(arguments)]) }, once: function () {
+          i(["once", c.call(arguments)])
+        }, off: function () { i(["off", c.call(arguments)]) },
+        get: function () {
+          if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
+          return i(["get", c.call(arguments)])
+        }, call: function () { i(["call", c.call(arguments)]) }, init: function () {
+          var n = t.createElement("script");
+          n.async = !0, n.type = "text/javascript",
+            n.src = "https://cdn.livechatinc.com/tracking.js", t.head.appendChild(n)
+        }
+      };
+      !n.__lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
+    }(window, document, [].slice))
+  </script>
+  <!-- <noscript>
+    <a href="https://www.livechatinc.com/chat-with/14155977/" rel="nofollow">Chat with us</a>,
+    powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+  </noscript> -->
+  <!-- End of LiveChat code -->
+
+  <script type="text/javascript">
+      (function () {
+        LiveChatWidget.on('ready', function () {
+          LiveChatWidget.call("hide");
+        })
+
+        LiveChatWidget.on('visibility_changed', function (data) {
+          switch (data.visibility) {
+            case "minimized":
+              LiveChatWidget.call("hide");
+              break;
+          }
+        })
+        // function getPos(ev) {
+        //   var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+        //   var scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+        //   return { x: ev.clientX + scrollTop, y: ev.clientY + scrollLeft };
+        // }
+        // var oDiv = document.getElementById('dragable-box');
+        // var disX = 0;
+        // var disY = 0;
+
+        // oDiv.onpointerdown = function (ev) {
+        //   var oEvent = ev || event;
+        //   disX = getPos(oEvent).x - oDiv.offsetLeft;
+        //   disY = getPos(oEvent).y - oDiv.offsetTop;
+        //   document.onpointermove = function (ev) {
+        //     var oEvent = ev || event;
+        //     var l = oEvent.clientX - disX;
+        //     var t = oEvent.clientY - disY;
+        //     if (l < 0) {
+        //       l = 0;
+        //     } else if (l > document.documentElement.clientWidth - oDiv.offsetWidth) {
+        //       l = document.documentElement.clientWidth - oDiv.offsetWidth;
+        //     }
+        //     if (t < 0) {
+        //       t = 0;
+        //     } else if (t > document.documentElement.clientHeight - oDiv.offsetHeight) {
+        //       t = document.documentElement.clientHeight - oDiv.offsetHeight;
+        //     }
+        //     oDiv.style.left = l + 'px';
+        //     oDiv.style.top = t + 'px';
+        //   }
+        //   document.onpointerup = function () {
+        //     document.onpointermove = null;
+        //     document.onpointerup = null;
+        //     LiveChatWidget.call('maximize')
+        //   }
+        //   return false;
+        // }
+
+        const oDiv = document.getElementById('dragable-box');
+        var oL, oT, sL, sT;
+        //touchstart事件  
+        function touchSatrtFunc(e) {
+          e.preventDefault(); //阻止触摸时浏览器的缩放、滚动条滚动等  
+          var touch = e.touches[0]; //获取第一个触点  
+          var x = Number(touch.pageX); //页面触点X坐标  
+          var y = Number(touch.pageY); //页面触点Y坐标  
+          //记录触点初始位置  
+          startX = x;
+          startY = y;
+          oL = oDiv.offsetLeft;                    		      //可拖动元素距离页面左侧的距离
+          oT = oDiv.offsetTop;                     		      //可拖动元素距离页面顶部的距离
+          sL = x - oL; 		   //获取页面触点距离div左侧的距离  
+          sT = y - oT;           //获取页面触点距离div顶部的距离
+        }
+        //touchmove事件 
+        function touchMoveFunc(e) {
+          e.preventDefault(); //阻止触摸时浏览器的缩放、滚动条滚动等   
+          var touch = e.touches[0]; 	//获取第一个触点  
+          var x = Number(touch.pageX); //页面触点X坐标  
+          var y = Number(touch.pageY); //页面触点Y坐标 
+          oDiv.style.left = (x - sL) + 'px';
+          oDiv.style.top = (y - sT) + 'px';
+        }
+        oDiv.addEventListener('touchstart', touchSatrtFunc, false);
+        oDiv.addEventListener('touchmove', touchMoveFunc, false);
+
+        oDiv.onpointerdown = function (ev) {
+          document.onpointerup = function () {
+            document.onpointerup = null;
+            LiveChatWidget.call('maximize')
+          }
+          return false;
+        }
+      })();
+  </script>
+</body>
+
+</html>

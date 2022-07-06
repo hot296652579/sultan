@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "heng",
+    "texture": "8614f3a6-84e8-491a-bed2-3a88bc0f5700",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      28,
+      7
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      28,
+      7
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

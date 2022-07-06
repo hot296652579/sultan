@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_mines",
+    "texture": "4bc22ce2-85e7-4426-9dc0-56a0a195ed06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      219
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

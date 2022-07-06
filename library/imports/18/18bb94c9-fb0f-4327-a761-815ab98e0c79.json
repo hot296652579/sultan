@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shuxian",
+    "texture": "a96da5b1-e8bc-40a3-9ddd-d421940e83f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

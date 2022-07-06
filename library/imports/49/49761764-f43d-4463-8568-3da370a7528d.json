@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tx_guanbi",
+    "texture": "d237657a-1162-4da7-834e-7e73205db59f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

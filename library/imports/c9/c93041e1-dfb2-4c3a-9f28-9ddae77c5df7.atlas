@@ -1,0 +1,48 @@
+
+xyx_bx.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_1
+  rotate: false
+  xy: 2, 264
+  size: 202, 223
+  orig: 202, 223
+  offset: 0, 0
+  index: -1
+chest_2_1
+  rotate: false
+  xy: 206, 426
+  size: 200, 61
+  orig: 200, 61
+  offset: 0, 0
+  index: -1
+chest_open
+  rotate: true
+  xy: 108, 101
+  size: 161, 78
+  orig: 161, 78
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 2, 2
+  size: 260, 104
+  orig: 260, 104
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 206, 354
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 408, 434
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1

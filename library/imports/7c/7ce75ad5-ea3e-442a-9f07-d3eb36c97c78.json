@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiangbei2",
+    "texture": "684818a9-9889-4ae1-9cb3-ebbc46e681b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pusat tugas",
+    "texture": "b416fd56-928e-4fdc-a17f-2eba421ce4a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

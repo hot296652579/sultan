@@ -1,0 +1,138 @@
+syntax = "proto3";
+package MST;
+import "OuterMessage_Gate.proto";
+
+//OpCode 10202
+message M2C_CreateUnits_Mes // IActorMessage
+{
+	repeated UnitInfo Units = 2;//需要创建的玩家信息
+}
+
+//OpCode 10203
+message M2C_CreateMyUnit_Mes // IActorMessage
+{
+	UnitInfo Unit = 1;//创建自己的信息
+}
+
+//OpCode 10204
+message M2C_StartSceneChange_Mes // IActorMessage
+{
+	RoomInfo RoomScene = 1;
+}
+
+//OpCode 10205
+message M2C_RemoveUnits_Mes // IActorMessage
+{
+	repeated int64 Units = 2;//需要移除的玩家
+}
+
+//进入房间
+//ResponseType M2C_TransferMap_Res
+//OpCode 10206
+message C2M_TransferMap_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+	string RoomName = 1;
+}
+
+//OpCode 10207
+message M2C_TransferMap_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	// 客户端发什么服务器返什么
+	string RoomName = 1;
+}
+
+enum LoginType
+{
+	//游客登录
+	Anonymous = 0;
+	//电话登录
+	Telephone = 1;
+	//google登录
+	Goggle = 2;
+	//FaceBook登录
+	FaceBook = 3;
+	//TWitter登录
+	Twittwer = 4;
+	//Telegram登录
+	Telegram = 5;
+	//快速登录
+	Fast = 6;
+	//Token登陆
+	Token = 7;
+}
+
+//ResponseType M2C_Auth_Res
+//OpCode 10208
+message C2M_Auth_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+	//账号
+	string  AuthKey = 2;
+	//密码
+	string  Password = 3;
+
+	//登录类型：0-游客登录 1-电话登录 2-Goggle登录 3-FaceBook登录 4-Twitter登录 5-Telegram登录 6-快速登录
+	int32 AuthType = 4;
+	
+	//第三方ID
+	string  ThirdId = 5;
+	
+	//imei 客户端唯一标识
+	string imei = 6;
+	//带的邀请码
+	string invcode = 7;	
+}
+
+//OpCode 10209
+message M2C_Auth_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	string FastAuthToken = 1;
+	//玩家ID
+	int64 AccountId = 2;
+	//玩家信息
+	UnitInfo PlayerInfo = 3;
+	//所在房间名称
+	string RoomName = 4;
+	// 绑定后的邮箱
+	string BindEmail = 5;
+	// 手机号
+	string phonoNo = 6;
+	// 推广码
+	string extendCode = 7;
+	// 登陆方式
+	int32 loginType = 8;
+}
+
+//ResponseType M2C_AuthOut_Res
+//OpCode 10210
+message C2M_AuthOut_Req // IActorLocationRequest
+{
+    int32 RpcId = 90;
+}
+
+//OpCode 10211
+message M2C_AuthOut_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+}
+ 
+//OpCode 10212
+message M2C_KickOut_Mes // IActorMessage
+{
+
+}
+
+//OpCode 10213
+message M2C_GoldChange_Mes // IActorMessage
+{
+	int64 Gold = 1;
+}

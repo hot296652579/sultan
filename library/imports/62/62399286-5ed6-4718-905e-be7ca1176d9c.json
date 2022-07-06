@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wingo_system_num",
+    "texture": "0422551e-f63f-4dc1-9a89-fd6f7f34a075",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      251,
+      230
+    ],
+    "offset": [
+      -0.5,
+      11
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

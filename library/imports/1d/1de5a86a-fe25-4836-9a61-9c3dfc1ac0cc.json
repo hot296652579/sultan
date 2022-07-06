@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_youxiang",
+    "texture": "31505bf0-d680-4464-aad4-282e73722915",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

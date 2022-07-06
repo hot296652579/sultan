@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhadan_bg",
+    "texture": "fffbc90d-3595-4d81-8162-8af47a68ffcd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      610
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      610
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

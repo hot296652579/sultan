@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tongji",
+    "texture": "59a5be0c-7eb5-4f5b-b616-bd0589a6b273",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      129,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      129,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

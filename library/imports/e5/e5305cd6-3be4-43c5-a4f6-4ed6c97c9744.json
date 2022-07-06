@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Right arrow",
+    "texture": "8294aad7-8768-48b6-b1b0-0d995ad6f554",
+    "atlas": "",
+    "rect": [
+      10,
+      5,
+      15,
+      26
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      36,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

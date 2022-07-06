@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redcirle",
+    "texture": "d82a349d-2fcd-484b-9275-6eec0d82915b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

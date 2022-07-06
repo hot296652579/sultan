@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "telagram",
+    "texture": "c9969685-5158-4585-ac7d-fc431fbcb737",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+syntax = "proto3";
+package MST;
+
+
+enum OuterOpcode_Map
+{
+	None = 0;
+	M2C_CreateUnits_Mes = 10202;
+	M2C_CreateMyUnit_Mes = 10203;
+	M2C_StartSceneChange_Mes = 10204;
+	M2C_RemoveUnits_Mes = 10205;
+	C2M_TransferMap_Req = 10206;
+	M2C_TransferMap_Res = 10207;
+	C2M_Auth_Req = 10208;
+	M2C_Auth_Res = 10209;
+	C2M_AuthOut_Req = 10210;
+	M2C_AuthOut_Res = 10211;
+	M2C_KickOut_Mes = 10212;
+	M2C_GoldChange_Mes = 10213;
+}

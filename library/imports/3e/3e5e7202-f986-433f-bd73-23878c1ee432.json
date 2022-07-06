@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.BitmapFont",
+  "_name": "font2",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "dd88bb5e-7cf4-45ba-b389-e96be2415477"
+  },
+  "fontSize": 123,
+  "_fntConfig": {
+    "commonHeight": 123,
+    "fontSize": 123,
+    "atlasName": "font2.png",
+    "fontDefDictionary": {
+      "49": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 79,
+          "height": 123
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 79
+      },
+      "50": {
+        "rect": {
+          "x": 80,
+          "y": 0,
+          "width": 79,
+          "height": 123
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 79
+      },
+      "51": {
+        "rect": {
+          "x": 160,
+          "y": 0,
+          "width": 79,
+          "height": 123
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 79
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

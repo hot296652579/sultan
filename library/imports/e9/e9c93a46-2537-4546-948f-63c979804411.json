@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_lan",
+    "texture": "f726abd1-1167-4b5b-a00a-fad7de80ca55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      600,
+      101
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

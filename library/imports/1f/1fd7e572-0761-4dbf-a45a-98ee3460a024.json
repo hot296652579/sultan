@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluecirle1",
+    "texture": "d68d675e-b6e3-41e6-a669-dd19085c13b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

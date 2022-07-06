@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_crash_new",
+    "texture": "c7d4e10b-1409-4a60-902b-32b4c958936b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

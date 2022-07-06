@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jiantou",
+    "texture": "f32a45a7-e9ad-4600-9158-1696dc9c06c6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      15,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      15,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

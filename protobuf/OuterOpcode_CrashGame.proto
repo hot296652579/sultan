@@ -1,0 +1,26 @@
+syntax = "proto3";
+package MST;
+
+
+enum OuterOpcode_CrashGame
+{
+	None = 0;
+	C2M_GetCrashInfo_Req = 10402;
+	M2C_GetCrashInfo_Res = 10403;
+	M2C_CrashStart_mes = 10404;
+	C2M_MyCrashBet_Req = 10405;
+	M2C_MyCrashBet_Res = 10406;
+	M2C_CrashBet_Mes = 10407;
+	M2C_CrashStop_Mes = 10408;
+	M2C_CrashStartBet_Mes = 10409;
+	M2C_CrashEscape_Mes = 10410;
+	M2C_CrashStopBet_Mes = 10411;
+	C2M_CrashCancelAutoBet_Req = 10412;
+	M2C_CrashCancelAutoBet_Res = 10413;
+	M2C_CrashCancelAutoBet_Mes = 10414;
+	M2C_CrashHash_Mes = 10415;
+	C2M_CrashHashRecord_Req = 10416;
+	M2C_CrashHashRecord_Res = 10417;
+	C2S_CrashMyRecord = 10418;
+	S2C_CrashMyRecord = 10419;
+}

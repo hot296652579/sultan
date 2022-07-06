@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "twitter",
+    "texture": "8d737b85-05db-48cf-b348-639116d66c94",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      146,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      146,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

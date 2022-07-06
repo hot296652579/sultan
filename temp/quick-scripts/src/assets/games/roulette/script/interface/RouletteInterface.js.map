@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/games/roulette/script/interface/RouletteInterface.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["import { MST } from \"../../../../script/framework/external/protoc\";\n\nexport namespace RouletteInterface {\n\n    export interface BetPlayer {\n        betInfo: MST.IRouletteBetInfo,\n    }\n\n}"]}

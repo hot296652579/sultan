@@ -1,0 +1,180 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "063b1003-61d9-4edc-921d-7835bf7c9819": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229781
+    },
+    "7cfae55d-6bd7-4573-b4ca-673cea8d0195": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229801
+    },
+    "1d962f0d-d7fc-4e5c-8b2e-661dee08a0ae": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229801
+    },
+    "a404b47f-dab2-43b9-9a4a-5ea0e5a32ef9": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229802
+    },
+    "15a5ad9d-26e2-4e98-a7ca-8e86a82a9d71": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229802
+    },
+    "d00c1f60-ba1e-467b-b95b-fc70a0a256fa": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229805
+    },
+    "185be06f-08f9-4693-95d7-2ef8ee6cf3c9": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229805
+    },
+    "f5d61192-2d90-465d-9eea-9f688cf35612": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229799
+    },
+    "2adabad2-7475-4a54-b9c1-7edd30e47311": {
+      "assetMtime": 1647255625000,
+      "metaMtime": 1647574229799
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "063b1003-61d9-4edc-921d-7835bf7c9819",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bd_zst_wg",
+            "uuid": "d00c1f60-ba1e-467b-b95b-fc70a0a256fa",
+            "textureUuid": "185be06f-08f9-4693-95d7-2ef8ee6cf3c9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648881221978_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 902,
+              "height": 245,
+              "rotatedWidth": 245,
+              "rotatedHeight": 902
+            },
+            "rawWidth": 902,
+            "rawHeight": 245,
+            "width": 908,
+            "height": 251,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/18/185be06f-08f9-4693-95d7-2ef8ee6cf3c9.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 251,
+            "rotatedHeight": 908
+          },
+          {
+            "name": "hhdz_trend",
+            "uuid": "7cfae55d-6bd7-4573-b4ca-673cea8d0195",
+            "textureUuid": "1d962f0d-d7fc-4e5c-8b2e-661dee08a0ae",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648881221978_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 911,
+              "width": 221,
+              "height": 59,
+              "rotatedWidth": 221,
+              "rotatedHeight": 59
+            },
+            "rawWidth": 221,
+            "rawHeight": 59,
+            "width": 227,
+            "height": 65,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1d/1d962f0d-d7fc-4e5c-8b2e-661dee08a0ae.png",
+            "x": 0,
+            "y": 908,
+            "rotatedWidth": 227,
+            "rotatedHeight": 65
+          },
+          {
+            "name": "bd_zst_btn_ts",
+            "uuid": "f5d61192-2d90-465d-9eea-9f688cf35612",
+            "textureUuid": "2adabad2-7475-4a54-b9c1-7edd30e47311",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648881221978_image_3.png",
+            "trim": {
+              "x": 230,
+              "y": 911,
+              "width": 48,
+              "height": 48,
+              "rotatedWidth": 48,
+              "rotatedHeight": 48
+            },
+            "rawWidth": 48,
+            "rawHeight": 48,
+            "width": 54,
+            "height": 54,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2a/2adabad2-7475-4a54-b9c1-7edd30e47311.png",
+            "x": 227,
+            "y": 908,
+            "rotatedWidth": 54,
+            "rotatedHeight": 54
+          },
+          {
+            "name": "bd_zst_wg01",
+            "uuid": "a404b47f-dab2-43b9-9a4a-5ea0e5a32ef9",
+            "textureUuid": "15a5ad9d-26e2-4e98-a7ca-8e86a82a9d71",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1648881221978_image_1.png",
+            "trim": {
+              "x": 254,
+              "y": 3,
+              "width": 902,
+              "height": 221,
+              "rotatedWidth": 221,
+              "rotatedHeight": 902
+            },
+            "rawWidth": 902,
+            "rawHeight": 221,
+            "width": 908,
+            "height": 227,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/15/15a5ad9d-26e2-4e98-a7ca-8e86a82a9d71.png",
+            "x": 251,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 227,
+            "rotatedHeight": 908
+          }
+        ],
+        "width": 478,
+        "height": 973,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/games/crash/atlas/trend/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/games/crash/atlas/trend/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

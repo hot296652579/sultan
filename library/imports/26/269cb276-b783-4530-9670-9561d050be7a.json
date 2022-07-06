@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crash",
+    "texture": "28fec4dd-3f8a-4a71-9298-7fb3cfc2cdae",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      555,
+      223
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      559,
+      228
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

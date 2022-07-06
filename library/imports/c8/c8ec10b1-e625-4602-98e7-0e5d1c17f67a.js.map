@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/common/define/LocalStorageDefine.ts"],"names":[],"mappings":";;;;;;;AAAA,WAAW;AACE,QAAA,aAAa,GAAW,eAAe,CAAC","file":"","sourceRoot":"/","sourcesContent":["// 账号 token\nexport const ACCOUNT_TOKEN: string = \"ACCOUNT_TOKEN\";"]}

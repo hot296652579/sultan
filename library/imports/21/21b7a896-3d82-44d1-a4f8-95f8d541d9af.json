@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yanzhengma",
+    "texture": "197c7f56-7c10-474e-953a-976289f88fbd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

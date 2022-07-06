@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titlle1",
+    "texture": "faac3f62-aabb-4c15-971a-a1692fdb0735",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      282,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

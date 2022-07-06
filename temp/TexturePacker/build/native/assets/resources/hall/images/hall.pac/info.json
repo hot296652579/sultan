@@ -1,0 +1,4272 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "d5f49e4f-2c47-46af-a325-62609e0a4b9c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217018
+    },
+    "0156ec4f-f024-46f8-a94f-85e4894a66dc": {
+      "assetMtime": 1650970956964,
+      "metaMtime": 1651026375188
+    },
+    "2a152e34-eb24-4aa7-a51b-d5d334cb11fb": {
+      "assetMtime": 1650970956964,
+      "metaMtime": 1651026375188
+    },
+    "031b3117-fa3d-44ff-885d-312575b27ac0": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216826
+    },
+    "53483063-f941-4937-962d-71e1dabe06ac": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216826
+    },
+    "034c8b74-2161-4659-b5e6-4eda482545bd": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216861
+    },
+    "7516878b-9478-458c-90bf-72ad1d5c281f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216861
+    },
+    "038645bb-6fdb-47a4-8e8e-9440175faf01": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217031
+    },
+    "e7b62247-64a0-46f6-b7e6-2540448af657": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217031
+    },
+    "067bfccf-c8bd-4f5a-b30a-2e6827ad332a": {
+      "assetMtime": 1652240074843,
+      "metaMtime": 1652693904654
+    },
+    "5e17fa19-1f0c-4033-9c6a-a275861144bf": {
+      "assetMtime": 1652240074843,
+      "metaMtime": 1652693904654
+    },
+    "06a7e0f5-2f1a-41a9-bacd-4b045d825228": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216854
+    },
+    "6a7dc226-a6d2-404d-a50f-c96ce5628fb9": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216854
+    },
+    "06b691e4-cb41-4705-9542-dc66de17a461": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216884
+    },
+    "d914fe3d-150a-4eb1-b364-57f3c8073875": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216884
+    },
+    "073c8413-22f5-43c5-89f7-9972989307e5": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240505
+    },
+    "fd8191c8-c7be-4af6-9662-c63108f7f2c4": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240505
+    },
+    "0880310a-736e-451f-a85c-b63b35104dbe": {
+      "assetMtime": 1650970956981,
+      "metaMtime": 1651027570505
+    },
+    "122d28aa-84da-4b13-9836-fbb0e94cbb83": {
+      "assetMtime": 1650970956981,
+      "metaMtime": 1651027570505
+    },
+    "0a234c00-9bfc-4848-8c32-35f9a1ca54ab": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217017
+    },
+    "eea7f6b1-b94d-40c8-91b8-cd09d8d33e17": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217017
+    },
+    "0aa46f85-98f5-4766-b14c-42c98c0d3164": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216708
+    },
+    "16b7c671-96b8-4c26-af09-f47b8b8762ce": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216708
+    },
+    "0bd7df07-39a1-4341-bf44-eddb045da7d5": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217013
+    },
+    "bd4c6897-f07d-49de-884e-269401205d79": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217013
+    },
+    "0bfb720d-7ce9-41c7-8338-2d61be67ee64": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216930
+    },
+    "944a7770-719e-49ce-b6d7-bb56b92b2c3a": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216930
+    },
+    "0e6431fd-0993-4e4a-8266-0b81a2654a68": {
+      "assetMtime": 1653469414591,
+      "metaMtime": 1655973367373
+    },
+    "3a04296a-8e8d-4a35-9712-2440325ff7c0": {
+      "assetMtime": 1653469414591,
+      "metaMtime": 1655973367373
+    },
+    "10523ec9-86cb-4c7b-b4f6-9fd6b297f14a": {
+      "assetMtime": 1649743806956,
+      "metaMtime": 1652259149649
+    },
+    "19b8b87d-2324-43a6-a11f-decfffca9b7c": {
+      "assetMtime": 1649743806956,
+      "metaMtime": 1652259149649
+    },
+    "11a293d7-a3e4-44a6-8c51-c55871ed1520": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216932
+    },
+    "968e39ce-4f31-46ce-b410-94d2fb943e1d": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216932
+    },
+    "14ea3636-6f94-4bcb-871f-8b99f673fb1c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217014
+    },
+    "5dd1da37-56b5-45ec-9dfb-0ce83c0fcfa8": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217014
+    },
+    "152af24b-ced4-4331-97af-aaa56bf39677": {
+      "assetMtime": 1653469414590,
+      "metaMtime": 1653538386882
+    },
+    "54693ff7-36dd-406a-a841-ff6d257f24c4": {
+      "assetMtime": 1653469414590,
+      "metaMtime": 1653538386882
+    },
+    "1871c12b-3cb4-4825-b2ef-0001a4f41596": {
+      "assetMtime": 1653982948646,
+      "metaMtime": 1653985909143
+    },
+    "00b9f9af-90ee-4d37-af11-dd63f6fa7c31": {
+      "assetMtime": 1653982948646,
+      "metaMtime": 1653985909143
+    },
+    "19c93e86-0e5d-423a-9e2d-64c70059cd98": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216859
+    },
+    "f4c39084-d2c3-4387-9522-da1a8dff2a32": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216859
+    },
+    "1b124f49-8689-410b-9ec5-7fee9662f5af": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216840
+    },
+    "1fa53e49-0895-488d-b2b1-a0777f716087": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216840
+    },
+    "1f7d79bf-c92a-4c96-b5e9-2b3ff772209c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217035
+    },
+    "522bb705-5c1c-420e-9cf9-8d7c1fbc727f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217035
+    },
+    "1fa9b3c0-897b-4d35-ba5a-e199365fe8d8": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216901
+    },
+    "f3519541-f553-403d-b2b8-37e49e7d0213": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216901
+    },
+    "247d2519-9044-4672-85f7-df53367ace0c": {
+      "assetMtime": 1653469414591,
+      "metaMtime": 1655973367368
+    },
+    "9e359133-64ae-426f-8df3-035a1ff87899": {
+      "assetMtime": 1653469414591,
+      "metaMtime": 1655973367368
+    },
+    "2a554c19-15e1-488a-8b41-a89e2135323b": {
+      "assetMtime": 1650970956967,
+      "metaMtime": 1651026375196
+    },
+    "3296b1d8-9a40-4bc1-93e7-f11eb3d6581a": {
+      "assetMtime": 1650970956967,
+      "metaMtime": 1651026375196
+    },
+    "2f24f8ec-e2bf-478b-9e08-93cce4c074ff": {
+      "assetMtime": 1650970956976,
+      "metaMtime": 1651026375224
+    },
+    "1caf3a8d-1d60-4d2e-84f3-3dee01943ea2": {
+      "assetMtime": 1650970956976,
+      "metaMtime": 1651026375224
+    },
+    "37aaade2-5055-4625-8cd8-4a760796220f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216934
+    },
+    "9a61e50f-c08a-440c-8e5b-dc7686449939": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216934
+    },
+    "3bc31dd6-75ef-4b35-becc-d19b8f35bc48": {
+      "assetMtime": 1650970956953,
+      "metaMtime": 1651026375147
+    },
+    "69b59d30-0efd-4d23-88a2-ec1a99f35f33": {
+      "assetMtime": 1650970956953,
+      "metaMtime": 1651026375147
+    },
+    "3d02344c-2792-4038-875b-a8dcba0c8620": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216856
+    },
+    "bfc0cf23-55ae-441b-b91d-9815613e8177": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216856
+    },
+    "3dcc19f0-589b-4178-88ae-5c8e213a12f1": {
+      "assetMtime": 1653469414593,
+      "metaMtime": 1654582715129
+    },
+    "f2967a29-b4bf-44e3-9396-5beff88cf609": {
+      "assetMtime": 1653469414593,
+      "metaMtime": 1654582715129
+    },
+    "3e67d9ad-784b-4231-8c96-47969acdd9a7": {
+      "assetMtime": 1649815972951,
+      "metaMtime": 1653471388469
+    },
+    "cc1025da-48d7-44fd-9151-d20bc931b2a0": {
+      "assetMtime": 1649815972951,
+      "metaMtime": 1653471388469
+    },
+    "3e9eec82-5315-445d-9729-84d8580af4a5": {
+      "assetMtime": 1650970956954,
+      "metaMtime": 1651026375148
+    },
+    "c947fda6-5a9b-492a-9dcd-6e50bf28be22": {
+      "assetMtime": 1650970956954,
+      "metaMtime": 1651026375148
+    },
+    "3f6d8b10-1d3c-41eb-9c2c-9c88308ff9fb": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216908
+    },
+    "353a40a6-f5e6-4106-89ca-d62617c0ecc9": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216908
+    },
+    "47782d3c-9ff4-49d5-a295-3656bef83c92": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216907
+    },
+    "d2637479-44e9-456e-9030-2da849169fbb": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216907
+    },
+    "478ab0cb-11a4-4827-8363-0603aab5534e": {
+      "assetMtime": 1650970956960,
+      "metaMtime": 1651026375172
+    },
+    "2242b937-39f9-4d60-b468-04c897226f7f": {
+      "assetMtime": 1650970956960,
+      "metaMtime": 1651026375172
+    },
+    "4d691729-2946-4795-a5ef-f3a75d4169c2": {
+      "assetMtime": 1650970956986,
+      "metaMtime": 1651026375247
+    },
+    "59cd64ec-2905-40cc-8e85-9b1d1855a0f6": {
+      "assetMtime": 1650970956986,
+      "metaMtime": 1651026375247
+    },
+    "4ea7d402-26f3-48aa-9a3a-6a366411d02b": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216990
+    },
+    "1fc4d50f-c226-4fdd-96de-ec56d83076dc": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216990
+    },
+    "501ab038-ac52-45b2-8f56-d776a67dc0e0": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216911
+    },
+    "5f7744ab-9e21-4805-8d09-469920198801": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216911
+    },
+    "50a909e6-5b3f-4b1c-841c-f71feefa7479": {
+      "assetMtime": 1653469414589,
+      "metaMtime": 1653538386880
+    },
+    "e806b530-fee1-4cd8-999d-ec370864bcb1": {
+      "assetMtime": 1653469414589,
+      "metaMtime": 1653538386880
+    },
+    "5110f9dd-c19b-4466-a3c4-c5dc33ce900e": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216807
+    },
+    "2586667d-65ca-4599-9665-9bed646adc46": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216807
+    },
+    "5332972d-0e08-48e6-a171-4346e603819b": {
+      "assetMtime": 1649815972951,
+      "metaMtime": 1653471149772
+    },
+    "de2efc59-9f43-40b2-82b7-9cd882fd4194": {
+      "assetMtime": 1649815972951,
+      "metaMtime": 1653471149772
+    },
+    "539a19f6-34ce-4a49-8abe-8757a615e25e": {
+      "assetMtime": 1653469414592,
+      "metaMtime": 1654582715131
+    },
+    "61908e41-5d40-4901-9174-ce2ebb8837ce": {
+      "assetMtime": 1653469414592,
+      "metaMtime": 1654582715131
+    },
+    "53b684fb-17df-4215-ab8b-2e7c1497347a": {
+      "assetMtime": 1650970956974,
+      "metaMtime": 1651026375215
+    },
+    "51fe193c-81b3-4b22-b75e-4cfd22d50c12": {
+      "assetMtime": 1650970956974,
+      "metaMtime": 1651026375215
+    },
+    "54123e8d-56db-4610-a96d-d9bbfdd1139c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216973
+    },
+    "9ff99088-805f-4321-88aa-af90c2756831": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216973
+    },
+    "5590ed8d-c4b1-46b7-b00c-abdc32ed7451": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216853
+    },
+    "e6516e38-1281-4a9c-8d7a-d31ee32577cc": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216853
+    },
+    "56e61d9d-0981-4c80-a289-6f46eec27cc6": {
+      "assetMtime": 1655973441803,
+      "metaMtime": 1655973590456
+    },
+    "67744414-abea-48a9-9e26-e878b48dc572": {
+      "assetMtime": 1655973441803,
+      "metaMtime": 1655973590456
+    },
+    "57a2d8b7-e51f-4ea2-9724-cfe8b34df72f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216952
+    },
+    "e98e386e-5c01-45c4-afc9-b727bf4b5c09": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216952
+    },
+    "58a39c69-79cb-4238-9545-eca49b9c8e20": {
+      "assetMtime": 1650970956965,
+      "metaMtime": 1651026375189
+    },
+    "45f815d1-8da3-4db0-be57-216184452773": {
+      "assetMtime": 1650970956965,
+      "metaMtime": 1651026375189
+    },
+    "5b2dd5f0-ddfb-4465-89aa-7983664b1061": {
+      "assetMtime": 1650970956946,
+      "metaMtime": 1651026375112
+    },
+    "f02c68bf-b140-4a3d-86ba-6e2166f87cd3": {
+      "assetMtime": 1650970956946,
+      "metaMtime": 1651026375112
+    },
+    "5fb084e6-84f4-424c-bcad-ec3fdae2ad1e": {
+      "assetMtime": 1650970956970,
+      "metaMtime": 1652693904662
+    },
+    "2be1215c-0002-4b72-95e2-ec699d92886d": {
+      "assetMtime": 1650970956970,
+      "metaMtime": 1652693904662
+    },
+    "61b231da-5ee6-4326-a033-9e68e4f975f7": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216878
+    },
+    "9fa1d9e0-6940-4b45-8790-56b1132ed6ef": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216878
+    },
+    "631950d6-6fcc-4a4b-a4a7-fa98c14a47b8": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217045
+    },
+    "0346d766-d802-48c2-893f-7ad367d6e17f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217045
+    },
+    "654a2158-306b-4d0a-9761-78f69e1fd25b": {
+      "assetMtime": 1649815972950,
+      "metaMtime": 1653471149776
+    },
+    "bcae5966-1306-4e5b-b9e6-8ce27473f13f": {
+      "assetMtime": 1649815972950,
+      "metaMtime": 1653471149776
+    },
+    "65c86959-3472-44c9-9617-b1ed22004c89": {
+      "assetMtime": 1650970956962,
+      "metaMtime": 1651026375175
+    },
+    "d8df011b-5c42-4f17-a1f8-a52d7335eedc": {
+      "assetMtime": 1650970956962,
+      "metaMtime": 1651026375175
+    },
+    "66eb6f91-ff9b-4395-92a9-90ef983ea1bc": {
+      "assetMtime": 1650970956979,
+      "metaMtime": 1651026375228
+    },
+    "b28f5fb1-604c-444e-ab0d-9e499aeee089": {
+      "assetMtime": 1650970956979,
+      "metaMtime": 1651026375228
+    },
+    "6845cc18-4cc9-4ee2-8c3b-29e569732e85": {
+      "assetMtime": 1650970956966,
+      "metaMtime": 1651026375193
+    },
+    "71c353ef-ad5c-4d86-a50e-7a414a595f8f": {
+      "assetMtime": 1650970956966,
+      "metaMtime": 1651026375193
+    },
+    "6cdfd28d-450b-4023-893d-5bc77e1a5e1c": {
+      "assetMtime": 1653469414592,
+      "metaMtime": 1654582715130
+    },
+    "30df7e3f-494a-4ef3-91a4-6e3435f4e2f0": {
+      "assetMtime": 1653469414592,
+      "metaMtime": 1654582715130
+    },
+    "6d418b9b-91bd-4b48-b440-63bb37b4912f": {
+      "assetMtime": 1650970956989,
+      "metaMtime": 1651026375257
+    },
+    "67074291-5251-4e42-b8a3-f288ae253f03": {
+      "assetMtime": 1650970956989,
+      "metaMtime": 1651026375257
+    },
+    "6ed9655e-4d9c-4012-bdb2-abb331d59908": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217042
+    },
+    "b2120cb1-9d94-4a4f-800d-53e8596847c2": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217042
+    },
+    "73abf9a4-0e2a-43f7-8bcf-f6340c457f0e": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217043
+    },
+    "fc39a08d-5b2e-408f-aa5e-3bb3967fc66c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217043
+    },
+    "75b5d4ce-05ee-4c7b-bff8-0ed01d80f7c8": {
+      "assetMtime": 1650970956945,
+      "metaMtime": 1651026375105
+    },
+    "248d1a59-9c46-444e-bfdd-950b1226264f": {
+      "assetMtime": 1650970956945,
+      "metaMtime": 1651026375105
+    },
+    "76ea22db-f249-4913-98dd-156a6fa412d4": {
+      "assetMtime": 1649743806951,
+      "metaMtime": 1652255589885
+    },
+    "e24900b2-a71d-4459-a762-e4e3a7f7d16e": {
+      "assetMtime": 1649743806951,
+      "metaMtime": 1652255589885
+    },
+    "78f3b943-0c2e-4600-a71c-14f87193a022": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216865
+    },
+    "1c9b4c6f-f355-4af0-bcd1-6bb3473910c2": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216865
+    },
+    "7a162906-d930-439d-b7c3-dd6fcc724f3c": {
+      "assetMtime": 1650970956963,
+      "metaMtime": 1651026375178
+    },
+    "6648b432-138a-413d-8743-9fb299cceb66": {
+      "assetMtime": 1650970956963,
+      "metaMtime": 1651026375178
+    },
+    "7c0b65fb-c948-4c6e-9bf8-b1a45b6688d9": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217012
+    },
+    "704ba29b-474f-411f-80be-d80a5b477c22": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217012
+    },
+    "7c21efed-2cd9-47a8-b850-30bdd5dceb70": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216993
+    },
+    "6fa9c0d9-841b-45af-b7fc-03881f72867d": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216993
+    },
+    "7c96ed44-2636-4ac8-a2c2-924a054ddc18": {
+      "assetMtime": 1650970956946,
+      "metaMtime": 1651026375117
+    },
+    "bf7d4b39-5ddc-4a50-9222-705caea69d73": {
+      "assetMtime": 1650970956946,
+      "metaMtime": 1651026375117
+    },
+    "81c937a9-51e0-4d21-af11-6674b8837a3f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216828
+    },
+    "9202113d-415d-4890-9c21-f35652ebf03d": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216828
+    },
+    "82f00170-2daa-40cf-8455-67fcdb1ce8a0": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216905
+    },
+    "ccfb6087-b6c8-428e-8e37-9c69793b406d": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216905
+    },
+    "85c1dacf-e7d3-414e-bb23-310545df036d": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216797
+    },
+    "4e3278d7-2d58-45a9-8603-356fcdc4c2a6": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216797
+    },
+    "89e17348-d8da-4fb9-b7d8-065b695d8e74": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217021
+    },
+    "f207a24f-1b8a-41c1-9002-77eed5cc33da": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217021
+    },
+    "8a114a06-d8e3-412e-9ba2-44c2487096a6": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216914
+    },
+    "ba3faa47-9eca-4b94-ac2b-4209c7b03fd7": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216914
+    },
+    "8a321559-0ca9-4b51-986c-81cb8938587e": {
+      "assetMtime": 1650970956959,
+      "metaMtime": 1651026375166
+    },
+    "d4e18324-f174-452f-a222-dd95c3a1ad97": {
+      "assetMtime": 1650970956959,
+      "metaMtime": 1651026375166
+    },
+    "8d63c2b2-bc23-4712-b2b8-03450723d5c1": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240495
+    },
+    "92714999-5b8b-4245-a29b-12813b4568fc": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240495
+    },
+    "8dabae38-b318-4388-9dbf-4e8ab18001fb": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216977
+    },
+    "2ad7708c-b76c-4d4a-8868-279c0618f3db": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216977
+    },
+    "8e8bb801-4418-4116-82f3-304837e2cced": {
+      "assetMtime": 1653469414595,
+      "metaMtime": 1654584020290
+    },
+    "7f9431a5-1313-49d1-8415-ff75682b1deb": {
+      "assetMtime": 1653469414595,
+      "metaMtime": 1654584020290
+    },
+    "8e9f73d9-536d-437d-88f8-1a0fc500d4f7": {
+      "assetMtime": 1650970956980,
+      "metaMtime": 1651026375235
+    },
+    "97b42eb2-6f16-449b-bf8c-b9f2d1e2d63f": {
+      "assetMtime": 1650970956980,
+      "metaMtime": 1651026375235
+    },
+    "8ea68f83-5866-4d43-9edd-69f15c280deb": {
+      "assetMtime": 1653982948646,
+      "metaMtime": 1653985909144
+    },
+    "eba78848-54df-4e80-ac30-03ec1fb67654": {
+      "assetMtime": 1653982948646,
+      "metaMtime": 1653985909144
+    },
+    "94152989-796c-4bef-bbd7-a0fbab4b182b": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216838
+    },
+    "0f639e88-adc2-4bf7-88d8-f470f58d5312": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216838
+    },
+    "954d03a0-b7fc-4b70-afce-231cb60c6055": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240493
+    },
+    "19f29de8-12b9-4213-8c6c-21aad222f921": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240493
+    },
+    "955ca4fc-78f8-46b6-bd0c-c7445f0b9777": {
+      "assetMtime": 1650970956961,
+      "metaMtime": 1651026375174
+    },
+    "6eb036d8-3dbb-453d-b21f-c6d3dbbcbdb2": {
+      "assetMtime": 1650970956961,
+      "metaMtime": 1651026375174
+    },
+    "97b4a203-09e8-4c95-bbda-bd345456e4ef": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217000
+    },
+    "dacfda13-d245-42f1-898d-a27c16358fac": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217000
+    },
+    "9980da89-b75f-4efd-aa19-a4fd8c36a2e0": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217002
+    },
+    "5bcd757e-956b-49ff-b67b-8f6434ab358c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217002
+    },
+    "9cef5cf1-d3e9-4bc3-8de3-bfb199e79a35": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216910
+    },
+    "8d2b28ab-f7a0-4ff4-9a15-1a3e88995ee9": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216910
+    },
+    "a1cf665e-95a2-491e-9115-b96f1d17e65a": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216880
+    },
+    "265035e6-de37-4759-b012-1a08d09c86cb": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216880
+    },
+    "a312cbb4-b887-4599-8c3a-4eee43bcc86b": {
+      "assetMtime": 1649743806931,
+      "metaMtime": 1652693906916
+    },
+    "f1e81b4b-d6ac-400a-ab3d-a6d2e7bf034a": {
+      "assetMtime": 1649743806931,
+      "metaMtime": 1652693906916
+    },
+    "a3612c24-32df-4d8c-8210-5fb809cbe030": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217033
+    },
+    "cf099eef-c05e-4bf0-b886-5f15931c9a76": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217033
+    },
+    "a41e8131-6d71-4688-9f00-52b4d5427382": {
+      "assetMtime": 1650970956951,
+      "metaMtime": 1651026375125
+    },
+    "c6e8e6c3-692e-4f69-a692-dacd8a8cff08": {
+      "assetMtime": 1650970956951,
+      "metaMtime": 1651026375125
+    },
+    "a5a24117-877a-4fb7-92f5-7f38f3a79824": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216959
+    },
+    "f3f76b4f-7fe7-4f55-a603-7cb2709d6a40": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216959
+    },
+    "a72b5bdf-58ce-423d-9e67-bd8c04585099": {
+      "assetMtime": 1650970956949,
+      "metaMtime": 1651026375119
+    },
+    "d2e96d99-2d0e-42a5-bc10-216a49621e4d": {
+      "assetMtime": 1650970956949,
+      "metaMtime": 1651026375119
+    },
+    "a988afe0-02c6-45e9-b551-f354183f0f68": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216974
+    },
+    "49ebbd06-c0ad-4c5c-8d43-39794e5dd40f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216974
+    },
+    "ab0338b7-2a9a-4785-a3d4-c1ed75a1104c": {
+      "assetMtime": 1650970956966,
+      "metaMtime": 1651026375194
+    },
+    "2c17225b-32cc-4f61-8d73-c2e946aa4041": {
+      "assetMtime": 1650970956966,
+      "metaMtime": 1651026375194
+    },
+    "ab0cb867-956b-417a-b52b-1276dc852bc6": {
+      "assetMtime": 1650970956958,
+      "metaMtime": 1651027569583
+    },
+    "430de272-3560-4a1d-9052-4c5cbde5511c": {
+      "assetMtime": 1650970956958,
+      "metaMtime": 1651027569583
+    },
+    "adaa2b71-7dc9-48ab-b2e1-ba435be20388": {
+      "assetMtime": 1650970956984,
+      "metaMtime": 1651026375248
+    },
+    "d61fae31-7dc3-4d6c-a36c-5bb1f0e735bf": {
+      "assetMtime": 1650970956984,
+      "metaMtime": 1651026375248
+    },
+    "af29d0a2-1ab7-4bde-b094-02d68a278cf7": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216896
+    },
+    "20f8306f-0bf6-4790-b5eb-e3bc1d83ff23": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216896
+    },
+    "b0d46cdb-e1df-4bd4-8959-2e3a1f4a97cf": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240484
+    },
+    "b61b247c-0979-4436-9c20-95346cd25a7a": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240484
+    },
+    "b13df24a-e73b-4a94-bd4e-7c48fb598f2e": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216841
+    },
+    "14d63054-16aa-4ae2-bd40-f64aae55e2dc": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216841
+    },
+    "b3a16235-f8f4-4aa0-b57d-da74bbcc59be": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217039
+    },
+    "e3abc284-4590-428a-8b88-561efba46b1f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217039
+    },
+    "b40a1a30-f742-4178-ab65-74340374f0c7": {
+      "assetMtime": 1650970956951,
+      "metaMtime": 1651026375124
+    },
+    "8fd401e8-6220-40c7-9e2f-7d889e57ad31": {
+      "assetMtime": 1650970956951,
+      "metaMtime": 1651026375124
+    },
+    "b4370b1f-3035-43a5-ae17-e5ae74667c52": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217029
+    },
+    "8936b662-faf4-4511-bd88-c822e9bba00f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574217029
+    },
+    "b694fec0-515b-4f20-ae58-b4fc1ceb1a8a": {
+      "assetMtime": 1650970956960,
+      "metaMtime": 1651026375167
+    },
+    "2340ef42-b6fd-42c7-8f3d-fcb4a2090ae9": {
+      "assetMtime": 1650970956960,
+      "metaMtime": 1651026375167
+    },
+    "b8680dfc-5182-4c5d-b41e-0d551dba418a": {
+      "assetMtime": 1650970956992,
+      "metaMtime": 1651026375260
+    },
+    "7487e5cd-0559-4331-8935-095bcaf7a1e5": {
+      "assetMtime": 1650970956992,
+      "metaMtime": 1651026375260
+    },
+    "bffce19a-10d3-4336-a043-c08fad4c5e0a": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216957
+    },
+    "371a03ec-2f41-4a4b-838a-c96d21087a46": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216957
+    },
+    "c2ab6c41-4035-4892-adbb-ff8269a836c0": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216992
+    },
+    "a57d5ccc-9e19-4a32-8629-91eb2cd16b81": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216992
+    },
+    "c36a491d-105d-4a5c-99a1-6b24e4e422d2": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216833
+    },
+    "a821dde3-659a-45be-b8c8-442229301ab6": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216833
+    },
+    "c3cb71af-702b-436d-9179-3105713daf48": {
+      "assetMtime": 1649815972950,
+      "metaMtime": 1653471149775
+    },
+    "40404feb-e450-4ba3-a591-2f597900b1ae": {
+      "assetMtime": 1649815972950,
+      "metaMtime": 1653471149775
+    },
+    "c41ef65a-a407-4be4-aa88-a4d64173f73f": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216999
+    },
+    "5ea307a0-bd1f-40d3-8fc2-2761d9888d7e": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216999
+    },
+    "c5e44df3-87db-450d-bf61-c8700239046e": {
+      "assetMtime": 1650970956982,
+      "metaMtime": 1651026375236
+    },
+    "2981650b-b5c8-471a-9b17-a6959f5cee0f": {
+      "assetMtime": 1650970956982,
+      "metaMtime": 1651026375236
+    },
+    "c711a3e7-d7f0-48a2-82c3-a2a38d79e005": {
+      "assetMtime": 1653982948646,
+      "metaMtime": 1653985909145
+    },
+    "c7d4e10b-1409-4a60-902b-32b4c958936b": {
+      "assetMtime": 1653982948646,
+      "metaMtime": 1653985909145
+    },
+    "c852c08f-3953-4979-a57a-ed82c84376d2": {
+      "assetMtime": 1650970956958,
+      "metaMtime": 1652411303885
+    },
+    "d7766951-bc37-48dc-afca-e69c06230e17": {
+      "assetMtime": 1650970956958,
+      "metaMtime": 1652411303885
+    },
+    "c976cea1-e37a-4fcb-8774-bf98b25df683": {
+      "assetMtime": 1650970956963,
+      "metaMtime": 1651026375176
+    },
+    "c928eb58-d18c-4c29-8c09-521a67066da5": {
+      "assetMtime": 1650970956963,
+      "metaMtime": 1651026375176
+    },
+    "cd0d55b3-8eb2-48de-bbea-3f8487fdca21": {
+      "assetMtime": 1650970956974,
+      "metaMtime": 1651026375211
+    },
+    "a23f0e2d-615d-4c60-92e3-9e61d474eb25": {
+      "assetMtime": 1650970956974,
+      "metaMtime": 1651026375211
+    },
+    "d029a44c-aa75-4a67-a62d-21552f48310c": {
+      "assetMtime": 1649743806943,
+      "metaMtime": 1652258959269
+    },
+    "99187ed4-b5e4-42eb-b9fc-54c10f1e5b1f": {
+      "assetMtime": 1649743806943,
+      "metaMtime": 1652258959269
+    },
+    "d56a0d63-4f4e-4431-a6bb-35f6453e1f2a": {
+      "assetMtime": 1650970956972,
+      "metaMtime": 1651027569581
+    },
+    "0db15c19-415c-4cb7-b11e-33d8ceaef425": {
+      "assetMtime": 1650970956972,
+      "metaMtime": 1651027569581
+    },
+    "d687f8bb-bb16-46e8-8765-78806b70039d": {
+      "assetMtime": 1653469414588,
+      "metaMtime": 1653471149769
+    },
+    "e498f0cc-00fa-4cee-9004-8e7f0e5d663d": {
+      "assetMtime": 1653469414588,
+      "metaMtime": 1653471149769
+    },
+    "d6f1ee6f-1470-447e-b026-10c1d88d678c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216752
+    },
+    "1caeee08-62b9-49dc-9866-511e34e1126d": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216752
+    },
+    "d72882d8-bb3b-49c8-b4c0-837cc90a99ba": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216933
+    },
+    "2c15c78a-86fd-47ad-afeb-4bdb53e51341": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216933
+    },
+    "dad2ab4e-ead9-406c-81c4-80d838c3fc1c": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216996
+    },
+    "a9d8e10a-f9f2-4ab9-a09c-7be534592de2": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216996
+    },
+    "db726f3a-a4ab-4b31-a97c-f8b4ec8ae7b4": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216874
+    },
+    "c0a01c8e-5809-4c3f-b2de-c843aec98d4e": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216874
+    },
+    "defc772d-6f90-403b-a911-f9bb0c1510da": {
+      "assetMtime": 1650970956972,
+      "metaMtime": 1651026375207
+    },
+    "2817a16e-b268-4bf4-8d57-34bf1e4c3ec5": {
+      "assetMtime": 1650970956972,
+      "metaMtime": 1651026375207
+    },
+    "e138d441-b134-4ff0-a30c-ef6919404aa5": {
+      "assetMtime": 1650970956991,
+      "metaMtime": 1651026375255
+    },
+    "6ff83751-ad48-4579-8851-0ed6ea543dd6": {
+      "assetMtime": 1650970956991,
+      "metaMtime": 1651026375255
+    },
+    "e94b47b3-d1c0-4359-8f8a-d6f83291d2f6": {
+      "assetMtime": 1650970956950,
+      "metaMtime": 1651026375121
+    },
+    "be6c7b5b-39e3-4496-8ed4-4b2629dc399b": {
+      "assetMtime": 1650970956950,
+      "metaMtime": 1651026375121
+    },
+    "ee299f0a-d7e3-4f95-8ffb-5aa5615a8cb0": {
+      "assetMtime": 1650970956968,
+      "metaMtime": 1651027569585
+    },
+    "4bc22ce2-85e7-4426-9dc0-56a0a195ed06": {
+      "assetMtime": 1650970956968,
+      "metaMtime": 1651027569585
+    },
+    "eee5d70f-28c0-47c2-b7b1-9441680d37ad": {
+      "assetMtime": 1650970956973,
+      "metaMtime": 1651026375210
+    },
+    "a057400e-080e-4e33-8abe-74b30b6f7a31": {
+      "assetMtime": 1650970956973,
+      "metaMtime": 1651026375210
+    },
+    "f2143513-155e-4e91-9fc2-ca115607877b": {
+      "assetMtime": 1650970956948,
+      "metaMtime": 1651026375123
+    },
+    "0c67ee46-327e-48c6-a00c-397bcdd46eaa": {
+      "assetMtime": 1650970956948,
+      "metaMtime": 1651026375123
+    },
+    "f32a54d0-1178-42d1-a0b2-9e336ef48b68": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216984
+    },
+    "dbe974db-a60b-4e6e-94de-672e672b4246": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216984
+    },
+    "f53485f5-02ae-4fad-9c49-a93f853028af": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216890
+    },
+    "7741ffb2-db86-4294-a6ee-45e9040d2579": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216890
+    },
+    "f574b950-aaf7-49be-a6a1-868e4fc28cfb": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240490
+    },
+    "d8e1a7aa-38f7-4246-ab19-52ad2c620384": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240490
+    },
+    "f610c05f-2f69-431e-99e8-4e45842c6115": {
+      "assetMtime": 1650970956990,
+      "metaMtime": 1651026375257
+    },
+    "96546d14-cfec-45ed-bc3a-82a5e995d66f": {
+      "assetMtime": 1650970956990,
+      "metaMtime": 1651026375257
+    },
+    "f838cd9c-4d4c-4753-88a0-e0bc9c2aae5e": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240486
+    },
+    "9eb3d26d-709f-4d5f-8006-b8f2fb016b21": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574240486
+    },
+    "f93146f8-d4b6-4cd0-94de-aee797d8c40b": {
+      "assetMtime": 1650970956978,
+      "metaMtime": 1651027570505
+    },
+    "313a11f3-3f38-4fb8-b260-67c1773e5fc7": {
+      "assetMtime": 1650970956978,
+      "metaMtime": 1651027570505
+    },
+    "fd6d673a-97b4-4c22-a96f-53bc7bc6b909": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216949
+    },
+    "a6d8067a-8c66-47a9-814a-0f9006e67bfa": {
+      "assetMtime": 1647255629000,
+      "metaMtime": 1647574216949
+    },
+    "fdd56d44-f09d-4d87-b314-812456deb8ed": {
+      "assetMtime": 1650970956954,
+      "metaMtime": 1651026375149
+    },
+    "b0caadcf-fcb6-4dff-aec9-349340b59fa0": {
+      "assetMtime": 1650970956954,
+      "metaMtime": 1651026375149
+    }
+  },
+  "result": {
+    "name": "hall-3",
+    "width": 561,
+    "height": 1008,
+    "ver": "1.2.5",
+    "uuid": "d5f49e4f-2c47-46af-a325-62609e0a4b9c",
+    "importer": "auto-atlas",
+    "maxWidth": 2048,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "dt_tz_di",
+            "uuid": "1f7d79bf-c92a-4c96-b5e9-2b3ff772209c",
+            "textureUuid": "522bb705-5c1c-420e-9cf9-8d7c1fbc727f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977454_image_21.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 823,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 823
+            },
+            "rawWidth": 823,
+            "rawHeight": 34,
+            "width": 829,
+            "height": 40,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/52/522bb705-5c1c-420e-9cf9-8d7c1fbc727f.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 40,
+            "rotatedHeight": 829
+          },
+          {
+            "name": "dt_game_name_900019",
+            "uuid": "97b4a203-09e8-4c95-bbda-bd345456e4ef",
+            "textureUuid": "dacfda13-d245-42f1-898d-a27c16358fac",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977468_image_81.png",
+            "trim": {
+              "x": 3,
+              "y": 832,
+              "width": 186,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 186
+            },
+            "rawWidth": 186,
+            "rawHeight": 30,
+            "width": 192,
+            "height": 36,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/da/dacfda13-d245-42f1-898d-a27c16358fac.png",
+            "x": 0,
+            "y": 829,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 192
+          },
+          {
+            "name": "dt_game_name_900001",
+            "uuid": "54123e8d-56db-4610-a96d-d9bbfdd1139c",
+            "textureUuid": "9ff99088-805f-4321-88aa-af90c2756831",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977459_image_43.png",
+            "trim": {
+              "x": 39,
+              "y": 832,
+              "width": 185,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 185
+            },
+            "rawWidth": 185,
+            "rawHeight": 66,
+            "width": 191,
+            "height": 72,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/9f/9ff99088-805f-4321-88aa-af90c2756831.png",
+            "x": 36,
+            "y": 829,
+            "rotated": true,
+            "rotatedWidth": 72,
+            "rotatedHeight": 191
+          },
+          {
+            "name": "bg_tt2",
+            "uuid": "fdd56d44-f09d-4d87-b314-812456deb8ed",
+            "textureUuid": "b0caadcf-fcb6-4dff-aec9-349340b59fa0",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977481_image_132.png",
+            "trim": {
+              "x": 43,
+              "y": 3,
+              "width": 772,
+              "height": 131,
+              "rotatedWidth": 131,
+              "rotatedHeight": 772
+            },
+            "rawWidth": 773,
+            "rawHeight": 132,
+            "width": 778,
+            "height": 137,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/b0/b0caadcf-fcb6-4dff-aec9-349340b59fa0.png",
+            "x": 40,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 137,
+            "rotatedHeight": 778
+          },
+          {
+            "name": "-h-btn_masuk",
+            "uuid": "75b5d4ce-05ee-4c7b-bff8-0ed01d80f7c8",
+            "textureUuid": "248d1a59-9c46-444e-bfdd-950b1226264f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977463_image_60.png",
+            "trim": {
+              "x": 43,
+              "y": 781,
+              "width": 134,
+              "height": 45,
+              "rotatedWidth": 134,
+              "rotatedHeight": 45
+            },
+            "rawWidth": 134,
+            "rawHeight": 45,
+            "width": 140,
+            "height": 51,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/24/248d1a59-9c46-444e-bfdd-950b1226264f.png",
+            "x": 40,
+            "y": 778,
+            "rotatedWidth": 140,
+            "rotatedHeight": 51
+          },
+          {
+            "name": "btn_lu2",
+            "uuid": "2a554c19-15e1-488a-8b41-a89e2135323b",
+            "textureUuid": "3296b1d8-9a40-4bc1-93e7-f11eb3d6581a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977455_image_24.png",
+            "trim": {
+              "x": 111,
+              "y": 832,
+              "width": 179,
+              "height": 51,
+              "rotatedWidth": 51,
+              "rotatedHeight": 179
+            },
+            "rawWidth": 179,
+            "rawHeight": 51,
+            "width": 185,
+            "height": 57,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/32/3296b1d8-9a40-4bc1-93e7-f11eb3d6581a.png",
+            "x": 108,
+            "y": 829,
+            "rotated": true,
+            "rotatedWidth": 57,
+            "rotatedHeight": 185
+          },
+          {
+            "name": "xian",
+            "uuid": "e138d441-b134-4ff0-a30c-ef6919404aa5",
+            "textureUuid": "6ff83751-ad48-4579-8851-0ed6ea543dd6",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977479_image_120.png",
+            "trim": {
+              "x": 111,
+              "y": 1017,
+              "width": 687,
+              "height": 1,
+              "rotatedWidth": 687,
+              "rotatedHeight": 1
+            },
+            "rawWidth": 687,
+            "rawHeight": 1,
+            "width": 693,
+            "height": 7,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/6f/6ff83751-ad48-4579-8851-0ed6ea543dd6.png",
+            "x": 108,
+            "y": 1014,
+            "rotatedWidth": 693,
+            "rotatedHeight": 7
+          },
+          {
+            "name": "btn_lu",
+            "uuid": "ab0338b7-2a9a-4785-a3d4-c1ed75a1104c",
+            "textureUuid": "2c17225b-32cc-4f61-8d73-c2e946aa4041",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977472_image_91.png",
+            "trim": {
+              "x": 168,
+              "y": 832,
+              "width": 179,
+              "height": 51,
+              "rotatedWidth": 51,
+              "rotatedHeight": 179
+            },
+            "rawWidth": 179,
+            "rawHeight": 51,
+            "width": 185,
+            "height": 57,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2c/2c17225b-32cc-4f61-8d73-c2e946aa4041.png",
+            "x": 165,
+            "y": 829,
+            "rotated": true,
+            "rotatedWidth": 57,
+            "rotatedHeight": 185
+          },
+          {
+            "name": "bg_gongka",
+            "uuid": "56e61d9d-0981-4c80-a289-6f46eec27cc6",
+            "textureUuid": "67744414-abea-48a9-9e26-e878b48dc572",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977460_image_45.png",
+            "trim": {
+              "x": 180,
+              "y": 3,
+              "width": 750,
+              "height": 56,
+              "rotatedWidth": 56,
+              "rotatedHeight": 750
+            },
+            "rawWidth": 750,
+            "rawHeight": 56,
+            "width": 756,
+            "height": 62,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/67/67744414-abea-48a9-9e26-e878b48dc572.png",
+            "x": 177,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 756
+          },
+          {
+            "name": "msgk2",
+            "uuid": "b0d46cdb-e1df-4bd4-8959-2e3a1f4a97cf",
+            "textureUuid": "b61b247c-0979-4436-9c20-95346cd25a7a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977472_image_95.png",
+            "trim": {
+              "x": 183,
+              "y": 759,
+              "width": 368,
+              "height": 67,
+              "rotatedWidth": 368,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 368,
+            "rawHeight": 67,
+            "width": 374,
+            "height": 73,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/b6/b61b247c-0979-4436-9c20-95346cd25a7a.png",
+            "x": 180,
+            "y": 756,
+            "rotatedWidth": 374,
+            "rotatedHeight": 73
+          },
+          {
+            "name": "icon_pm2",
+            "uuid": "adaa2b71-7dc9-48ab-b2e1-ba435be20388",
+            "textureUuid": "d61fae31-7dc3-4d6c-a36c-5bb1f0e735bf",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977472_image_93.png",
+            "trim": {
+              "x": 225,
+              "y": 832,
+              "width": 618,
+              "height": 171,
+              "rotatedWidth": 618,
+              "rotatedHeight": 171
+            },
+            "rawWidth": 618,
+            "rawHeight": 171,
+            "width": 624,
+            "height": 177,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d6/d61fae31-7dc3-4d6c-a36c-5bb1f0e735bf.png",
+            "x": 222,
+            "y": 829,
+            "rotatedWidth": 624,
+            "rotatedHeight": 177
+          },
+          {
+            "name": "dt_bj",
+            "uuid": "af29d0a2-1ab7-4bde-b094-02d68a278cf7",
+            "textureUuid": "20f8306f-0bf6-4790-b5eb-e3bc1d83ff23",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977472_image_94.png",
+            "trim": {
+              "x": 242,
+              "y": 3,
+              "width": 1280,
+              "height": 720,
+              "rotatedWidth": 1280,
+              "rotatedHeight": 720
+            },
+            "rawWidth": 1280,
+            "rawHeight": 720,
+            "width": 1286,
+            "height": 726,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/20/20f8306f-0bf6-4790-b5eb-e3bc1d83ff23.jpg",
+            "x": 239,
+            "y": 0,
+            "rotatedWidth": 1286,
+            "rotatedHeight": 726
+          },
+          {
+            "name": "dt_icon_laba",
+            "uuid": "14ea3636-6f94-4bcb-871f-8b99f673fb1c",
+            "textureUuid": "5dd1da37-56b5-45ec-9dfb-0ce83c0fcfa8",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977451_image_16.png",
+            "trim": {
+              "x": 242,
+              "y": 729,
+              "width": 26,
+              "height": 24,
+              "rotatedWidth": 26,
+              "rotatedHeight": 24
+            },
+            "rawWidth": 26,
+            "rawHeight": 24,
+            "width": 32,
+            "height": 30,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/5d/5dd1da37-56b5-45ec-9dfb-0ce83c0fcfa8.png",
+            "x": 239,
+            "y": 726,
+            "rotatedWidth": 32,
+            "rotatedHeight": 30
+          },
+          {
+            "name": "dt_sz",
+            "uuid": "89e17348-d8da-4fb9-b7d8-065b695d8e74",
+            "textureUuid": "f207a24f-1b8a-41c1-9002-77eed5cc33da",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977466_image_70.png",
+            "trim": {
+              "x": 274,
+              "y": 729,
+              "width": 226,
+              "height": 23,
+              "rotatedWidth": 226,
+              "rotatedHeight": 23
+            },
+            "rawWidth": 226,
+            "rawHeight": 23,
+            "width": 232,
+            "height": 29,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f2/f207a24f-1b8a-41c1-9002-77eed5cc33da.png",
+            "x": 271,
+            "y": 726,
+            "rotatedWidth": 232,
+            "rotatedHeight": 29
+          },
+          {
+            "name": "dt_ts",
+            "uuid": "038645bb-6fdb-47a4-8e8e-9440175faf01",
+            "textureUuid": "e7b62247-64a0-46f6-b7e6-2540448af657",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_3.png",
+            "trim": {
+              "x": 506,
+              "y": 729,
+              "width": 20,
+              "height": 21,
+              "rotatedWidth": 20,
+              "rotatedHeight": 21
+            },
+            "rawWidth": 20,
+            "rawHeight": 21,
+            "width": 26,
+            "height": 27,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e7/e7b62247-64a0-46f6-b7e6-2540448af657.png",
+            "x": 503,
+            "y": 726,
+            "rotatedWidth": 26,
+            "rotatedHeight": 27
+          },
+          {
+            "name": "User2",
+            "uuid": "e94b47b3-d1c0-4359-8f8a-d6f83291d2f6",
+            "textureUuid": "be6c7b5b-39e3-4496-8ed4-4b2629dc399b",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977479_image_121.png",
+            "trim": {
+              "x": 532,
+              "y": 729,
+              "width": 20,
+              "height": 20,
+              "rotatedWidth": 20,
+              "rotatedHeight": 20
+            },
+            "rawWidth": 20,
+            "rawHeight": 20,
+            "width": 26,
+            "height": 26,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/be/be6c7b5b-39e3-4496-8ed4-4b2629dc399b.png",
+            "x": 529,
+            "y": 726,
+            "rotatedWidth": 26,
+            "rotatedHeight": 26
+          },
+          {
+            "name": "texian",
+            "uuid": "6d418b9b-91bd-4b48-b440-63bb37b4912f",
+            "textureUuid": "67074291-5251-4e42-b8a3-f288ae253f03",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977463_image_57.png",
+            "trim": {
+              "x": 557,
+              "y": 755,
+              "width": 71,
+              "height": 71,
+              "rotatedWidth": 71,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 71,
+            "rawHeight": 71,
+            "width": 77,
+            "height": 77,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/67/67074291-5251-4e42-b8a3-f288ae253f03.png",
+            "x": 554,
+            "y": 752,
+            "rotatedWidth": 77,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "WELFARECENTER",
+            "uuid": "94152989-796c-4bef-bbd7-a0fbab4b182b",
+            "textureUuid": "0f639e88-adc2-4bf7-88d8-f470f58d5312",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977467_image_78.png",
+            "trim": {
+              "x": 558,
+              "y": 729,
+              "width": 149,
+              "height": 18,
+              "rotatedWidth": 149,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 149,
+            "rawHeight": 18,
+            "width": 155,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/0f/0f639e88-adc2-4bf7-88d8-f470f58d5312.png",
+            "x": 555,
+            "y": 726,
+            "rotatedWidth": 155,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "dt_btn_sz01",
+            "uuid": "47782d3c-9ff4-49d5-a295-3656bef83c92",
+            "textureUuid": "d2637479-44e9-456e-9030-2da849169fbb",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977457_image_33.png",
+            "trim": {
+              "x": 634,
+              "y": 753,
+              "width": 73,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 73,
+            "rawHeight": 73,
+            "width": 79,
+            "height": 79,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d2/d2637479-44e9-456e-9030-2da849169fbb.png",
+            "x": 631,
+            "y": 750,
+            "rotatedWidth": 79,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "dt_game_icon_900018",
+            "uuid": "f32a54d0-1178-42d1-a0b2-9e336ef48b68",
+            "textureUuid": "dbe974db-a60b-4e6e-94de-672e672b4246",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_125.png",
+            "trim": {
+              "x": 849,
+              "y": 729,
+              "width": 287,
+              "height": 450,
+              "rotatedWidth": 450,
+              "rotatedHeight": 287
+            },
+            "rawWidth": 287,
+            "rawHeight": 450,
+            "width": 293,
+            "height": 456,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/db/dbe974db-a60b-4e6e-94de-672e672b4246.png",
+            "x": 846,
+            "y": 726,
+            "rotated": true,
+            "rotatedWidth": 456,
+            "rotatedHeight": 293
+          },
+          {
+            "name": "icon_bs4",
+            "uuid": "53b684fb-17df-4215-ab8b-2e7c1497347a",
+            "textureUuid": "51fe193c-81b3-4b22-b75e-4cfd22d50c12",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977459_image_42.png",
+            "trim": {
+              "x": 713,
+              "y": 729,
+              "width": 125,
+              "height": 36,
+              "rotatedWidth": 125,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 138,
+            "rawHeight": 36,
+            "width": 131,
+            "height": 42,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/51/51fe193c-81b3-4b22-b75e-4cfd22d50c12.png",
+            "x": 710,
+            "y": 726,
+            "rotatedWidth": 131,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "btn_f3_a",
+            "uuid": "c976cea1-e37a-4fcb-8774-bf98b25df683",
+            "textureUuid": "c928eb58-d18c-4c29-8c09-521a67066da5",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977476_image_110.png",
+            "trim": {
+              "x": 713,
+              "y": 771,
+              "width": 55,
+              "height": 67,
+              "rotatedWidth": 67,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 55,
+            "rawHeight": 67,
+            "width": 61,
+            "height": 73,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c9/c928eb58-d18c-4c29-8c09-521a67066da5.png",
+            "x": 710,
+            "y": 768,
+            "rotated": true,
+            "rotatedWidth": 73,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "btn_fenxian",
+            "uuid": "50a909e6-5b3f-4b1c-841c-f71feefa7479",
+            "textureUuid": "e806b530-fee1-4cd8-999d-ec370864bcb1",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977458_image_38.png",
+            "trim": {
+              "x": 786,
+              "y": 771,
+              "width": 57,
+              "height": 53,
+              "rotatedWidth": 57,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 57,
+            "rawHeight": 53,
+            "width": 63,
+            "height": 59,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e8/e806b530-fee1-4cd8-999d-ec370864bcb1.png",
+            "x": 783,
+            "y": 768,
+            "rotatedWidth": 63,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "bg_yuxi6",
+            "uuid": "d687f8bb-bb16-46e8-8765-78806b70039d",
+            "textureUuid": "e498f0cc-00fa-4cee-9004-8e7f0e5d663d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977477_image_114.png",
+            "trim": {
+              "x": 1305,
+              "y": 729,
+              "width": 219,
+              "height": 287,
+              "rotatedWidth": 219,
+              "rotatedHeight": 287
+            },
+            "rawWidth": 219,
+            "rawHeight": 287,
+            "width": 225,
+            "height": 293,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e4/e498f0cc-00fa-4cee-9004-8e7f0e5d663d.png",
+            "x": 1302,
+            "y": 726,
+            "rotatedWidth": 225,
+            "rotatedHeight": 293
+          },
+          {
+            "name": "huodong",
+            "uuid": "0e6431fd-0993-4e4a-8266-0b81a2654a68",
+            "textureUuid": "3a04296a-8e8d-4a35-9712-2440325ff7c0",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977451_image_13.png",
+            "trim": {
+              "x": 1528,
+              "y": 3,
+              "width": 706,
+              "height": 105,
+              "rotatedWidth": 105,
+              "rotatedHeight": 706
+            },
+            "rawWidth": 706,
+            "rawHeight": 105,
+            "width": 712,
+            "height": 111,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/3a/3a04296a-8e8d-4a35-9712-2440325ff7c0.png",
+            "x": 1525,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 111,
+            "rotatedHeight": 712
+          },
+          {
+            "name": "dt_ggy",
+            "uuid": "0bd7df07-39a1-4341-bf44-eddb045da7d5",
+            "textureUuid": "bd4c6897-f07d-49de-884e-269401205d79",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977450_image_11.png",
+            "trim": {
+              "x": 1639,
+              "y": 3,
+              "width": 406,
+              "height": 143,
+              "rotatedWidth": 406,
+              "rotatedHeight": 143
+            },
+            "rawWidth": 406,
+            "rawHeight": 143,
+            "width": 412,
+            "height": 149,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/bd/bd4c6897-f07d-49de-884e-269401205d79.png",
+            "x": 1636,
+            "y": 0,
+            "rotatedWidth": 412,
+            "rotatedHeight": 149
+          },
+          {
+            "name": "dt_game_icon_2",
+            "uuid": "fd6d673a-97b4-4c22-a96f-53bc7bc6b909",
+            "textureUuid": "a6d8067a-8c66-47a9-814a-0f9006e67bfa",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977481_image_131.png",
+            "trim": {
+              "x": 1530,
+              "y": 715,
+              "width": 276,
+              "height": 452,
+              "rotatedWidth": 452,
+              "rotatedHeight": 276
+            },
+            "rawWidth": 276,
+            "rawHeight": 452,
+            "width": 282,
+            "height": 458,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a6/a6d8067a-8c66-47a9-814a-0f9006e67bfa.png",
+            "x": 1527,
+            "y": 712,
+            "rotated": true,
+            "rotatedWidth": 458,
+            "rotatedHeight": 282
+          },
+          {
+            "name": "dt_btn_phb",
+            "uuid": "1fa9b3c0-897b-4d35-ba5a-e199365fe8d8",
+            "textureUuid": "f3519541-f553-403d-b2b8-37e49e7d0213",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977454_image_22.png",
+            "trim": {
+              "x": 1988,
+              "y": 152,
+              "width": 75,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 75,
+            "rawHeight": 57,
+            "width": 81,
+            "height": 63,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f3/f3519541-f553-403d-b2b8-37e49e7d0213.png",
+            "x": 1985,
+            "y": 149,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "EMAIL",
+            "uuid": "85c1dacf-e7d3-414e-bb23-310545df036d",
+            "textureUuid": "4e3278d7-2d58-45a9-8603-356fcdc4c2a6",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977465_image_69.png",
+            "trim": {
+              "x": 1988,
+              "y": 233,
+              "width": 57,
+              "height": 18,
+              "rotatedWidth": 57,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 57,
+            "rawHeight": 18,
+            "width": 63,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/4e/4e3278d7-2d58-45a9-8603-356fcdc4c2a6.png",
+            "x": 1985,
+            "y": 230,
+            "rotatedWidth": 63,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "gonggao_di",
+            "uuid": "76ea22db-f249-4913-98dd-156a6fa412d4",
+            "textureUuid": "e24900b2-a71d-4459-a762-e4e3a7f7d16e",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977464_image_61.png",
+            "trim": {
+              "x": 1988,
+              "y": 257,
+              "width": 78,
+              "height": 56,
+              "rotatedWidth": 56,
+              "rotatedHeight": 78
+            },
+            "rawWidth": 78,
+            "rawHeight": 56,
+            "width": 84,
+            "height": 62,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e2/e24900b2-a71d-4459-a762-e4e3a7f7d16e.png",
+            "x": 1985,
+            "y": 254,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 84
+          },
+          {
+            "name": "msgk",
+            "uuid": "f838cd9c-4d4c-4753-88a0-e0bc9c2aae5e",
+            "textureUuid": "9eb3d26d-709f-4d5f-8006-b8f2fb016b21",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_129.png",
+            "trim": {
+              "x": 1639,
+              "y": 341,
+              "width": 366,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 366
+            },
+            "rawWidth": 366,
+            "rawHeight": 64,
+            "width": 372,
+            "height": 70,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/9e/9eb3d26d-709f-4d5f-8006-b8f2fb016b21.png",
+            "x": 1636,
+            "y": 338,
+            "rotated": true,
+            "rotatedWidth": 70,
+            "rotatedHeight": 372
+          },
+          {
+            "name": "bg_bs_di",
+            "uuid": "a41e8131-6d71-4688-9f00-52b4d5427382",
+            "textureUuid": "c6e8e6c3-692e-4f69-a692-dacd8a8cff08",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977471_image_87.png",
+            "trim": {
+              "x": 1988,
+              "y": 341,
+              "width": 55,
+              "height": 66,
+              "rotatedWidth": 55,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 55,
+            "rawHeight": 66,
+            "width": 61,
+            "height": 72,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c6/c6e8e6c3-692e-4f69-a692-dacd8a8cff08.png",
+            "x": 1985,
+            "y": 338,
+            "rotatedWidth": 61,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "btn_qidao",
+            "uuid": "152af24b-ced4-4331-97af-aaa56bf39677",
+            "textureUuid": "54693ff7-36dd-406a-a841-ff6d257f24c4",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977452_image_17.png",
+            "trim": {
+              "x": 1988,
+              "y": 413,
+              "width": 62,
+              "height": 55,
+              "rotatedWidth": 55,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 62,
+            "rawHeight": 55,
+            "width": 68,
+            "height": 61,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/54/54693ff7-36dd-406a-a841-ff6d257f24c4.png",
+            "x": 1985,
+            "y": 410,
+            "rotated": true,
+            "rotatedWidth": 61,
+            "rotatedHeight": 68
+          },
+          {
+            "name": "dt_game_name_900002",
+            "uuid": "a5a24117-877a-4fb7-92f5-7f38f3a79824",
+            "textureUuid": "f3f76b4f-7fe7-4f55-a603-7cb2709d6a40",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977471_image_88.png",
+            "trim": {
+              "x": 1709,
+              "y": 481,
+              "width": 227,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 227
+            },
+            "rawWidth": 227,
+            "rawHeight": 29,
+            "width": 233,
+            "height": 35,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f3/f3f76b4f-7fe7-4f55-a603-7cb2709d6a40.png",
+            "x": 1706,
+            "y": 478,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 233
+          },
+          {
+            "name": "dt_game_name_1",
+            "uuid": "bffce19a-10d3-4336-a043-c08fad4c5e0a",
+            "textureUuid": "371a03ec-2f41-4a4b-838a-c96d21087a46",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977474_image_102.png",
+            "trim": {
+              "x": 1744,
+              "y": 481,
+              "width": 227,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 227
+            },
+            "rawWidth": 227,
+            "rawHeight": 29,
+            "width": 233,
+            "height": 35,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/37/371a03ec-2f41-4a4b-838a-c96d21087a46.png",
+            "x": 1741,
+            "y": 478,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 233
+          },
+          {
+            "name": "icon_mines",
+            "uuid": "0880310a-736e-451f-a85c-b63b35104dbe",
+            "textureUuid": "122d28aa-84da-4b13-9836-fbb0e94cbb83",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_8.png",
+            "trim": {
+              "x": 1779,
+              "y": 481,
+              "width": 250,
+              "height": 226,
+              "rotatedWidth": 250,
+              "rotatedHeight": 226
+            },
+            "rawWidth": 250,
+            "rawHeight": 226,
+            "width": 256,
+            "height": 232,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/12/122d28aa-84da-4b13-9836-fbb0e94cbb83.png",
+            "x": 1776,
+            "y": 478,
+            "rotatedWidth": 256,
+            "rotatedHeight": 232
+          },
+          {
+            "name": "btn_Skip",
+            "uuid": "954d03a0-b7fc-4b70-afce-231cb60c6055",
+            "textureUuid": "19f29de8-12b9-4213-8c6c-21aad222f921",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977468_image_79.png",
+            "trim": {
+              "x": 1988,
+              "y": 713,
+              "width": 131,
+              "height": 53,
+              "rotatedWidth": 53,
+              "rotatedHeight": 131
+            },
+            "rawWidth": 131,
+            "rawHeight": 53,
+            "width": 137,
+            "height": 59,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/19/19f29de8-12b9-4213-8c6c-21aad222f921.png",
+            "x": 1985,
+            "y": 710,
+            "rotated": true,
+            "rotatedWidth": 59,
+            "rotatedHeight": 137
+          },
+          {
+            "name": "bg_aaa44",
+            "uuid": "b40a1a30-f742-4178-ab65-74340374f0c7",
+            "textureUuid": "8fd401e8-6220-40c7-9e2f-7d889e57ad31",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977473_image_98.png",
+            "trim": {
+              "x": 1988,
+              "y": 850,
+              "width": 169,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 169
+            },
+            "rawWidth": 172,
+            "rawHeight": 36,
+            "width": 175,
+            "height": 39,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/8f/8fd401e8-6220-40c7-9e2f-7d889e57ad31.png",
+            "x": 1985,
+            "y": 847,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 175
+          },
+          {
+            "name": "LEADERBOARD",
+            "uuid": "81c937a9-51e0-4d21-af11-6674b8837a3f",
+            "textureUuid": "9202113d-415d-4890-9c21-f35652ebf03d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977465_image_67.png",
+            "trim": {
+              "x": 2027,
+              "y": 850,
+              "width": 135,
+              "height": 18,
+              "rotatedWidth": 18,
+              "rotatedHeight": 135
+            },
+            "rawWidth": 135,
+            "rawHeight": 18,
+            "width": 141,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/92/9202113d-415d-4890-9c21-f35652ebf03d.png",
+            "x": 2024,
+            "y": 847,
+            "rotated": true,
+            "rotatedWidth": 24,
+            "rotatedHeight": 141
+          },
+          {
+            "name": "renwu_39",
+            "uuid": "73abf9a4-0e2a-43f7-8bcf-f6340c457f0e",
+            "textureUuid": "fc39a08d-5b2e-408f-aa5e-3bb3967fc66c",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977463_image_59.png",
+            "trim": {
+              "x": 2027,
+              "y": 991,
+              "width": 18,
+              "height": 18,
+              "rotatedWidth": 18,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 18,
+            "rawHeight": 18,
+            "width": 24,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/fc/fc39a08d-5b2e-408f-aa5e-3bb3967fc66c.png",
+            "x": 2024,
+            "y": 988,
+            "rotatedWidth": 24,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "btn_slot",
+            "uuid": "d56a0d63-4f4e-4431-a6bb-35f6453e1f2a",
+            "textureUuid": "0db15c19-415c-4cb7-b11e-33d8ceaef425",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977476_image_113.png",
+            "trim": {
+              "x": 1709,
+              "y": 152,
+              "width": 317,
+              "height": 194,
+              "rotatedWidth": 194,
+              "rotatedHeight": 317
+            },
+            "rawWidth": 317,
+            "rawHeight": 194,
+            "width": 323,
+            "height": 200,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/0d/0db15c19-415c-4cb7-b11e-33d8ceaef425.png",
+            "x": 1706,
+            "y": 149,
+            "rotated": true,
+            "rotatedWidth": 200,
+            "rotatedHeight": 323
+          },
+          {
+            "name": "dt_btn_huodong",
+            "uuid": "a1cf665e-95a2-491e-9115-b96f1d17e65a",
+            "textureUuid": "265035e6-de37-4759-b012-1a08d09c86cb",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977470_image_84.png",
+            "trim": {
+              "x": 1639,
+              "y": 152,
+              "width": 72,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 64,
+            "width": 78,
+            "height": 70,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/26/265035e6-de37-4759-b012-1a08d09c86cb.png",
+            "x": 1636,
+            "y": 149,
+            "rotated": true,
+            "rotatedWidth": 70,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "dt_btn_kf",
+            "uuid": "f53485f5-02ae-4fad-9c49-a93f853028af",
+            "textureUuid": "7741ffb2-db86-4294-a6ee-45e9040d2579",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_126.png",
+            "trim": {
+              "x": 1639,
+              "y": 230,
+              "width": 51,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 77,
+            "rawHeight": 69,
+            "width": 57,
+            "height": 70,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/77/7741ffb2-db86-4294-a6ee-45e9040d2579.png",
+            "x": 1636,
+            "y": 227,
+            "rotated": true,
+            "rotatedWidth": 70,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "dt_btn_qd",
+            "uuid": "82f00170-2daa-40cf-8455-67fcdb1ce8a0",
+            "textureUuid": "ccfb6087-b6c8-428e-8e37-9c69793b406d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977465_image_68.png",
+            "trim": {
+              "x": 1909,
+              "y": 152,
+              "width": 73,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 73,
+            "rawHeight": 73,
+            "width": 79,
+            "height": 79,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/cc/ccfb6087-b6c8-428e-8e37-9c69793b406d.png",
+            "x": 1906,
+            "y": 149,
+            "rotatedWidth": 79,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "dt_btn_fx",
+            "uuid": "db726f3a-a4ab-4b31-a97c-f8b4ec8ae7b4",
+            "textureUuid": "c0a01c8e-5809-4c3f-b2de-c843aec98d4e",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977478_image_118.png",
+            "trim": {
+              "x": 1909,
+              "y": 231,
+              "width": 73,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 73,
+            "rawHeight": 73,
+            "width": 79,
+            "height": 79,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c0/c0a01c8e-5809-4c3f-b2de-c843aec98d4e.png",
+            "x": 1906,
+            "y": 228,
+            "rotatedWidth": 79,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "texiankuan",
+            "uuid": "f610c05f-2f69-431e-99e8-4e45842c6115",
+            "textureUuid": "96546d14-cfec-45ed-bc3a-82a5e995d66f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_128.png",
+            "trim": {
+              "x": 1909,
+              "y": 310,
+              "width": 73,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 78,
+            "rawHeight": 78,
+            "width": 79,
+            "height": 79,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/96/96546d14-cfec-45ed-bc3a-82a5e995d66f.png",
+            "x": 1906,
+            "y": 307,
+            "rotatedWidth": 79,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "btn_f2",
+            "uuid": "478ab0cb-11a4-4827-8363-0603aab5534e",
+            "textureUuid": "2242b937-39f9-4d60-b468-04c897226f7f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977457_image_34.png",
+            "trim": {
+              "x": 1909,
+              "y": 389,
+              "width": 73,
+              "height": 68,
+              "rotatedWidth": 73,
+              "rotatedHeight": 68
+            },
+            "rawWidth": 73,
+            "rawHeight": 68,
+            "width": 79,
+            "height": 74,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/22/2242b937-39f9-4d60-b468-04c897226f7f.png",
+            "x": 1906,
+            "y": 386,
+            "rotatedWidth": 79,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "dt_btn_jia",
+            "uuid": "61b231da-5ee6-4326-a033-9e68e4f975f7",
+            "textureUuid": "9fa1d9e0-6940-4b45-8790-56b1132ed6ef",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977462_image_50.png",
+            "trim": {
+              "x": 1639,
+              "y": 287,
+              "width": 46,
+              "height": 47,
+              "rotatedWidth": 46,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 46,
+            "rawHeight": 47,
+            "width": 52,
+            "height": 53,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/9f/9fa1d9e0-6940-4b45-8790-56b1132ed6ef.png",
+            "x": 1636,
+            "y": 284,
+            "rotatedWidth": 52,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "WITHDRAWAL",
+            "uuid": "1b124f49-8689-410b-9ec5-7fee9662f5af",
+            "textureUuid": "1fa53e49-0895-488d-b2b1-a0777f716087",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977453_image_20.png",
+            "trim": {
+              "x": 1530,
+              "y": 997,
+              "width": 131,
+              "height": 18,
+              "rotatedWidth": 131,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 131,
+            "rawHeight": 18,
+            "width": 137,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1f/1fa53e49-0895-488d-b2b1-a0777f716087.png",
+            "x": 1527,
+            "y": 994,
+            "rotatedWidth": 137,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "FRIENDS",
+            "uuid": "5110f9dd-c19b-4466-a3c4-c5dc33ce900e",
+            "textureUuid": "2586667d-65ca-4599-9665-9bed646adc46",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977458_image_39.png",
+            "trim": {
+              "x": 1667,
+              "y": 997,
+              "width": 78,
+              "height": 18,
+              "rotatedWidth": 78,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 78,
+            "rawHeight": 18,
+            "width": 84,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/25/2586667d-65ca-4599-9665-9bed646adc46.png",
+            "x": 1664,
+            "y": 994,
+            "rotatedWidth": 84,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "BANK",
+            "uuid": "0aa46f85-98f5-4766-b14c-42c98c0d3164",
+            "textureUuid": "16b7c671-96b8-4c26-af09-f47b8b8762ce",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977450_image_10.png",
+            "trim": {
+              "x": 1751,
+              "y": 997,
+              "width": 52,
+              "height": 18,
+              "rotatedWidth": 52,
+              "rotatedHeight": 18
+            },
+            "rawWidth": 52,
+            "rawHeight": 18,
+            "width": 58,
+            "height": 24,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/16/16b7c671-96b8-4c26-af09-f47b8b8762ce.png",
+            "x": 1748,
+            "y": 994,
+            "rotatedWidth": 58,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "icon_dian",
+            "uuid": "2f24f8ec-e2bf-478b-9e08-93cce4c074ff",
+            "textureUuid": "1caf3a8d-1d60-4d2e-84f3-3dee01943ea2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977455_image_25.png",
+            "trim": {
+              "x": 1809,
+              "y": 997,
+              "width": 15,
+              "height": 15,
+              "rotatedWidth": 15,
+              "rotatedHeight": 15
+            },
+            "rawWidth": 15,
+            "rawHeight": 15,
+            "width": 21,
+            "height": 21,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1c/1caf3a8d-1d60-4d2e-84f3-3dee01943ea2.png",
+            "x": 1806,
+            "y": 994,
+            "rotatedWidth": 21,
+            "rotatedHeight": 21
+          }
+        ],
+        "width": 2048,
+        "height": 1022,
+        "name": "hall-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/hall/images/hall.pac/hall-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/hall/images/hall.pac/compressed/hall-1"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "dt_bj_xia",
+            "uuid": "78f3b943-0c2e-4600-a71c-14f87193a022",
+            "textureUuid": "1c9b4c6f-f355-4af0-bcd1-6bb3473910c2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977464_image_62.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 1280,
+              "height": 77,
+              "rotatedWidth": 1280,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 1280,
+            "rawHeight": 77,
+            "width": 1286,
+            "height": 83,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1c/1c9b4c6f-f355-4af0-bcd1-6bb3473910c2.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 1286,
+            "rotatedHeight": 83
+          },
+          {
+            "name": "renwu",
+            "uuid": "073c8413-22f5-43c5-89f7-9972989307e5",
+            "textureUuid": "fd8191c8-c7be-4af6-9662-c63108f7f2c4",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_7.png",
+            "trim": {
+              "x": 1289,
+              "y": 3,
+              "width": 423,
+              "height": 602,
+              "rotatedWidth": 423,
+              "rotatedHeight": 602
+            },
+            "rawWidth": 423,
+            "rawHeight": 602,
+            "width": 429,
+            "height": 608,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/fd/fd8191c8-c7be-4af6-9662-c63108f7f2c4.png",
+            "x": 1286,
+            "y": 0,
+            "rotatedWidth": 429,
+            "rotatedHeight": 608
+          },
+          {
+            "name": "suanchan",
+            "uuid": "8e8bb801-4418-4116-82f3-304837e2cced",
+            "textureUuid": "7f9431a5-1313-49d1-8415-ff75682b1deb",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977467_image_75.png",
+            "trim": {
+              "x": 1718,
+              "y": 3,
+              "width": 703,
+              "height": 219,
+              "rotatedWidth": 219,
+              "rotatedHeight": 703
+            },
+            "rawWidth": 703,
+            "rawHeight": 219,
+            "width": 709,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/7f/7f9431a5-1313-49d1-8415-ff75682b1deb.png",
+            "x": 1715,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 225,
+            "rotatedHeight": 709
+          },
+          {
+            "name": "reltt",
+            "uuid": "f574b950-aaf7-49be-a6a1-868e4fc28cfb",
+            "textureUuid": "d8e1a7aa-38f7-4246-ab19-52ad2c620384",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_127.png",
+            "trim": {
+              "x": 1943,
+              "y": 3,
+              "width": 355,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 355
+            },
+            "rawWidth": 355,
+            "rawHeight": 31,
+            "width": 361,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d8/d8e1a7aa-38f7-4246-ab19-52ad2c620384.png",
+            "x": 1940,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 361
+          },
+          {
+            "name": "dating_27",
+            "uuid": "19c93e86-0e5d-423a-9e2d-64c70059cd98",
+            "textureUuid": "f4c39084-d2c3-4387-9522-da1a8dff2a32",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977453_image_19.png",
+            "trim": {
+              "x": 1943,
+              "y": 364,
+              "width": 232,
+              "height": 41,
+              "rotatedWidth": 41,
+              "rotatedHeight": 232
+            },
+            "rawWidth": 234,
+            "rawHeight": 43,
+            "width": 238,
+            "height": 47,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f4/f4c39084-d2c3-4387-9522-da1a8dff2a32.png",
+            "x": 1940,
+            "y": 361,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 238
+          },
+          {
+            "name": "dating_24",
+            "uuid": "5590ed8d-c4b1-46b7-b00c-abdc32ed7451",
+            "textureUuid": "e6516e38-1281-4a9c-8d7a-d31ee32577cc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977460_image_44.png",
+            "trim": {
+              "x": 1980,
+              "y": 3,
+              "width": 232,
+              "height": 41,
+              "rotatedWidth": 41,
+              "rotatedHeight": 232
+            },
+            "rawWidth": 232,
+            "rawHeight": 41,
+            "width": 238,
+            "height": 47,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e6/e6516e38-1281-4a9c-8d7a-d31ee32577cc.png",
+            "x": 1977,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 238
+          },
+          {
+            "name": "logo",
+            "uuid": "4d691729-2946-4795-a5ef-f3a75d4169c2",
+            "textureUuid": "59cd64ec-2905-40cc-8e85-9b1d1855a0f6",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977457_image_35.png",
+            "trim": {
+              "x": 1980,
+              "y": 241,
+              "width": 111,
+              "height": 62,
+              "rotatedWidth": 62,
+              "rotatedHeight": 111
+            },
+            "rawWidth": 111,
+            "rawHeight": 62,
+            "width": 117,
+            "height": 68,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/59/59cd64ec-2905-40cc-8e85-9b1d1855a0f6.png",
+            "x": 1977,
+            "y": 238,
+            "rotated": true,
+            "rotatedWidth": 68,
+            "rotatedHeight": 117
+          },
+          {
+            "name": "dt_jb_kuang",
+            "uuid": "0a234c00-9bfc-4848-8c32-35f9a1ca54ab",
+            "textureUuid": "eea7f6b1-b94d-40c8-91b8-cd09d8d33e17",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977450_image_9.png",
+            "trim": {
+              "x": 1943,
+              "y": 602,
+              "width": 232,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 232
+            },
+            "rawWidth": 232,
+            "rawHeight": 40,
+            "width": 238,
+            "height": 46,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ee/eea7f6b1-b94d-40c8-91b8-cd09d8d33e17.png",
+            "x": 1940,
+            "y": 599,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 238
+          },
+          {
+            "name": "dt_game_name_900007",
+            "uuid": "4ea7d402-26f3-48aa-9a3a-6a366411d02b",
+            "textureUuid": "1fc4d50f-c226-4fdd-96de-ec56d83076dc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977457_image_36.png",
+            "trim": {
+              "x": 1989,
+              "y": 602,
+              "width": 225,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 225
+            },
+            "rawWidth": 225,
+            "rawHeight": 30,
+            "width": 231,
+            "height": 36,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1f/1fc4d50f-c226-4fdd-96de-ec56d83076dc.png",
+            "x": 1986,
+            "y": 599,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 231
+          },
+          {
+            "name": "dt_game_name_900017",
+            "uuid": "c41ef65a-a407-4be4-aa88-a4d64173f73f",
+            "textureUuid": "5ea307a0-bd1f-40d3-8fc2-2761d9888d7e",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977475_image_106.png",
+            "trim": {
+              "x": 1990,
+              "y": 358,
+              "width": 216,
+              "height": 28,
+              "rotatedWidth": 28,
+              "rotatedHeight": 216
+            },
+            "rawWidth": 216,
+            "rawHeight": 28,
+            "width": 222,
+            "height": 34,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/5e/5ea307a0-bd1f-40d3-8fc2-2761d9888d7e.png",
+            "x": 1987,
+            "y": 355,
+            "rotated": true,
+            "rotatedWidth": 34,
+            "rotatedHeight": 222
+          },
+          {
+            "name": "btn_berputar",
+            "uuid": "3e9eec82-5315-445d-9729-84d8580af4a5",
+            "textureUuid": "c947fda6-5a9b-492a-9dcd-6e50bf28be22",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977456_image_31.png",
+            "trim": {
+              "x": 1989,
+              "y": 833,
+              "width": 156,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 156
+            },
+            "rawWidth": 156,
+            "rawHeight": 30,
+            "width": 162,
+            "height": 36,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c9/c947fda6-5a9b-492a-9dcd-6e50bf28be22.png",
+            "x": 1986,
+            "y": 830,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 162
+          },
+          {
+            "name": "bg_fl",
+            "uuid": "d029a44c-aa75-4a67-a62d-21552f48310c",
+            "textureUuid": "99187ed4-b5e4-42eb-b9fc-54c10f1e5b1f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977476_image_112.png",
+            "trim": {
+              "x": 3,
+              "y": 86,
+              "width": 703,
+              "height": 105,
+              "rotatedWidth": 703,
+              "rotatedHeight": 105
+            },
+            "rawWidth": 703,
+            "rawHeight": 105,
+            "width": 709,
+            "height": 111,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/99/99187ed4-b5e4-42eb-b9fc-54c10f1e5b1f.png",
+            "x": 0,
+            "y": 83,
+            "rotatedWidth": 709,
+            "rotatedHeight": 111
+          },
+          {
+            "name": "dt_game_icon_1",
+            "uuid": "0bfb720d-7ce9-41c7-8338-2d61be67ee64",
+            "textureUuid": "944a7770-719e-49ce-b6d7-bb56b92b2c3a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977450_image_12.png",
+            "trim": {
+              "x": 712,
+              "y": 86,
+              "width": 263,
+              "height": 450,
+              "rotatedWidth": 263,
+              "rotatedHeight": 450
+            },
+            "rawWidth": 263,
+            "rawHeight": 450,
+            "width": 269,
+            "height": 456,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/94/944a7770-719e-49ce-b6d7-bb56b92b2c3a.png",
+            "x": 709,
+            "y": 83,
+            "rotatedWidth": 269,
+            "rotatedHeight": 456
+          },
+          {
+            "name": "dt_game_icon_12",
+            "uuid": "11a293d7-a3e4-44a6-8c51-c55871ed1520",
+            "textureUuid": "968e39ce-4f31-46ce-b410-94d2fb943e1d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977451_image_15.png",
+            "trim": {
+              "x": 3,
+              "y": 197,
+              "width": 314,
+              "height": 449,
+              "rotatedWidth": 314,
+              "rotatedHeight": 449
+            },
+            "rawWidth": 314,
+            "rawHeight": 450,
+            "width": 320,
+            "height": 455,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/96/968e39ce-4f31-46ce-b410-94d2fb943e1d.png",
+            "x": 0,
+            "y": 194,
+            "rotatedWidth": 320,
+            "rotatedHeight": 455
+          },
+          {
+            "name": "dt_game_icon_4",
+            "uuid": "37aaade2-5055-4625-8cd8-4a760796220f",
+            "textureUuid": "9a61e50f-c08a-440c-8e5b-dc7686449939",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977455_image_26.png",
+            "trim": {
+              "x": 323,
+              "y": 197,
+              "width": 263,
+              "height": 450,
+              "rotatedWidth": 263,
+              "rotatedHeight": 450
+            },
+            "rawWidth": 263,
+            "rawHeight": 450,
+            "width": 269,
+            "height": 456,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/9a/9a61e50f-c08a-440c-8e5b-dc7686449939.png",
+            "x": 320,
+            "y": 194,
+            "rotatedWidth": 269,
+            "rotatedHeight": 456
+          },
+          {
+            "name": "btn_Crash",
+            "uuid": "067bfccf-c8bd-4f5a-b30a-2e6827ad332a",
+            "textureUuid": "5e17fa19-1f0c-4033-9c6a-a275861144bf",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 652,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 219,
+              "rotatedHeight": 330
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/5e/5e17fa19-1f0c-4033-9c6a-a275861144bf.png",
+            "x": 0,
+            "y": 649,
+            "rotated": true,
+            "rotatedWidth": 225,
+            "rotatedHeight": 336
+          },
+          {
+            "name": "dt_game_name_900015",
+            "uuid": "dad2ab4e-ead9-406c-81c4-80d838c3fc1c",
+            "textureUuid": "a9d8e10a-f9f2-4ab9-a09c-7be534592de2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977478_image_117.png",
+            "trim": {
+              "x": 228,
+              "y": 652,
+              "width": 204,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 204
+            },
+            "rawWidth": 204,
+            "rawHeight": 30,
+            "width": 210,
+            "height": 36,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a9/a9d8e10a-f9f2-4ab9-a09c-7be534592de2.png",
+            "x": 225,
+            "y": 649,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 210
+          },
+          {
+            "name": "dt_game_name_900012",
+            "uuid": "7c21efed-2cd9-47a8-b850-30bdd5dceb70",
+            "textureUuid": "6fa9c0d9-841b-45af-b7fc-03881f72867d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977464_image_65.png",
+            "trim": {
+              "x": 264,
+              "y": 652,
+              "width": 146,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 146
+            },
+            "rawWidth": 146,
+            "rawHeight": 30,
+            "width": 152,
+            "height": 36,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/6f/6fa9c0d9-841b-45af-b7fc-03881f72867d.png",
+            "x": 261,
+            "y": 649,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 152
+          },
+          {
+            "name": "dt_game_icon_7",
+            "uuid": "d72882d8-bb3b-49c8-b4c0-837cc90a99ba",
+            "textureUuid": "2c15c78a-86fd-47ad-afeb-4bdb53e51341",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977478_image_116.png",
+            "trim": {
+              "x": 592,
+              "y": 542,
+              "width": 261,
+              "height": 450,
+              "rotatedWidth": 450,
+              "rotatedHeight": 261
+            },
+            "rawWidth": 261,
+            "rawHeight": 450,
+            "width": 267,
+            "height": 456,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2c/2c15c78a-86fd-47ad-afeb-4bdb53e51341.png",
+            "x": 589,
+            "y": 539,
+            "rotated": true,
+            "rotatedWidth": 456,
+            "rotatedHeight": 267
+          },
+          {
+            "name": "dt_game_icon_900017",
+            "uuid": "57a2d8b7-e51f-4ea2-9724-cfe8b34df72f",
+            "textureUuid": "e98e386e-5c01-45c4-afc9-b727bf4b5c09",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977460_image_46.png",
+            "trim": {
+              "x": 981,
+              "y": 86,
+              "width": 264,
+              "height": 442,
+              "rotatedWidth": 264,
+              "rotatedHeight": 442
+            },
+            "rawWidth": 264,
+            "rawHeight": 442,
+            "width": 270,
+            "height": 448,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e9/e98e386e-5c01-45c4-afc9-b727bf4b5c09.png",
+            "x": 978,
+            "y": 83,
+            "rotatedWidth": 270,
+            "rotatedHeight": 448
+          },
+          {
+            "name": "bg_yuxi3",
+            "uuid": "3e67d9ad-784b-4231-8c96-47969acdd9a7",
+            "textureUuid": "cc1025da-48d7-44fd-9151-d20bc931b2a0",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977456_image_30.png",
+            "trim": {
+              "x": 300,
+              "y": 653,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 219,
+              "rotatedHeight": 330
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/cc/cc1025da-48d7-44fd-9151-d20bc931b2a0.png",
+            "x": 297,
+            "y": 650,
+            "rotated": true,
+            "rotatedWidth": 225,
+            "rotatedHeight": 336
+          },
+          {
+            "name": "dt_game_name_900020",
+            "uuid": "9980da89-b75f-4efd-aa19-a4fd8c36a2e0",
+            "textureUuid": "5bcd757e-956b-49ff-b67b-8f6434ab358c",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977469_image_82.png",
+            "trim": {
+              "x": 228,
+              "y": 862,
+              "width": 153,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 153
+            },
+            "rawWidth": 153,
+            "rawHeight": 65,
+            "width": 159,
+            "height": 71,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/5b/5bcd757e-956b-49ff-b67b-8f6434ab358c.png",
+            "x": 225,
+            "y": 859,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 159
+          },
+          {
+            "name": "Email",
+            "uuid": "a312cbb4-b887-4599-8c3a-4eee43bcc86b",
+            "textureUuid": "f1e81b4b-d6ac-400a-ab3d-a6d2e7bf034a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977470_image_85.png",
+            "trim": {
+              "x": 264,
+              "y": 804,
+              "width": 40,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 40,
+            "rawHeight": 27,
+            "width": 46,
+            "height": 33,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f1/f1e81b4b-d6ac-400a-ab3d-a6d2e7bf034a.png",
+            "x": 261,
+            "y": 801,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "RECHARGE",
+            "uuid": "c36a491d-105d-4a5c-99a1-6b24e4e422d2",
+            "textureUuid": "a821dde3-659a-45be-b8c8-442229301ab6",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977474_image_104.png",
+            "trim": {
+              "x": 3,
+              "y": 988,
+              "width": 141,
+              "height": 33,
+              "rotatedWidth": 141,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 141,
+            "rawHeight": 33,
+            "width": 147,
+            "height": 39,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a8/a821dde3-659a-45be-b8c8-442229301ab6.png",
+            "x": 0,
+            "y": 985,
+            "rotatedWidth": 147,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "-h-icon_jia",
+            "uuid": "5b2dd5f0-ddfb-4465-89aa-7983664b1061",
+            "textureUuid": "f02c68bf-b140-4a3d-86ba-6e2166f87cd3",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977461_image_48.png",
+            "trim": {
+              "x": 150,
+              "y": 988,
+              "width": 33,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 33,
+            "rawHeight": 33,
+            "width": 39,
+            "height": 39,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f0/f02c68bf-b140-4a3d-86ba-6e2166f87cd3.png",
+            "x": 147,
+            "y": 985,
+            "rotatedWidth": 39,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "xizhi",
+            "uuid": "b8680dfc-5182-4c5d-b41e-0d551dba418a",
+            "textureUuid": "7487e5cd-0559-4331-8935-095bcaf7a1e5",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977474_image_101.png",
+            "trim": {
+              "x": 189,
+              "y": 988,
+              "width": 33,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 36,
+            "rawHeight": 36,
+            "width": 39,
+            "height": 39,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/74/7487e5cd-0559-4331-8935-095bcaf7a1e5.png",
+            "x": 186,
+            "y": 985,
+            "rotatedWidth": 39,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "dt_touming_di",
+            "uuid": "b4370b1f-3035-43a5-ae17-e5ae74667c52",
+            "textureUuid": "8936b662-faf4-4511-bd88-c822e9bba00f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977473_image_99.png",
+            "trim": {
+              "x": 1048,
+              "y": 534,
+              "width": 354,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 354
+            },
+            "rawWidth": 354,
+            "rawHeight": 150,
+            "width": 360,
+            "height": 156,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/89/8936b662-faf4-4511-bd88-c822e9bba00f.png",
+            "x": 1045,
+            "y": 531,
+            "rotated": true,
+            "rotatedWidth": 156,
+            "rotatedHeight": 360
+          },
+          {
+            "name": "dt_game_icon_900015",
+            "uuid": "8dabae38-b318-4388-9dbf-4e8ab18001fb",
+            "textureUuid": "2ad7708c-b76c-4d4a-8868-279c0618f3db",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977467_image_74.png",
+            "trim": {
+              "x": 1204,
+              "y": 611,
+              "width": 245,
+              "height": 439,
+              "rotatedWidth": 439,
+              "rotatedHeight": 245
+            },
+            "rawWidth": 245,
+            "rawHeight": 439,
+            "width": 251,
+            "height": 445,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2a/2ad7708c-b76c-4d4a-8868-279c0618f3db.png",
+            "x": 1201,
+            "y": 608,
+            "rotated": true,
+            "rotatedWidth": 445,
+            "rotatedHeight": 251
+          },
+          {
+            "name": "btn_f2_a",
+            "uuid": "955ca4fc-78f8-46b6-bd0c-c7445f0b9777",
+            "textureUuid": "6eb036d8-3dbb-453d-b21f-c6d3dbbcbdb2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977468_image_80.png",
+            "trim": {
+              "x": 1204,
+              "y": 534,
+              "width": 75,
+              "height": 70,
+              "rotatedWidth": 75,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 75,
+            "rawHeight": 70,
+            "width": 81,
+            "height": 76,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/6e/6eb036d8-3dbb-453d-b21f-c6d3dbbcbdb2.png",
+            "x": 1201,
+            "y": 531,
+            "rotatedWidth": 81,
+            "rotatedHeight": 76
+          },
+          {
+            "name": "icon_dice",
+            "uuid": "f93146f8-d4b6-4cd0-94de-aee797d8c40b",
+            "textureUuid": "313a11f3-3f38-4fb8-b260-67c1773e5fc7",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_130.png",
+            "trim": {
+              "x": 1649,
+              "y": 712,
+              "width": 255,
+              "height": 232,
+              "rotatedWidth": 232,
+              "rotatedHeight": 255
+            },
+            "rawWidth": 255,
+            "rawHeight": 232,
+            "width": 261,
+            "height": 238,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/31/313a11f3-3f38-4fb8-b260-67c1773e5fc7.png",
+            "x": 1646,
+            "y": 709,
+            "rotated": true,
+            "rotatedWidth": 238,
+            "rotatedHeight": 261
+          },
+          {
+            "name": "dt_btn_tx",
+            "uuid": "9cef5cf1-d3e9-4bc3-8de3-bfb199e79a35",
+            "textureUuid": "8d2b28ab-f7a0-4ff4-9a15-1a3e88995ee9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977469_image_83.png",
+            "trim": {
+              "x": 1649,
+              "y": 611,
+              "width": 72,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 72
+            },
+            "rawWidth": 72,
+            "rawHeight": 60,
+            "width": 78,
+            "height": 66,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/8d/8d2b28ab-f7a0-4ff4-9a15-1a3e88995ee9.png",
+            "x": 1646,
+            "y": 608,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 78
+          },
+          {
+            "name": "dt_game_name_900004",
+            "uuid": "a988afe0-02c6-45e9-b551-f354183f0f68",
+            "textureUuid": "49ebbd06-c0ad-4c5c-8d43-39794e5dd40f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977471_image_90.png",
+            "trim": {
+              "x": 1887,
+              "y": 840,
+              "width": 171,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 171
+            },
+            "rawWidth": 171,
+            "rawHeight": 60,
+            "width": 177,
+            "height": 66,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/49/49ebbd06-c0ad-4c5c-8d43-39794e5dd40f.png",
+            "x": 1884,
+            "y": 837,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 177
+          },
+          {
+            "name": "icon_bs2",
+            "uuid": "eee5d70f-28c0-47c2-b7b1-9441680d37ad",
+            "textureUuid": "a057400e-080e-4e33-8abe-74b30b6f7a31",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977479_image_123.png",
+            "trim": {
+              "x": 1887,
+              "y": 712,
+              "width": 119,
+              "height": 36,
+              "rotatedWidth": 36,
+              "rotatedHeight": 119
+            },
+            "rawWidth": 138,
+            "rawHeight": 36,
+            "width": 125,
+            "height": 42,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a0/a057400e-080e-4e33-8abe-74b30b6f7a31.png",
+            "x": 1884,
+            "y": 709,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 125
+          },
+          {
+            "name": "User",
+            "uuid": "a72b5bdf-58ce-423d-9e67-bd8c04585099",
+            "textureUuid": "d2e96d99-2d0e-42a5-bc10-216a49621e4d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977471_image_89.png",
+            "trim": {
+              "x": 1953,
+              "y": 995,
+              "width": 28,
+              "height": 26,
+              "rotatedWidth": 28,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 28,
+            "rawHeight": 29,
+            "width": 34,
+            "height": 32,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d2/d2e96d99-2d0e-42a5-bc10-216a49621e4d.png",
+            "x": 1950,
+            "y": 992,
+            "rotatedWidth": 34,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "icon_yx",
+            "uuid": "247d2519-9044-4672-85f7-df53367ace0c",
+            "textureUuid": "9e359133-64ae-426f-8df3-035a1ff87899",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977454_image_23.png",
+            "trim": {
+              "x": 1953,
+              "y": 840,
+              "width": 33,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 33,
+            "rawHeight": 27,
+            "width": 39,
+            "height": 33,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/9e/9e359133-64ae-426f-8df3-035a1ff87899.png",
+            "x": 1950,
+            "y": 837,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "icon_game",
+            "uuid": "66eb6f91-ff9b-4395-92a9-90ef983ea1bc",
+            "textureUuid": "b28f5fb1-604c-444e-ab0d-9e499aeee089",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977462_image_54.png",
+            "trim": {
+              "x": 1953,
+              "y": 879,
+              "width": 31,
+              "height": 30,
+              "rotatedWidth": 30,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 36,
+            "rawHeight": 36,
+            "width": 37,
+            "height": 36,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/b2/b28f5fb1-604c-444e-ab0d-9e499aeee089.png",
+            "x": 1950,
+            "y": 876,
+            "rotated": true,
+            "rotatedWidth": 36,
+            "rotatedHeight": 37
+          },
+          {
+            "name": "dt_btn_jyks",
+            "uuid": "06b691e4-cb41-4705-9542-dc66de17a461",
+            "textureUuid": "d914fe3d-150a-4eb1-b364-57f3c8073875",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_6.png",
+            "trim": {
+              "x": 1953,
+              "y": 916,
+              "width": 29,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 29,
+            "width": 35,
+            "height": 35,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d9/d914fe3d-150a-4eb1-b364-57f3c8073875.png",
+            "x": 1950,
+            "y": 913,
+            "rotatedWidth": 35,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "Bonus",
+            "uuid": "f2143513-155e-4e91-9fc2-ca115607877b",
+            "textureUuid": "0c67ee46-327e-48c6-a00c-397bcdd46eaa",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977480_image_124.png",
+            "trim": {
+              "x": 592,
+              "y": 197,
+              "width": 114,
+              "height": 158,
+              "rotatedWidth": 114,
+              "rotatedHeight": 158
+            },
+            "rawWidth": 115,
+            "rawHeight": 158,
+            "width": 120,
+            "height": 164,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/0c/0c67ee46-327e-48c6-a00c-397bcdd46eaa.png",
+            "x": 589,
+            "y": 194,
+            "rotatedWidth": 120,
+            "rotatedHeight": 164
+          },
+          {
+            "name": "huankuang",
+            "uuid": "8d63c2b2-bc23-4712-b2b8-03450723d5c1",
+            "textureUuid": "92714999-5b8b-4245-a29b-12813b4568fc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977467_image_73.png",
+            "trim": {
+              "x": 592,
+              "y": 361,
+              "width": 133,
+              "height": 104,
+              "rotatedWidth": 104,
+              "rotatedHeight": 133
+            },
+            "rawWidth": 133,
+            "rawHeight": 104,
+            "width": 139,
+            "height": 110,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/92/92714999-5b8b-4245-a29b-12813b4568fc.png",
+            "x": 589,
+            "y": 358,
+            "rotated": true,
+            "rotatedWidth": 110,
+            "rotatedHeight": 139
+          },
+          {
+            "name": "PROMOTION",
+            "uuid": "031b3117-fa3d-44ff-885d-312575b27ac0",
+            "textureUuid": "53483063-f941-4937-962d-71e1dabe06ac",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977448_image_1.png",
+            "trim": {
+              "x": 592,
+              "y": 500,
+              "width": 109,
+              "height": 33,
+              "rotatedWidth": 109,
+              "rotatedHeight": 33
+            },
+            "rawWidth": 109,
+            "rawHeight": 33,
+            "width": 115,
+            "height": 39,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/53/53483063-f941-4937-962d-71e1dabe06ac.png",
+            "x": 589,
+            "y": 497,
+            "rotatedWidth": 115,
+            "rotatedHeight": 39
+          },
+          {
+            "name": "icon_bs3",
+            "uuid": "cd0d55b3-8eb2-48de-bbea-3f8487fdca21",
+            "textureUuid": "a23f0e2d-615d-4c60-92e3-9e61d474eb25",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977476_image_111.png",
+            "trim": {
+              "x": 525,
+              "y": 653,
+              "width": 138,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 138
+            },
+            "rawWidth": 138,
+            "rawHeight": 37,
+            "width": 144,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a2/a23f0e2d-615d-4c60-92e3-9e61d474eb25.png",
+            "x": 522,
+            "y": 650,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 144
+          },
+          {
+            "name": "dt_game_name_900016",
+            "uuid": "c2ab6c41-4035-4892-adbb-ff8269a836c0",
+            "textureUuid": "a57d5ccc-9e19-4a32-8629-91eb2cd16b81",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977474_image_103.png",
+            "trim": {
+              "x": 525,
+              "y": 797,
+              "width": 122,
+              "height": 31,
+              "rotatedWidth": 31,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 31,
+            "width": 128,
+            "height": 37,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a5/a57d5ccc-9e19-4a32-8629-91eb2cd16b81.png",
+            "x": 522,
+            "y": 794,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "icon_fl",
+            "uuid": "10523ec9-86cb-4c7b-b4f6-9fd6b297f14a",
+            "textureUuid": "19b8b87d-2324-43a6-a11f-decfffca9b7c",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977451_image_14.png",
+            "trim": {
+              "x": 1204,
+              "y": 862,
+              "width": 119,
+              "height": 104,
+              "rotatedWidth": 119,
+              "rotatedHeight": 104
+            },
+            "rawWidth": 119,
+            "rawHeight": 104,
+            "width": 125,
+            "height": 110,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/19/19b8b87d-2324-43a6-a11f-decfffca9b7c.png",
+            "x": 1201,
+            "y": 859,
+            "rotatedWidth": 125,
+            "rotatedHeight": 110
+          },
+          {
+            "name": "TP_btn_jia",
+            "uuid": "b13df24a-e73b-4a94-bd4e-7c48fb598f2e",
+            "textureUuid": "14d63054-16aa-4ae2-bd40-f64aae55e2dc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977472_image_96.png",
+            "trim": {
+              "x": 1329,
+              "y": 862,
+              "width": 114,
+              "height": 114,
+              "rotatedWidth": 114,
+              "rotatedHeight": 114
+            },
+            "rawWidth": 114,
+            "rawHeight": 114,
+            "width": 120,
+            "height": 120,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/14/14d63054-16aa-4ae2-bd40-f64aae55e2dc.png",
+            "x": 1326,
+            "y": 859,
+            "rotatedWidth": 120,
+            "rotatedHeight": 120
+          },
+          {
+            "name": "dt_txk",
+            "uuid": "a3612c24-32df-4d8c-8210-5fb809cbe030",
+            "textureUuid": "cf099eef-c05e-4bf0-b886-5f15931c9a76",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977471_image_86.png",
+            "trim": {
+              "x": 1449,
+              "y": 862,
+              "width": 103,
+              "height": 103,
+              "rotatedWidth": 103,
+              "rotatedHeight": 103
+            },
+            "rawWidth": 103,
+            "rawHeight": 103,
+            "width": 109,
+            "height": 109,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/cf/cf099eef-c05e-4bf0-b886-5f15931c9a76.png",
+            "x": 1446,
+            "y": 859,
+            "rotatedWidth": 109,
+            "rotatedHeight": 109
+          },
+          {
+            "name": "CUSTOMER",
+            "uuid": "d6f1ee6f-1470-447e-b026-10c1d88d678c",
+            "textureUuid": "1caeee08-62b9-49dc-9866-511e34e1126d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977477_image_115.png",
+            "trim": {
+              "x": 1558,
+              "y": 862,
+              "width": 103,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 103
+            },
+            "rawWidth": 103,
+            "rawHeight": 33,
+            "width": 109,
+            "height": 39,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1c/1caeee08-62b9-49dc-9866-511e34e1126d.png",
+            "x": 1555,
+            "y": 859,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 109
+          },
+          {
+            "name": "icon_bs1",
+            "uuid": "defc772d-6f90-403b-a911-f9bb0c1510da",
+            "textureUuid": "2817a16e-b268-4bf4-8d57-34bf1e4c3ec5",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977479_image_119.png",
+            "trim": {
+              "x": 1597,
+              "y": 862,
+              "width": 89,
+              "height": 37,
+              "rotatedWidth": 37,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 138,
+            "rawHeight": 37,
+            "width": 95,
+            "height": 43,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/28/2817a16e-b268-4bf4-8d57-34bf1e4c3ec5.png",
+            "x": 1594,
+            "y": 859,
+            "rotated": true,
+            "rotatedWidth": 43,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "yd_dt_icon_piggy_bank",
+            "uuid": "631950d6-6fcc-4a4b-a4a7-fa98c14a47b8",
+            "textureUuid": "0346d766-d802-48c2-893f-7ad367d6e17f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977462_image_51.png",
+            "trim": {
+              "x": 1597,
+              "y": 957,
+              "width": 59,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 59
+            },
+            "rawWidth": 59,
+            "rawHeight": 44,
+            "width": 65,
+            "height": 50,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/03/0346d766-d802-48c2-893f-7ad367d6e17f.png",
+            "x": 1594,
+            "y": 954,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 65
+          },
+          {
+            "name": "btn_f4",
+            "uuid": "7a162906-d930-439d-b7c3-dd6fcc724f3c",
+            "textureUuid": "6648b432-138a-413d-8743-9fb299cceb66",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977464_image_63.png",
+            "trim": {
+              "x": 1449,
+              "y": 971,
+              "width": 49,
+              "height": 63,
+              "rotatedWidth": 63,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 49,
+            "rawHeight": 63,
+            "width": 55,
+            "height": 69,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/66/6648b432-138a-413d-8743-9fb299cceb66.png",
+            "x": 1446,
+            "y": 968,
+            "rotated": true,
+            "rotatedWidth": 69,
+            "rotatedHeight": 55
+          },
+          {
+            "name": "meci1",
+            "uuid": "6cdfd28d-450b-4023-893d-5bc77e1a5e1c",
+            "textureUuid": "30df7e3f-494a-4ef3-91a4-6e3435f4e2f0",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977463_image_56.png",
+            "trim": {
+              "x": 1518,
+              "y": 971,
+              "width": 46,
+              "height": 52,
+              "rotatedWidth": 52,
+              "rotatedHeight": 46
+            },
+            "rawWidth": 46,
+            "rawHeight": 52,
+            "width": 52,
+            "height": 58,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/30/30df7e3f-494a-4ef3-91a4-6e3435f4e2f0.png",
+            "x": 1515,
+            "y": 968,
+            "rotated": true,
+            "rotatedWidth": 58,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "meci3",
+            "uuid": "3dcc19f0-589b-4178-88ae-5c8e213a12f1",
+            "textureUuid": "f2967a29-b4bf-44e3-9396-5beff88cf609",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977456_image_29.png",
+            "trim": {
+              "x": 1647,
+              "y": 973,
+              "width": 40,
+              "height": 46,
+              "rotatedWidth": 46,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 40,
+            "rawHeight": 46,
+            "width": 46,
+            "height": 52,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/f2/f2967a29-b4bf-44e3-9396-5beff88cf609.png",
+            "x": 1644,
+            "y": 970,
+            "rotated": true,
+            "rotatedWidth": 52,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "meci2",
+            "uuid": "539a19f6-34ce-4a49-8abe-8757a615e25e",
+            "textureUuid": "61908e41-5d40-4901-9174-ce2ebb8837ce",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977459_image_41.png",
+            "trim": {
+              "x": 1699,
+              "y": 973,
+              "width": 40,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 40,
+            "rawHeight": 45,
+            "width": 46,
+            "height": 51,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/61/61908e41-5d40-4901-9174-ce2ebb8837ce.png",
+            "x": 1696,
+            "y": 970,
+            "rotated": true,
+            "rotatedWidth": 51,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "icon_wingo_new",
+            "uuid": "1871c12b-3cb4-4825-b2ef-0001a4f41596",
+            "textureUuid": "00b9f9af-90ee-4d37-af11-dd63f6fa7c31",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977452_image_18.png",
+            "trim": {
+              "x": 1750,
+              "y": 973,
+              "width": 42,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 42,
+            "width": 48,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/00/00b9f9af-90ee-4d37-af11-dd63f6fa7c31.png",
+            "x": 1747,
+            "y": 970,
+            "rotatedWidth": 48,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "bg_texi",
+            "uuid": "3bc31dd6-75ef-4b35-becc-d19b8f35bc48",
+            "textureUuid": "69b59d30-0efd-4d23-88a2-ec1a99f35f33",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977455_image_27.png",
+            "trim": {
+              "x": 1798,
+              "y": 973,
+              "width": 42,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 42,
+            "width": 48,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/69/69b59d30-0efd-4d23-88a2-ec1a99f35f33.png",
+            "x": 1795,
+            "y": 970,
+            "rotatedWidth": 48,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "icon_jb",
+            "uuid": "8e9f73d9-536d-437d-88f8-1a0fc500d4f7",
+            "textureUuid": "97b42eb2-6f16-449b-bf8c-b9f2d1e2d63f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977467_image_76.png",
+            "trim": {
+              "x": 1846,
+              "y": 973,
+              "width": 35,
+              "height": 36,
+              "rotatedWidth": 35,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 35,
+            "rawHeight": 36,
+            "width": 41,
+            "height": 42,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/97/97b42eb2-6f16-449b-bf8c-b9f2d1e2d63f.png",
+            "x": 1843,
+            "y": 970,
+            "rotatedWidth": 41,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "btn_gx",
+            "uuid": "06a7e0f5-2f1a-41a9-bacd-4b045d825228",
+            "textureUuid": "6a7dc226-a6d2-404d-a50f-c96ce5628fb9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_5.png",
+            "trim": {
+              "x": 562,
+              "y": 809,
+              "width": 88,
+              "height": 88,
+              "rotatedWidth": 88,
+              "rotatedHeight": 88
+            },
+            "rawWidth": 88,
+            "rawHeight": 88,
+            "width": 94,
+            "height": 94,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/6a/6a7dc226-a6d2-404d-a50f-c96ce5628fb9.png",
+            "x": 559,
+            "y": 806,
+            "rotatedWidth": 94,
+            "rotatedHeight": 94
+          },
+          {
+            "name": "btn_xz",
+            "uuid": "3d02344c-2792-4038-875b-a8dcba0c8620",
+            "textureUuid": "bfc0cf23-55ae-441b-b91d-9815613e8177",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977456_image_28.png",
+            "trim": {
+              "x": 656,
+              "y": 809,
+              "width": 88,
+              "height": 88,
+              "rotatedWidth": 88,
+              "rotatedHeight": 88
+            },
+            "rawWidth": 88,
+            "rawHeight": 88,
+            "width": 94,
+            "height": 94,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/bf/bfc0cf23-55ae-441b-b91d-9815613e8177.png",
+            "x": 653,
+            "y": 806,
+            "rotatedWidth": 94,
+            "rotatedHeight": 94
+          },
+          {
+            "name": "dt_btn_sz",
+            "uuid": "3f6d8b10-1d3c-41eb-9c2c-9c88308ff9fb",
+            "textureUuid": "353a40a6-f5e6-4106-89ca-d62617c0ecc9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977456_image_32.png",
+            "trim": {
+              "x": 750,
+              "y": 809,
+              "width": 78,
+              "height": 81,
+              "rotatedWidth": 81,
+              "rotatedHeight": 78
+            },
+            "rawWidth": 85,
+            "rawHeight": 82,
+            "width": 84,
+            "height": 87,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/35/353a40a6-f5e6-4106-89ca-d62617c0ecc9.png",
+            "x": 747,
+            "y": 806,
+            "rotated": true,
+            "rotatedWidth": 87,
+            "rotatedHeight": 84
+          },
+          {
+            "name": "btn_kf",
+            "uuid": "6845cc18-4cc9-4ee2-8c3b-29e569732e85",
+            "textureUuid": "71c353ef-ad5c-4d86-a50e-7a414a595f8f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977463_image_55.png",
+            "trim": {
+              "x": 837,
+              "y": 809,
+              "width": 77,
+              "height": 77,
+              "rotatedWidth": 77,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 77,
+            "rawHeight": 77,
+            "width": 83,
+            "height": 83,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/71/71c353ef-ad5c-4d86-a50e-7a414a595f8f.png",
+            "x": 834,
+            "y": 806,
+            "rotatedWidth": 83,
+            "rotatedHeight": 83
+          },
+          {
+            "name": "dt_btn_yj",
+            "uuid": "8a114a06-d8e3-412e-9ba2-44c2487096a6",
+            "textureUuid": "ba3faa47-9eca-4b94-ac2b-4209c7b03fd7",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977466_image_71.png",
+            "trim": {
+              "x": 837,
+              "y": 892,
+              "width": 76,
+              "height": 65,
+              "rotatedWidth": 76,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 76,
+            "rawHeight": 65,
+            "width": 82,
+            "height": 71,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ba/ba3faa47-9eca-4b94-ac2b-4209c7b03fd7.png",
+            "x": 834,
+            "y": 889,
+            "rotatedWidth": 82,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "dt_btn_yh",
+            "uuid": "501ab038-ac52-45b2-8f56-d776a67dc0e0",
+            "textureUuid": "5f7744ab-9e21-4805-8d09-469920198801",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977458_image_37.png",
+            "trim": {
+              "x": 750,
+              "y": 893,
+              "width": 73,
+              "height": 66,
+              "rotatedWidth": 66,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 73,
+            "rawHeight": 66,
+            "width": 79,
+            "height": 72,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/5f/5f7744ab-9e21-4805-8d09-469920198801.png",
+            "x": 747,
+            "y": 890,
+            "rotated": true,
+            "rotatedWidth": 72,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "jz",
+            "uuid": "6ed9655e-4d9c-4012-bdb2-abb331d59908",
+            "textureUuid": "b2120cb1-9d94-4a4f-800d-53e8596847c2",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977463_image_58.png",
+            "trim": {
+              "x": 919,
+              "y": 892,
+              "width": 70,
+              "height": 70,
+              "rotatedWidth": 70,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 70,
+            "rawHeight": 70,
+            "width": 76,
+            "height": 76,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/b2/b2120cb1-9d94-4a4f-800d-53e8596847c2.png",
+            "x": 916,
+            "y": 889,
+            "rotatedWidth": 76,
+            "rotatedHeight": 76
+          },
+          {
+            "name": "dt_btn_fd",
+            "uuid": "034c8b74-2161-4659-b5e6-4eda482545bd",
+            "textureUuid": "7516878b-9478-458c-90bf-72ad1d5c281f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977449_image_2.png",
+            "trim": {
+              "x": 822,
+              "y": 963,
+              "width": 66,
+              "height": 53,
+              "rotatedWidth": 66,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 66,
+            "rawHeight": 53,
+            "width": 72,
+            "height": 59,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/75/7516878b-9478-458c-90bf-72ad1d5c281f.png",
+            "x": 819,
+            "y": 960,
+            "rotatedWidth": 72,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "btn_f1_a",
+            "uuid": "b694fec0-515b-4f20-ae58-b4fc1ceb1a8a",
+            "textureUuid": "2340ef42-b6fd-42c7-8f3d-fcb4a2090ae9",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977473_image_100.png",
+            "trim": {
+              "x": 920,
+              "y": 809,
+              "width": 61,
+              "height": 67,
+              "rotatedWidth": 67,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 61,
+            "rawHeight": 67,
+            "width": 67,
+            "height": 73,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/23/2340ef42-b6fd-42c7-8f3d-fcb4a2090ae9.png",
+            "x": 917,
+            "y": 806,
+            "rotated": true,
+            "rotatedWidth": 73,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "btn_jia",
+            "uuid": "58a39c69-79cb-4238-9545-eca49b9c8e20",
+            "textureUuid": "45f815d1-8da3-4db0-be57-216184452773",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977461_image_47.png",
+            "trim": {
+              "x": 993,
+              "y": 809,
+              "width": 42,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 42,
+            "width": 48,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/45/45f815d1-8da3-4db0-be57-216184452773.png",
+            "x": 990,
+            "y": 806,
+            "rotatedWidth": 48,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "btn_f1",
+            "uuid": "8a321559-0ca9-4b51-986c-81cb8938587e",
+            "textureUuid": "d4e18324-f174-452f-a222-dd95c3a1ad97",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977466_image_72.png",
+            "trim": {
+              "x": 562,
+              "y": 903,
+              "width": 59,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 59
+            },
+            "rawWidth": 59,
+            "rawHeight": 65,
+            "width": 65,
+            "height": 71,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d4/d4e18324-f174-452f-a222-dd95c3a1ad97.png",
+            "x": 559,
+            "y": 900,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 65
+          },
+          {
+            "name": "firendIcon",
+            "uuid": "b3a16235-f8f4-4aa0-b57d-da74bbcc59be",
+            "textureUuid": "e3abc284-4590-428a-8b88-561efba46b1f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977473_image_97.png",
+            "trim": {
+              "x": 633,
+              "y": 903,
+              "width": 61,
+              "height": 60,
+              "rotatedWidth": 60,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 61,
+            "rawHeight": 60,
+            "width": 67,
+            "height": 66,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e3/e3abc284-4590-428a-8b88-561efba46b1f.png",
+            "x": 630,
+            "y": 900,
+            "rotated": true,
+            "rotatedWidth": 66,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "btn_f3",
+            "uuid": "65c86959-3472-44c9-9617-b1ed22004c89",
+            "textureUuid": "d8df011b-5c42-4f17-a1f8-a52d7335eedc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977462_image_53.png",
+            "trim": {
+              "x": 525,
+              "y": 968,
+              "width": 53,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 53,
+            "rawHeight": 65,
+            "width": 59,
+            "height": 71,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d8/d8df011b-5c42-4f17-a1f8-a52d7335eedc.png",
+            "x": 522,
+            "y": 965,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "icon_roulette_new",
+            "uuid": "8ea68f83-5866-4d43-9edd-69f15c280deb",
+            "textureUuid": "eba78848-54df-4e80-ac30-03ec1fb67654",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977467_image_77.png",
+            "trim": {
+              "x": 699,
+              "y": 903,
+              "width": 42,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 42,
+            "width": 48,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/eb/eba78848-54df-4e80-ac30-03ec1fb67654.png",
+            "x": 696,
+            "y": 900,
+            "rotatedWidth": 48,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "icon_crash_new",
+            "uuid": "c711a3e7-d7f0-48a2-82c3-a2a38d79e005",
+            "textureUuid": "c7d4e10b-1409-4a60-902b-32b4c958936b",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977476_image_108.png",
+            "trim": {
+              "x": 699,
+              "y": 951,
+              "width": 42,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 42,
+            "width": 48,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c7/c7d4e10b-1409-4a60-902b-32b4c958936b.png",
+            "x": 696,
+            "y": 948,
+            "rotatedWidth": 48,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "dt_icon_jb",
+            "uuid": "7c0b65fb-c948-4c6e-9bf8-b1a45b6688d9",
+            "textureUuid": "704ba29b-474f-411f-80be-d80a5b477c22",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977464_image_64.png",
+            "trim": {
+              "x": 747,
+              "y": 972,
+              "width": 39,
+              "height": 39,
+              "rotatedWidth": 39,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 39,
+            "rawHeight": 39,
+            "width": 45,
+            "height": 45,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/70/704ba29b-474f-411f-80be-d80a5b477c22.png",
+            "x": 744,
+            "y": 969,
+            "rotatedWidth": 45,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "btn_f4_a",
+            "uuid": "0156ec4f-f024-46f8-a94f-85e4894a66dc",
+            "textureUuid": "2a152e34-eb24-4aa7-a51b-d5d334cb11fb",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977448_image_0.png",
+            "trim": {
+              "x": 596,
+              "y": 970,
+              "width": 51,
+              "height": 65,
+              "rotatedWidth": 65,
+              "rotatedHeight": 51
+            },
+            "rawWidth": 51,
+            "rawHeight": 65,
+            "width": 57,
+            "height": 71,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2a/2a152e34-eb24-4aa7-a51b-d5d334cb11fb.png",
+            "x": 593,
+            "y": 967,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 57
+          },
+          {
+            "name": "icon_pm",
+            "uuid": "c5e44df3-87db-450d-bf61-c8700239046e",
+            "textureUuid": "2981650b-b5c8-471a-9b17-a6959f5cee0f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977475_image_107.png",
+            "trim": {
+              "x": 995,
+              "y": 857,
+              "width": 36,
+              "height": 36,
+              "rotatedWidth": 36,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 36,
+            "rawHeight": 36,
+            "width": 42,
+            "height": 42,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/29/2981650b-b5c8-471a-9b17-a6959f5cee0f.png",
+            "x": 992,
+            "y": 854,
+            "rotatedWidth": 42,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "-h-icon_jibi",
+            "uuid": "7c96ed44-2636-4ac8-a2c2-924a054ddc18",
+            "textureUuid": "bf7d4b39-5ddc-4a50-9222-705caea69d73",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977465_image_66.png",
+            "trim": {
+              "x": 1037,
+              "y": 894,
+              "width": 34,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 34,
+            "rawHeight": 34,
+            "width": 40,
+            "height": 40,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/bf/bf7d4b39-5ddc-4a50-9222-705caea69d73.png",
+            "x": 1034,
+            "y": 891,
+            "rotatedWidth": 40,
+            "rotatedHeight": 40
+          }
+        ],
+        "width": 2045,
+        "height": 1024,
+        "name": "hall-2",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/hall/images/hall.pac/hall-2.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/hall/images/hall.pac/compressed/hall-2"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "bg_yuxi4",
+            "uuid": "5332972d-0e08-48e6-a171-4346e603819b",
+            "textureUuid": "de2efc59-9f43-40b2-82b7-9cd882fd4194",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977459_image_40.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 330,
+              "rotatedHeight": 219
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/de/de2efc59-9f43-40b2-82b7-9cd882fd4194.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 336,
+            "rotatedHeight": 225
+          },
+          {
+            "name": "btn_Roulette",
+            "uuid": "5fb084e6-84f4-424c-bcad-ec3fdae2ad1e",
+            "textureUuid": "2be1215c-0002-4b72-95e2-ec699d92886d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977461_image_49.png",
+            "trim": {
+              "x": 339,
+              "y": 3,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 219,
+              "rotatedHeight": 330
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2b/2be1215c-0002-4b72-95e2-ec699d92886d.png",
+            "x": 336,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 225,
+            "rotatedHeight": 336
+          },
+          {
+            "name": "bg_yuxi2",
+            "uuid": "654a2158-306b-4d0a-9761-78f69e1fd25b",
+            "textureUuid": "bcae5966-1306-4e5b-b9e6-8ce27473f13f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977462_image_52.png",
+            "trim": {
+              "x": 3,
+              "y": 228,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 330,
+              "rotatedHeight": 219
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/bc/bcae5966-1306-4e5b-b9e6-8ce27473f13f.png",
+            "x": 0,
+            "y": 225,
+            "rotatedWidth": 336,
+            "rotatedHeight": 225
+          },
+          {
+            "name": "btn_dice",
+            "uuid": "ab0cb867-956b-417a-b52b-1276dc852bc6",
+            "textureUuid": "430de272-3560-4a1d-9052-4c5cbde5511c",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977472_image_92.png",
+            "trim": {
+              "x": 339,
+              "y": 339,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 219,
+              "rotatedHeight": 330
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/43/430de272-3560-4a1d-9052-4c5cbde5511c.png",
+            "x": 336,
+            "y": 336,
+            "rotated": true,
+            "rotatedWidth": 225,
+            "rotatedHeight": 336
+          },
+          {
+            "name": "bg_yuxi1",
+            "uuid": "c3cb71af-702b-436d-9179-3105713daf48",
+            "textureUuid": "40404feb-e450-4ba3-a591-2f597900b1ae",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977475_image_105.png",
+            "trim": {
+              "x": 3,
+              "y": 453,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 330,
+              "rotatedHeight": 219
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/40/40404feb-e450-4ba3-a591-2f597900b1ae.png",
+            "x": 0,
+            "y": 450,
+            "rotatedWidth": 336,
+            "rotatedHeight": 225
+          },
+          {
+            "name": "btn_Wingo",
+            "uuid": "c852c08f-3953-4979-a57a-ed82c84376d2",
+            "textureUuid": "d7766951-bc37-48dc-afca-e69c06230e17",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977476_image_109.png",
+            "trim": {
+              "x": 339,
+              "y": 675,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 219,
+              "rotatedHeight": 330
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/d7/d7766951-bc37-48dc-afca-e69c06230e17.png",
+            "x": 336,
+            "y": 672,
+            "rotated": true,
+            "rotatedWidth": 225,
+            "rotatedHeight": 336
+          },
+          {
+            "name": "btn_mines",
+            "uuid": "ee299f0a-d7e3-4f95-8ffb-5aa5615a8cb0",
+            "textureUuid": "4bc22ce2-85e7-4426-9dc0-56a0a195ed06",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1655974977479_image_122.png",
+            "trim": {
+              "x": 3,
+              "y": 678,
+              "width": 330,
+              "height": 219,
+              "rotatedWidth": 330,
+              "rotatedHeight": 219
+            },
+            "rawWidth": 330,
+            "rawHeight": 219,
+            "width": 336,
+            "height": 225,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/4b/4bc22ce2-85e7-4426-9dc0-56a0a195ed06.png",
+            "x": 0,
+            "y": 675,
+            "rotatedWidth": 336,
+            "rotatedHeight": 225
+          }
+        ],
+        "width": 561,
+        "height": 1008,
+        "name": "hall-3",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/hall/images/hall.pac/hall-3.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/hall/images/hall.pac/compressed/hall-3"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

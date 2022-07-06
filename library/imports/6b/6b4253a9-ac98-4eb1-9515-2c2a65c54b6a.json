@@ -1,0 +1,133 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "baozha",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "mzz611c9PnBaQeF1FBCpWpDxlo0",
+      "spine": "3.8.99",
+      "x": -128,
+      "y": -128,
+      "width": 256,
+      "height": 256,
+      "images": "./尾气/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 89.71,
+        "scaleX": 0.64,
+        "scaleY": 0.64
+      }
+    ],
+    "slots": [
+      {
+        "name": "baza",
+        "bone": "bone",
+        "attachment": "8"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "baza": {
+            "1": {
+              "width": 400,
+              "height": 400
+            },
+            "2": {
+              "width": 400,
+              "height": 400
+            },
+            "3": {
+              "width": 400,
+              "height": 400
+            },
+            "4": {
+              "width": 400,
+              "height": 400
+            },
+            "5": {
+              "width": 400,
+              "height": 400
+            },
+            "6": {
+              "width": 400,
+              "height": 400
+            },
+            "7": {
+              "width": 400,
+              "height": 400
+            },
+            "8": {
+              "width": 400,
+              "height": 400
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "baza": {
+            "attachment": [
+              {
+                "name": "1"
+              },
+              {
+                "time": 0.0667,
+                "name": "2"
+              },
+              {
+                "time": 0.1333,
+                "name": "3"
+              },
+              {
+                "time": 0.2,
+                "name": "4"
+              },
+              {
+                "time": 0.2667,
+                "name": "5"
+              },
+              {
+                "time": 0.3333,
+                "name": "6"
+              },
+              {
+                "time": 0.4,
+                "name": "7"
+              },
+              {
+                "time": 0.4667,
+                "name": "8"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbaozha.png\nsize: 599,1108\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 2, 2\n  size: 200, 205\n  orig: 400, 400\n  offset: 101, 91\n  index: -1\n2\n  rotate: true\n  xy: 340, 609\n  size: 233, 251\n  orig: 400, 400\n  offset: 84, 74\n  index: -1\n3\n  rotate: true\n  xy: 312, 312\n  size: 295, 285\n  orig: 400, 400\n  offset: 54, 57\n  index: -1\n4\n  rotate: false\n  xy: 2, 493\n  size: 308, 285\n  orig: 400, 400\n  offset: 47, 57\n  index: -1\n5\n  rotate: true\n  xy: 2, 209\n  size: 282, 284\n  orig: 400, 400\n  offset: 59, 59\n  index: -1\n6\n  rotate: true\n  xy: 2, 780\n  size: 326, 336\n  orig: 400, 400\n  offset: 37, 33\n  index: -1\n7\n  rotate: true\n  xy: 288, 33\n  size: 277, 278\n  orig: 400, 400\n  offset: 63, 62\n  index: -1\n8\n  rotate: true\n  xy: 340, 844\n  size: 262, 252\n  orig: 400, 400\n  offset: 70, 75\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "27742162-ea82-4851-b8be-905f92efceb1"
+    }
+  ],
+  "textureNames": [
+    "baozha.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,51 @@
+{
+    "title": {
+        "explain": "项目名",
+        "value": "btgame"
+    },
+    "buildPath": {
+        "explain": "构建目录",
+        "value": "build"
+    },
+    "packageName": {
+        "explain": "包名",
+        "value": "com.topEnt0.game"
+    },
+    "platform": {
+        "explain": "构建的平台 [web-mobile, web-desktop, android, win32, ios, mac, qqplay, wechatgame, fb-instant-games]",
+        "value": "web-mobile"
+    },
+    "md5Cache": {
+        "explain": "是否开启 md5 缓存",
+        "value": true
+    },
+    "debug": {
+        "explain": "是否为 debug 模式",
+        "value": false
+    },
+    "sourceMaps": {
+        "explain": "是否需要加入 source maps",
+        "value": false
+    },
+    "inlineSpriteFrames": {
+        "explain": "是否内联所有 SpriteFrame",
+        "value": true
+    },
+    "mergeStartScene": {
+        "explain": "是否合并初始场景依赖的所有 JSON",
+        "value": false
+    },
+    "optimizeHotUpdate": {
+        "explain": "是否将图集中的全部 SpriteFrame 合并到同一个包中",
+        "value": false
+    },
+    "webOrientation": {
+        "explain": "web mobile 平台（不含微信小游戏）下的旋转选项 [landscape、portrait、auto]",
+        "value": "landscape"
+    },
+    "embedWebDebugger": {
+        "explain": "是否在 Web 平台下插入 vConsole 调试插件",
+        "value": false
+    }
+     
+}

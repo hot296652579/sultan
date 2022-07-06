@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_yuxi6",
+    "texture": "e498f0cc-00fa-4cee-9004-8e7f0e5d663d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      221,
+      285
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      285
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

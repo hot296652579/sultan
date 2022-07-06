@@ -1,0 +1,219 @@
+syntax = "proto3";
+package MST;
+import "OuterMessage_Gate.proto";
+//下注信息同步
+message RouletteBetInfo
+{
+	UnitInfo player = 1;
+	int64 BetGold = 2;
+	int32 Color = 3;
+}
+
+enum RouletteColor
+{
+	RoulettePurple = 0;
+	RouletteRed = 1;
+	RouletteGreen = 2;
+}
+
+enum RouletteStatus
+{
+	// 下注阶段 
+	BetPhase = 0;
+	// 动画阶段
+	AnimationPhase = 1;
+	// 结算阶段 
+	PaybackPhase = 2;
+}
+
+message TotalBetRecord
+{
+	// 颜色
+	int32 color = 1;
+	// 颜色下注筹码总数
+	int64 chips = 2;
+}
+
+//OpCode 10803
+message C2M_GetRouletteInfo_Req
+{
+	int32 RpcId = 90;
+}
+
+//返回场景信息
+//OpCode 10803
+message M2C_GetRouletteInfo_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	//同房间玩家下注信息 10个
+	repeated RouletteBetInfo Bets = 1;
+	//当前状态 CrashStatus
+	int32 Status = 2;
+	//阶段结束时间
+	int64 EndTimeStamp = 3;
+	//历史开奖记录 20个
+	repeated int64 MultipleRecord = 4;
+	//当前局下注总金额
+	repeated TotalBetRecord betRecord = 5;
+	//round hash
+	string roundHash = 6;
+	// hash salt 在结算阶段才会有
+	string hashSalt = 7;
+	// random number 在结算阶段才会有
+	int32 randomNo = 8;
+	// color 在动画和结算阶段会有
+	int32 color = 9;
+	// 当前局数
+	int32 round = 10;
+}
+
+//开始下注
+//OpCode 10809
+message M2C_RouletteStartBet_Mes // IActorMessage
+{
+	//停止下注时间戳
+	int64 StopBetTimeStamp = 1;
+	// roundHash
+	string randHash = 2;
+}
+
+//滚动开始
+//OpCode 10804
+message M2C_RouletteStart_mes // IActorMessage
+{
+	//开始时间戳
+	int64 StartTimeStamp = 1;
+	//结束时间戳
+	int64 StopTimeStamp = 2;
+	//结果 0紫 1红 2绿
+	int32 endIndex = 3;
+
+}
+
+//下注
+//ResponseType C2M_MyRouletteBet_Req
+//OpCode 10805
+message C2M_MyRouletteBet_Req
+{
+	int32 RpcId = 90;
+	
+	//下注金额
+	int64 BetGold = 2;
+	//下注颜色 0紫 1红 2绿
+	int32 BetIndex = 1;
+}
+
+//OpCode 10806
+message M2C_MyRouletteBet_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	//当前金币
+	int64 Gold = 1;
+}
+
+// 获取总下注排行榜 10807
+message C2R_GetBetRankInfo_Req
+{
+	int32 RpcId = 90;
+}
+
+// 10808
+message R2C_GetBetRandInfo_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	
+	repeated RouletteBetInfo records = 1;
+}
+
+// 获取游戏开奖记录 10810
+message C2R_GetGameRecords_Req
+{
+	int32 RpcId = 90;
+	int32 limit = 1;
+	// 第1页传-1， 后面的传最后一个round
+	int32 round = 2;
+}
+
+message RouletteGameRecord
+{
+	//game no
+	int32 round = 1;
+	//color
+	int32 color = 2;
+	// 开奖时间
+	int32 calcTime = 3;
+	// round hash
+	string roundHash = 4;
+	// hash salt
+	string hashSalt = 5;
+	// random number
+	int32 randomNo = 6;
+}
+// 10811
+message R2C_GetGameRecords_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	repeated RouletteGameRecord records = 1;
+	int32 round = 2;
+}
+
+// 获取个人下注记录 10812
+message C2R_GetBetInfo_Req
+{
+	int32 RpcId = 90;
+	int32 index = 1;
+	int32 limit = 2;
+}
+
+message RouletteBetDetail
+{
+	// game no
+	int32 round = 1;
+	// 下注筹码数量
+	int64 betChips = 2;
+	// 押注颜色
+	int32 color = 3;
+	// 输赢筹码数量
+	int64 winChips = 4;
+}
+
+// 10813
+message R2C_GetBetInfo_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	repeated RouletteBetDetail records = 1;
+	int32 index = 2;
+}
+
+// 中奖通知10814
+message R2C_Calc_Mes
+{
+	// 赢得筹码数量
+	int64 chips = 1;
+}
+
+//下注通知 10815
+message R2C_Bet_Mes
+{
+	RouletteBetInfo info = 1;
+}
+
+// 赔付阶段通知 10816
+message R2C_PaybackPhase_Mes
+{
+	// 下一个game no
+	int32 nextRound = 1;
+	// hash salt
+	string hashSalt = 2;
+	// 随机数
+	int32 randomNum = 3;
+	// color
+	int32 color =4;
+}

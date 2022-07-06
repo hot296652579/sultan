@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shaizi",
+    "texture": "3c2e9d05-204a-4783-8d58-ab04af2664b0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

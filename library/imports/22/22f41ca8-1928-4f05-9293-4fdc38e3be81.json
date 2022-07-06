@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "datu",
+    "texture": "bebd07ce-733f-4f96-a561-e7842fd7b451",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      595
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      595
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

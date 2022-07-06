@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suanchan",
+    "texture": "7f9431a5-1313-49d1-8415-ff75682b1deb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      703,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      703,
+      219
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

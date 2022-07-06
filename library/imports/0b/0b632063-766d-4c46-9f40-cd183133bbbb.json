@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wushuju",
+    "texture": "a854d238-6b50-4577-bea6-78f1414fd947",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      319,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      319,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shengli",
+    "texture": "d904e5da-8463-4934-96ab-c2375d376945",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      997,
+      454
+    ],
+    "offset": [
+      -12.5,
+      28
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

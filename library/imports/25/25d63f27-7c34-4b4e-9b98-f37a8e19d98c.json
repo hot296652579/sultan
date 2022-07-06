@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_guan",
+    "texture": "63be09b0-fe11-43c1-ab05-325a57a61d15",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

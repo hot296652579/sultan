@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gantan",
+    "texture": "e2c126f8-e9de-4fee-8106-f1409007176b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

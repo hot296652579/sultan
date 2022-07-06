@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jianhao",
+    "texture": "a31df93f-1f01-42c6-8533-79654bed5bcf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

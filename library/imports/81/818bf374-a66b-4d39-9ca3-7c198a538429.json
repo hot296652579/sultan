@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_qb10",
+    "texture": "07a35aa5-7095-4243-b83b-7afe97686f61",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

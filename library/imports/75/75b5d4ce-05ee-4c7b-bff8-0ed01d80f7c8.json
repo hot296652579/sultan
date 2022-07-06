@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "-h-btn_masuk",
+    "texture": "248d1a59-9c46-444e-bfdd-950b1226264f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

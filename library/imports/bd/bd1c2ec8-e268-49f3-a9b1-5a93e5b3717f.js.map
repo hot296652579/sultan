@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/promotion/PromotionInterface.ts"],"names":[],"mappings":"","file":"","sourceRoot":"/","sourcesContent":["import { MST } from \"../framework/external/protoc\";\n\nexport namespace PromotionInterface {\n\n    export interface PlayerBrokerageRank {\n        rank: number;\n        data: MST.IPromotionRankInfo;\n    }\n\n}"]}

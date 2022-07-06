@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_game_losebf_0",
+    "texture": "39039443-f505-4cd1-a91e-4faf6d113347",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

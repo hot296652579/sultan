@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jidu_bg1",
+    "texture": "9681b328-3263-43df-9271-16b2dc575ac9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      288,
+      18
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      289,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

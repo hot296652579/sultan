@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_game_ui_09",
+    "texture": "978470e8-2b9f-4ea4-b792-c50af7a3e2e1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      651,
+      116
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      651,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

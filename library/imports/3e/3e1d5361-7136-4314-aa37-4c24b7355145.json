@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "anniudikuang",
+    "texture": "de850a3b-5cf9-4ec2-b471-32562818912e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

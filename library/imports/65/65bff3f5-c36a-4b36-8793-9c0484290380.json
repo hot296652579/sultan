@@ -1,0 +1,4743 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "qui",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Sj57rwjRd1FXjOWuM+pKms7Wj0g",
+      "spine": "3.7.94",
+      "width": 84,
+      "height": 94,
+      "images": "./images/",
+      "audio": "F:/spine动画/球特效"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "length": 17.73,
+        "x": -0.41,
+        "y": -0.27
+      },
+      {
+        "name": "q1",
+        "parent": "bone",
+        "length": 24.25,
+        "rotation": 90,
+        "x": -0.36,
+        "y": 1.67
+      },
+      {
+        "name": "bian",
+        "parent": "bone",
+        "length": 17.07,
+        "rotation": 178.49,
+        "x": 0.99,
+        "y": -40.08
+      },
+      {
+        "name": "bg",
+        "parent": "bone",
+        "length": 14.25,
+        "rotation": -179.4,
+        "x": 2.85,
+        "y": -34.95
+      },
+      {
+        "name": "0",
+        "parent": "bone",
+        "length": 12.3,
+        "rotation": 89.3,
+        "x": 0.3,
+        "y": -0.6
+      },
+      {
+        "name": "tx",
+        "parent": "bone",
+        "length": 10.61,
+        "rotation": -180,
+        "x": -2.11,
+        "y": 1.06
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg",
+        "bone": "bg",
+        "attachment": "bg"
+      },
+      {
+        "name": "q1",
+        "bone": "q1",
+        "attachment": "q6"
+      },
+      {
+        "name": "tx",
+        "bone": "tx",
+        "color": "ffffff2f",
+        "attachment": "texiao/5",
+        "blend": "additive"
+      },
+      {
+        "name": "0",
+        "bone": "0",
+        "attachment": "9"
+      },
+      {
+        "name": "bian",
+        "bone": "bian",
+        "attachment": "bian"
+      }
+    ],
+    "skins": {
+      "default": {
+        "0": {
+          "0": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "1": {
+            "x": 0.98,
+            "y": 2.2,
+            "rotation": -89.3,
+            "width": 16,
+            "height": 33
+          },
+          "2": {
+            "x": 2.49,
+            "y": 0.72,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "3": {
+            "x": 1.49,
+            "y": 0.71,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 34
+          },
+          "4": {
+            "x": 2,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 26,
+            "height": 33
+          },
+          "5": {
+            "x": 0.99,
+            "y": 0.7,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "6": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "7": {
+            "x": 1.01,
+            "y": -0.3,
+            "rotation": -89.3,
+            "width": 23,
+            "height": 33
+          },
+          "8": {
+            "x": 2.5,
+            "y": 0.22,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          },
+          "9": {
+            "x": 1.5,
+            "y": 0.21,
+            "rotation": -89.3,
+            "width": 24,
+            "height": 34
+          }
+        },
+        "bg": {
+          "bg": {
+            "x": 2.74,
+            "y": -0.38,
+            "rotation": 179.4,
+            "width": 54,
+            "height": 17
+          }
+        },
+        "bian": {
+          "bian": {
+            "x": 0.97,
+            "y": -3.46,
+            "rotation": -178.49,
+            "width": 54,
+            "height": 21
+          }
+        },
+        "q1": {
+          "q1": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q2": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q3": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q4": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q5": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          },
+          "q6": {
+            "x": 2.23,
+            "y": -0.47,
+            "rotation": -90,
+            "width": 84,
+            "height": 86
+          }
+        },
+        "tx": {
+          "texiao/1": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/2": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/3": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/4": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/5": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/6": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/7": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/8": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/9": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/10": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/11": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/12": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/13": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/14": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/15": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/16": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/17": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/18": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/19": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/20": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/21": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/22": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/23": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/24": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/25": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/26": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/27": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/28": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/29": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/30": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/31": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/32": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/33": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/34": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/35": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/36": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/37": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/38": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/39": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/40": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/41": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/42": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/43": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/44": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/45": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/46": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/47": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/48": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/49": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/50": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/51": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/52": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/53": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/54": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/55": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/56": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/57": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/58": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/59": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/60": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/61": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/62": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/63": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/64": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/65": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/66": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/67": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/68": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/69": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/70": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/71": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/72": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/73": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/74": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/75": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/76": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/77": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/78": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/79": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/80": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/81": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/82": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/83": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/84": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/85": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/86": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/87": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/88": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/89": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          },
+          "texiao/90": {
+            "x": -0.64,
+            "y": -0.23,
+            "rotation": 180,
+            "width": 80,
+            "height": 80
+          }
+        }
+      }
+    },
+    "animations": {
+      "n0": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "0"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q4"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n1": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "1"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q1"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n2": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "2"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q2"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n3": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "3"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q1"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n4": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "4"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q5"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n5": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "5"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q3"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n6": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "6"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q2"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n7": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "7"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q1"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n8": {
+        "slots": {
+          "0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "8"
+              }
+            ]
+          },
+          "q1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "q2"
+              }
+            ]
+          },
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      },
+      "n9": {
+        "slots": {
+          "tx": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "texiao/1"
+              },
+              {
+                "time": 0.0667,
+                "name": "texiao/2"
+              },
+              {
+                "time": 0.1333,
+                "name": "texiao/3"
+              },
+              {
+                "time": 0.2,
+                "name": "texiao/4"
+              },
+              {
+                "time": 0.2667,
+                "name": "texiao/5"
+              },
+              {
+                "time": 0.3333,
+                "name": "texiao/6"
+              },
+              {
+                "time": 0.4,
+                "name": "texiao/7"
+              },
+              {
+                "time": 0.4667,
+                "name": "texiao/8"
+              },
+              {
+                "time": 0.5333,
+                "name": "texiao/9"
+              },
+              {
+                "time": 0.6,
+                "name": "texiao/10"
+              },
+              {
+                "time": 0.6667,
+                "name": "texiao/11"
+              },
+              {
+                "time": 0.7333,
+                "name": "texiao/12"
+              },
+              {
+                "time": 0.8,
+                "name": "texiao/13"
+              },
+              {
+                "time": 0.8667,
+                "name": "texiao/14"
+              },
+              {
+                "time": 0.9333,
+                "name": "texiao/15"
+              },
+              {
+                "time": 1,
+                "name": "texiao/16"
+              },
+              {
+                "time": 1.0667,
+                "name": "texiao/17"
+              },
+              {
+                "time": 1.1333,
+                "name": "texiao/18"
+              },
+              {
+                "time": 1.2,
+                "name": "texiao/19"
+              },
+              {
+                "time": 1.2667,
+                "name": "texiao/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "texiao/21"
+              },
+              {
+                "time": 1.4,
+                "name": "texiao/22"
+              },
+              {
+                "time": 1.4667,
+                "name": "texiao/23"
+              },
+              {
+                "time": 1.5333,
+                "name": "texiao/24"
+              },
+              {
+                "time": 1.6,
+                "name": "texiao/25"
+              },
+              {
+                "time": 1.6667,
+                "name": "texiao/26"
+              },
+              {
+                "time": 1.7333,
+                "name": "texiao/27"
+              },
+              {
+                "time": 1.8,
+                "name": "texiao/28"
+              },
+              {
+                "time": 1.8667,
+                "name": "texiao/29"
+              },
+              {
+                "time": 1.9333,
+                "name": "texiao/30"
+              },
+              {
+                "time": 2,
+                "name": "texiao/31"
+              },
+              {
+                "time": 2.0667,
+                "name": "texiao/32"
+              },
+              {
+                "time": 2.1333,
+                "name": "texiao/33"
+              },
+              {
+                "time": 2.2,
+                "name": "texiao/34"
+              },
+              {
+                "time": 2.2667,
+                "name": "texiao/35"
+              },
+              {
+                "time": 2.3333,
+                "name": "texiao/36"
+              },
+              {
+                "time": 2.4,
+                "name": "texiao/37"
+              },
+              {
+                "time": 2.4667,
+                "name": "texiao/38"
+              },
+              {
+                "time": 2.5333,
+                "name": "texiao/39"
+              },
+              {
+                "time": 2.6,
+                "name": "texiao/40"
+              },
+              {
+                "time": 2.6667,
+                "name": "texiao/41"
+              },
+              {
+                "time": 2.7333,
+                "name": "texiao/42"
+              },
+              {
+                "time": 2.8,
+                "name": "texiao/43"
+              },
+              {
+                "time": 2.8667,
+                "name": "texiao/44"
+              },
+              {
+                "time": 2.9333,
+                "name": "texiao/45"
+              },
+              {
+                "time": 3,
+                "name": "texiao/46"
+              },
+              {
+                "time": 3.0667,
+                "name": "texiao/47"
+              },
+              {
+                "time": 3.1333,
+                "name": "texiao/48"
+              },
+              {
+                "time": 3.2,
+                "name": "texiao/49"
+              },
+              {
+                "time": 3.2667,
+                "name": "texiao/50"
+              },
+              {
+                "time": 3.3333,
+                "name": "texiao/51"
+              },
+              {
+                "time": 3.4,
+                "name": "texiao/52"
+              },
+              {
+                "time": 3.4667,
+                "name": "texiao/53"
+              },
+              {
+                "time": 3.5333,
+                "name": "texiao/54"
+              },
+              {
+                "time": 3.6,
+                "name": "texiao/55"
+              },
+              {
+                "time": 3.6667,
+                "name": "texiao/56"
+              },
+              {
+                "time": 3.7333,
+                "name": "texiao/57"
+              },
+              {
+                "time": 3.8,
+                "name": "texiao/58"
+              },
+              {
+                "time": 3.8667,
+                "name": "texiao/59"
+              },
+              {
+                "time": 3.9333,
+                "name": "texiao/60"
+              },
+              {
+                "time": 4,
+                "name": "texiao/61"
+              },
+              {
+                "time": 4.0667,
+                "name": "texiao/62"
+              },
+              {
+                "time": 4.1333,
+                "name": "texiao/63"
+              },
+              {
+                "time": 4.2,
+                "name": "texiao/64"
+              },
+              {
+                "time": 4.2667,
+                "name": "texiao/65"
+              },
+              {
+                "time": 4.3333,
+                "name": "texiao/66"
+              },
+              {
+                "time": 4.4,
+                "name": "texiao/67"
+              },
+              {
+                "time": 4.4667,
+                "name": "texiao/68"
+              },
+              {
+                "time": 4.5333,
+                "name": "texiao/69"
+              },
+              {
+                "time": 4.6,
+                "name": "texiao/70"
+              },
+              {
+                "time": 4.6667,
+                "name": "texiao/71"
+              },
+              {
+                "time": 4.7333,
+                "name": "texiao/72"
+              },
+              {
+                "time": 4.8,
+                "name": "texiao/73"
+              },
+              {
+                "time": 4.8667,
+                "name": "texiao/74"
+              },
+              {
+                "time": 4.9333,
+                "name": "texiao/75"
+              },
+              {
+                "time": 5,
+                "name": "texiao/76"
+              },
+              {
+                "time": 5.0667,
+                "name": "texiao/77"
+              },
+              {
+                "time": 5.1333,
+                "name": "texiao/78"
+              },
+              {
+                "time": 5.2,
+                "name": "texiao/79"
+              },
+              {
+                "time": 5.2667,
+                "name": "texiao/80"
+              },
+              {
+                "time": 5.3333,
+                "name": "texiao/81"
+              },
+              {
+                "time": 5.4,
+                "name": "texiao/82"
+              },
+              {
+                "time": 5.4667,
+                "name": "texiao/83"
+              },
+              {
+                "time": 5.5333,
+                "name": "texiao/84"
+              },
+              {
+                "time": 5.6,
+                "name": "texiao/85"
+              },
+              {
+                "time": 5.6667,
+                "name": "texiao/86"
+              },
+              {
+                "time": 5.7333,
+                "name": "texiao/87"
+              },
+              {
+                "time": 5.8,
+                "name": "texiao/88"
+              },
+              {
+                "time": 5.8667,
+                "name": "texiao/89"
+              },
+              {
+                "time": 5.9333,
+                "name": "texiao/90"
+              },
+              {
+                "time": 6,
+                "name": "texiao/90"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nqui.png\nsize: 1326,524\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n0\n  rotate: true\n  xy: 304, 6\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\n1\n  rotate: true\n  xy: 84, 2\n  size: 16, 33\n  orig: 16, 33\n  offset: 0, 0\n  index: -1\n2\n  rotate: true\n  xy: 448, 7\n  size: 23, 34\n  orig: 23, 34\n  offset: 0, 0\n  index: -1\n3\n  rotate: true\n  xy: 484, 7\n  size: 23, 34\n  orig: 23, 34\n  offset: 0, 0\n  index: -1\n4\n  rotate: true\n  xy: 520, 4\n  size: 26, 33\n  orig: 26, 33\n  offset: 0, 0\n  index: -1\n5\n  rotate: true\n  xy: 555, 7\n  size: 23, 33\n  orig: 23, 33\n  offset: 0, 0\n  index: -1\n6\n  rotate: true\n  xy: 340, 6\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\n7\n  rotate: true\n  xy: 590, 7\n  size: 23, 33\n  orig: 23, 33\n  offset: 0, 0\n  index: -1\n8\n  rotate: true\n  xy: 376, 6\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\n9\n  rotate: true\n  xy: 412, 6\n  size: 24, 34\n  orig: 24, 34\n  offset: 0, 0\n  index: -1\nbg\n  rotate: false\n  xy: 166, 7\n  size: 54, 17\n  orig: 54, 17\n  offset: 0, 0\n  index: -1\nbian\n  rotate: false\n  xy: 248, 9\n  size: 54, 21\n  orig: 54, 21\n  offset: 0, 0\n  index: -1\nq1\n  rotate: false\n  xy: 2, 436\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq2\n  rotate: false\n  xy: 2, 348\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq3\n  rotate: false\n  xy: 88, 436\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq4\n  rotate: false\n  xy: 2, 260\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq5\n  rotate: false\n  xy: 88, 348\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\nq6\n  rotate: false\n  xy: 174, 436\n  size: 84, 86\n  orig: 84, 86\n  offset: 0, 0\n  index: -1\ntexiao/1\n  rotate: false\n  xy: 88, 266\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/10\n  rotate: false\n  xy: 670, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/11\n  rotate: false\n  xy: 752, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/12\n  rotate: false\n  xy: 834, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/13\n  rotate: false\n  xy: 916, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/14\n  rotate: false\n  xy: 998, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/15\n  rotate: false\n  xy: 1080, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/16\n  rotate: false\n  xy: 1162, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/17\n  rotate: false\n  xy: 1244, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/18\n  rotate: false\n  xy: 88, 184\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/19\n  rotate: false\n  xy: 84, 102\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/2\n  rotate: false\n  xy: 174, 354\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/20\n  rotate: false\n  xy: 84, 20\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/21\n  rotate: false\n  xy: 174, 272\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/22\n  rotate: false\n  xy: 170, 190\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/23\n  rotate: false\n  xy: 260, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/24\n  rotate: false\n  xy: 342, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/25\n  rotate: false\n  xy: 424, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/26\n  rotate: false\n  xy: 506, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/27\n  rotate: false\n  xy: 588, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/28\n  rotate: false\n  xy: 670, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/29\n  rotate: false\n  xy: 752, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/3\n  rotate: false\n  xy: 260, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/30\n  rotate: false\n  xy: 834, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/31\n  rotate: false\n  xy: 916, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/32\n  rotate: false\n  xy: 998, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/33\n  rotate: false\n  xy: 1080, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/34\n  rotate: false\n  xy: 1162, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/35\n  rotate: false\n  xy: 1244, 360\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/36\n  rotate: false\n  xy: 256, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/37\n  rotate: false\n  xy: 338, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/38\n  rotate: false\n  xy: 420, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/39\n  rotate: false\n  xy: 502, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/4\n  rotate: false\n  xy: 2, 96\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/40\n  rotate: false\n  xy: 584, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/41\n  rotate: false\n  xy: 666, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/42\n  rotate: false\n  xy: 748, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/43\n  rotate: false\n  xy: 830, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/44\n  rotate: false\n  xy: 912, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/45\n  rotate: false\n  xy: 994, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/46\n  rotate: false\n  xy: 1076, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/47\n  rotate: false\n  xy: 1158, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/48\n  rotate: false\n  xy: 1240, 278\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/49\n  rotate: false\n  xy: 170, 108\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/5\n  rotate: false\n  xy: 342, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/50\n  rotate: false\n  xy: 166, 26\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/51\n  rotate: false\n  xy: 256, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/52\n  rotate: false\n  xy: 338, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/53\n  rotate: false\n  xy: 420, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/54\n  rotate: false\n  xy: 502, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/55\n  rotate: false\n  xy: 584, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/56\n  rotate: false\n  xy: 666, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/57\n  rotate: false\n  xy: 748, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/58\n  rotate: false\n  xy: 830, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/59\n  rotate: false\n  xy: 912, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/6\n  rotate: false\n  xy: 2, 14\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/60\n  rotate: false\n  xy: 994, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/61\n  rotate: false\n  xy: 1076, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/62\n  rotate: false\n  xy: 1158, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/63\n  rotate: false\n  xy: 1240, 196\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/64\n  rotate: false\n  xy: 252, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/65\n  rotate: false\n  xy: 334, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/66\n  rotate: false\n  xy: 416, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/67\n  rotate: false\n  xy: 498, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/68\n  rotate: false\n  xy: 580, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/69\n  rotate: false\n  xy: 662, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/7\n  rotate: false\n  xy: 424, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/70\n  rotate: false\n  xy: 744, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/71\n  rotate: false\n  xy: 826, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/72\n  rotate: false\n  xy: 908, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/73\n  rotate: false\n  xy: 990, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/74\n  rotate: false\n  xy: 1072, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/75\n  rotate: false\n  xy: 1154, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/76\n  rotate: false\n  xy: 1236, 114\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/77\n  rotate: false\n  xy: 252, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/78\n  rotate: false\n  xy: 334, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/79\n  rotate: false\n  xy: 416, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/8\n  rotate: false\n  xy: 506, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/80\n  rotate: false\n  xy: 498, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/81\n  rotate: false\n  xy: 580, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/82\n  rotate: false\n  xy: 662, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/83\n  rotate: false\n  xy: 744, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/84\n  rotate: false\n  xy: 826, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/85\n  rotate: false\n  xy: 908, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/86\n  rotate: false\n  xy: 990, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/87\n  rotate: false\n  xy: 1072, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/88\n  rotate: false\n  xy: 1154, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/89\n  rotate: false\n  xy: 1236, 32\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/9\n  rotate: false\n  xy: 588, 442\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\ntexiao/90\n  rotate: false\n  xy: 2, 178\n  size: 80, 80\n  orig: 80, 80\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "81ad51c9-fd8d-4f5a-afdd-5d383eb77a7d"
+    }
+  ],
+  "textureNames": [
+    "qui.png"
+  ],
+  "scale": 1
+}

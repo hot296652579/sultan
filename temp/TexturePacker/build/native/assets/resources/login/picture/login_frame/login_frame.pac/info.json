@@ -1,0 +1,586 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "8d8fb01c-c9c4-4ca0-b5a5-1e0387031d16": {
+      "assetMtime": 1656987710127,
+      "metaMtime": 1656987768436
+    },
+    "1d6a02c4-e2a0-4a1b-aedb-b60423ebc24c": {
+      "assetMtime": 1656987710121,
+      "metaMtime": 1656987768453
+    },
+    "041a28a1-0553-4567-87c6-8203d70c0435": {
+      "assetMtime": 1656987710121,
+      "metaMtime": 1656987768453
+    },
+    "3780831b-81e2-4d1b-b6d4-433386dca4ea": {
+      "assetMtime": 1656987710122,
+      "metaMtime": 1656987768412
+    },
+    "ce2f4de4-40a0-4138-993c-0086bb347327": {
+      "assetMtime": 1656987710122,
+      "metaMtime": 1656987768412
+    },
+    "494edfce-f6a5-461e-bce8-de95e81767df": {
+      "assetMtime": 1656987710124,
+      "metaMtime": 1656987768449
+    },
+    "e8a4b7fd-4d2b-41f9-9bec-c507f74a8c2f": {
+      "assetMtime": 1656987710124,
+      "metaMtime": 1656987768449
+    },
+    "4e2d9eba-f615-4ed7-839e-465e3c84857f": {
+      "assetMtime": 1656987710123,
+      "metaMtime": 1656987768433
+    },
+    "8062d43d-477b-463b-bfcf-abca1fd92735": {
+      "assetMtime": 1656987710123,
+      "metaMtime": 1656987768433
+    },
+    "6506f69c-8b49-46a5-a0e6-83c97bfd1775": {
+      "assetMtime": 1656987710125,
+      "metaMtime": 1656987768457
+    },
+    "a18ec31f-6aad-4f20-b77c-dd3820892817": {
+      "assetMtime": 1656987710125,
+      "metaMtime": 1656987768457
+    },
+    "6f678d4b-c866-4708-bd52-c206d1249838": {
+      "assetMtime": 1656987710122,
+      "metaMtime": 1656987768409
+    },
+    "cab25993-241b-41f3-b0b5-3dc56e78ec41": {
+      "assetMtime": 1656987710122,
+      "metaMtime": 1656987768409
+    },
+    "7067fd1a-1fb6-413a-a986-ce2b00b547f9": {
+      "assetMtime": 1656987710125,
+      "metaMtime": 1656987768459
+    },
+    "a149a1ef-878e-4198-8bdb-0f7b0210cfce": {
+      "assetMtime": 1656987710125,
+      "metaMtime": 1656987768459
+    },
+    "7100349b-77da-43b6-a47f-4671513e42c3": {
+      "assetMtime": 1656987710126,
+      "metaMtime": 1656987768491
+    },
+    "dfcb28ff-c117-4bcd-96b6-336bf16f7aca": {
+      "assetMtime": 1656987710126,
+      "metaMtime": 1656987768491
+    },
+    "8e6570bc-458b-4672-94ce-f72684ec240f": {
+      "assetMtime": 1656987710123,
+      "metaMtime": 1656987768416
+    },
+    "09384398-5ea3-4ef0-af22-e3d7859d719a": {
+      "assetMtime": 1656987710123,
+      "metaMtime": 1656987768416
+    },
+    "92184b41-eaac-4925-9977-3ef83b99a55d": {
+      "assetMtime": 1656987710115,
+      "metaMtime": 1656987768388
+    },
+    "642932a2-2202-444a-a430-fe86ec6137ee": {
+      "assetMtime": 1656987710115,
+      "metaMtime": 1656987768388
+    },
+    "9cd305da-cc0b-400f-b620-e6eab2c0afbb": {
+      "assetMtime": 1656987710115,
+      "metaMtime": 1656987768380
+    },
+    "4e3ad87d-9476-434c-bd19-28925547d19d": {
+      "assetMtime": 1656987710115,
+      "metaMtime": 1656987768380
+    },
+    "a3639083-052f-4a36-b6ee-efde935342b0": {
+      "assetMtime": 1656987710124,
+      "metaMtime": 1656987768454
+    },
+    "985ce507-f960-46ea-98aa-9006a553a4fc": {
+      "assetMtime": 1656987710124,
+      "metaMtime": 1656987768454
+    },
+    "a45dc93e-875a-45e3-b4dc-ddbad204561f": {
+      "assetMtime": 1656987710120,
+      "metaMtime": 1656987768434
+    },
+    "e7a0a844-2057-4037-8029-002dda4a1d7f": {
+      "assetMtime": 1656987710120,
+      "metaMtime": 1656987768434
+    },
+    "aeff63a4-932a-4b00-a127-cde09c4471ca": {
+      "assetMtime": 1656987710117,
+      "metaMtime": 1656987768389
+    },
+    "1c55cafd-aef3-4fe9-b184-49d762285d95": {
+      "assetMtime": 1656987710117,
+      "metaMtime": 1656987768389
+    },
+    "d9bf8f56-ac65-4cba-a0f6-cb358ceff7f6": {
+      "assetMtime": 1656987710126,
+      "metaMtime": 1656987768469
+    },
+    "8d24ec20-8913-4dba-899a-74253376f604": {
+      "assetMtime": 1656987710126,
+      "metaMtime": 1656987768469
+    },
+    "eab29d88-ae64-422d-97af-55672e3af2c8": {
+      "assetMtime": 1656987710118,
+      "metaMtime": 1656987768431
+    },
+    "8ff779ca-afaf-4f71-b5ef-f277f02a7d88": {
+      "assetMtime": 1656987710118,
+      "metaMtime": 1656987768431
+    },
+    "f710c75b-1ba5-4d49-bc8d-a9da3fa7f10f": {
+      "assetMtime": 1656987710123,
+      "metaMtime": 1656987768430
+    },
+    "6162e70c-5ad8-4762-aef8-b69a5902fd8b": {
+      "assetMtime": 1656987710123,
+      "metaMtime": 1656987768430
+    }
+  },
+  "result": {
+    "name": "login_frame",
+    "width": 2048,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "8d8fb01c-c9c4-4ca0-b5a5-1e0387031d16",
+    "importer": "auto-atlas",
+    "maxWidth": 2048,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "dl_jz_jdt_di",
+            "uuid": "494edfce-f6a5-461e-bce8-de95e81767df",
+            "textureUuid": "e8a4b7fd-4d2b-41f9-9bec-c507f74a8c2f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811868_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 1135,
+              "height": 26,
+              "rotatedWidth": 1135,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 1135,
+            "rawHeight": 26,
+            "width": 1141,
+            "height": 32,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e8/e8a4b7fd-4d2b-41f9-9bec-c507f74a8c2f.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 1141,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "dl_jm_wz_Veriflcation-Code",
+            "uuid": "f710c75b-1ba5-4d49-bc8d-a9da3fa7f10f",
+            "textureUuid": "6162e70c-5ad8-4762-aef8-b69a5902fd8b",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811878_image_16.png",
+            "trim": {
+              "x": 1144,
+              "y": 3,
+              "width": 229,
+              "height": 25,
+              "rotatedWidth": 25,
+              "rotatedHeight": 229
+            },
+            "rawWidth": 229,
+            "rawHeight": 25,
+            "width": 235,
+            "height": 31,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/61/6162e70c-5ad8-4762-aef8-b69a5902fd8b.png",
+            "x": 1141,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 31,
+            "rotatedHeight": 235
+          },
+          {
+            "name": "grxx_zhixian",
+            "uuid": "d9bf8f56-ac65-4cba-a0f6-cb358ceff7f6",
+            "textureUuid": "8d24ec20-8913-4dba-899a-74253376f604",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811875_image_14.png",
+            "trim": {
+              "x": 1175,
+              "y": 3,
+              "width": 1,
+              "height": 55,
+              "rotatedWidth": 1,
+              "rotatedHeight": 55
+            },
+            "rawWidth": 1,
+            "rawHeight": 55,
+            "width": 7,
+            "height": 61,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/8d/8d24ec20-8913-4dba-899a-74253376f604.png",
+            "x": 1172,
+            "y": 0,
+            "rotatedWidth": 7,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "dl_jz_jdt",
+            "uuid": "a3639083-052f-4a36-b6ee-efde935342b0",
+            "textureUuid": "985ce507-f960-46ea-98aa-9006a553a4fc",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811870_image_11.png",
+            "trim": {
+              "x": 3,
+              "y": 35,
+              "width": 1129,
+              "height": 20,
+              "rotatedWidth": 1129,
+              "rotatedHeight": 20
+            },
+            "rawWidth": 1129,
+            "rawHeight": 20,
+            "width": 1135,
+            "height": 26,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/98/985ce507-f960-46ea-98aa-9006a553a4fc.png",
+            "x": 0,
+            "y": 32,
+            "rotatedWidth": 1135,
+            "rotatedHeight": 26
+          },
+          {
+            "name": "grxx_xian",
+            "uuid": "7067fd1a-1fb6-413a-a986-ce2b00b547f9",
+            "textureUuid": "a149a1ef-878e-4198-8bdb-0f7b0210cfce",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811869_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 61,
+              "width": 423,
+              "height": 2,
+              "rotatedWidth": 423,
+              "rotatedHeight": 2
+            },
+            "rawWidth": 423,
+            "rawHeight": 2,
+            "width": 429,
+            "height": 8,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a1/a149a1ef-878e-4198-8bdb-0f7b0210cfce.png",
+            "x": 0,
+            "y": 58,
+            "rotatedWidth": 429,
+            "rotatedHeight": 8
+          },
+          {
+            "name": "dl_btn_Play_as_Guest",
+            "uuid": "1d6a02c4-e2a0-4a1b-aedb-b60423ebc24c",
+            "textureUuid": "041a28a1-0553-4567-87c6-8203d70c0435",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811868_image_0.png",
+            "trim": {
+              "x": 432,
+              "y": 61,
+              "width": 320,
+              "height": 96,
+              "rotatedWidth": 320,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 320,
+            "rawHeight": 96,
+            "width": 326,
+            "height": 102,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/04/041a28a1-0553-4567-87c6-8203d70c0435.png",
+            "x": 429,
+            "y": 58,
+            "rotatedWidth": 326,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "dl_btn_FACEBOOK",
+            "uuid": "a45dc93e-875a-45e3-b4dc-ddbad204561f",
+            "textureUuid": "e7a0a844-2057-4037-8029-002dda4a1d7f",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811872_image_12.png",
+            "trim": {
+              "x": 758,
+              "y": 61,
+              "width": 320,
+              "height": 96,
+              "rotatedWidth": 320,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 320,
+            "rawHeight": 96,
+            "width": 326,
+            "height": 102,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/e7/e7a0a844-2057-4037-8029-002dda4a1d7f.png",
+            "x": 755,
+            "y": 58,
+            "rotatedWidth": 326,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "dl_jm_wz_Account-",
+            "uuid": "8e6570bc-458b-4672-94ce-f72684ec240f",
+            "textureUuid": "09384398-5ea3-4ef0-af22-e3d7859d719a",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811870_image_8.png",
+            "trim": {
+              "x": 1084,
+              "y": 61,
+              "width": 122,
+              "height": 24,
+              "rotatedWidth": 24,
+              "rotatedHeight": 122
+            },
+            "rawWidth": 122,
+            "rawHeight": 24,
+            "width": 128,
+            "height": 30,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/09/09384398-5ea3-4ef0-af22-e3d7859d719a.png",
+            "x": 1081,
+            "y": 58,
+            "rotated": true,
+            "rotatedWidth": 30,
+            "rotatedHeight": 128
+          },
+          {
+            "name": "dl_btn_Acount",
+            "uuid": "eab29d88-ae64-422d-97af-55672e3af2c8",
+            "textureUuid": "8ff779ca-afaf-4f71-b5ef-f277f02a7d88",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811877_image_15.png",
+            "trim": {
+              "x": 3,
+              "y": 69,
+              "width": 320,
+              "height": 96,
+              "rotatedWidth": 320,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 320,
+            "rawHeight": 96,
+            "width": 326,
+            "height": 102,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/8f/8ff779ca-afaf-4f71-b5ef-f277f02a7d88.png",
+            "x": 0,
+            "y": 66,
+            "rotatedWidth": 326,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "dl_img_guang",
+            "uuid": "6f678d4b-c866-4708-bd52-c206d1249838",
+            "textureUuid": "cab25993-241b-41f3-b0b5-3dc56e78ec41",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811869_image_5.png",
+            "trim": {
+              "x": 329,
+              "y": 69,
+              "width": 95,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 95
+            },
+            "rawWidth": 95,
+            "rawHeight": 85,
+            "width": 101,
+            "height": 91,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ca/cab25993-241b-41f3-b0b5-3dc56e78ec41.png",
+            "x": 326,
+            "y": 66,
+            "rotated": true,
+            "rotatedWidth": 91,
+            "rotatedHeight": 101
+          },
+          {
+            "name": "btn_Language",
+            "uuid": "92184b41-eaac-4925-9977-3ef83b99a55d",
+            "textureUuid": "642932a2-2202-444a-a430-fe86ec6137ee",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811870_image_9.png",
+            "trim": {
+              "x": 1114,
+              "y": 61,
+              "width": 77,
+              "height": 22,
+              "rotatedWidth": 22,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 77,
+            "rawHeight": 22,
+            "width": 83,
+            "height": 28,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/64/642932a2-2202-444a-a430-fe86ec6137ee.png",
+            "x": 1111,
+            "y": 58,
+            "rotated": true,
+            "rotatedWidth": 28,
+            "rotatedHeight": 83
+          },
+          {
+            "name": "grxx_btn_xiala",
+            "uuid": "6506f69c-8b49-46a5-a0e6-83c97bfd1775",
+            "textureUuid": "a18ec31f-6aad-4f20-b77c-dd3820892817",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811869_image_4.png",
+            "trim": {
+              "x": 1114,
+              "y": 144,
+              "width": 29,
+              "height": 17,
+              "rotatedWidth": 17,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 17,
+            "width": 35,
+            "height": 23,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a1/a18ec31f-6aad-4f20-b77c-dd3820892817.png",
+            "x": 1111,
+            "y": 141,
+            "rotated": true,
+            "rotatedWidth": 23,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "dl_jm_title",
+            "uuid": "3780831b-81e2-4d1b-b6d4-433386dca4ea",
+            "textureUuid": "ce2f4de4-40a0-4138-993c-0086bb347327",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811868_image_1.png",
+            "trim": {
+              "x": 420,
+              "y": 163,
+              "width": 216,
+              "height": 34,
+              "rotatedWidth": 216,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 216,
+            "rawHeight": 34,
+            "width": 222,
+            "height": 40,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/ce/ce2f4de4-40a0-4138-993c-0086bb347327.png",
+            "x": 417,
+            "y": 160,
+            "rotatedWidth": 222,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "icon_kefu",
+            "uuid": "7100349b-77da-43b6-a47f-4671513e42c3",
+            "textureUuid": "dfcb28ff-c117-4bcd-96b6-336bf16f7aca",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811870_image_7.png",
+            "trim": {
+              "x": 329,
+              "y": 170,
+              "width": 73,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 73
+            },
+            "rawWidth": 73,
+            "rawHeight": 73,
+            "width": 79,
+            "height": 79,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/df/dfcb28ff-c117-4bcd-96b6-336bf16f7aca.png",
+            "x": 326,
+            "y": 167,
+            "rotatedWidth": 79,
+            "rotatedHeight": 79
+          },
+          {
+            "name": "dl_jm_wz_login",
+            "uuid": "4e2d9eba-f615-4ed7-839e-465e3c84857f",
+            "textureUuid": "8062d43d-477b-463b-bfcf-abca1fd92735",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811868_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 171,
+              "width": 94,
+              "height": 37,
+              "rotatedWidth": 94,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 94,
+            "rawHeight": 37,
+            "width": 100,
+            "height": 43,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/80/8062d43d-477b-463b-bfcf-abca1fd92735.png",
+            "x": 0,
+            "y": 168,
+            "rotatedWidth": 100,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "btn_Service",
+            "uuid": "aeff63a4-932a-4b00-a127-cde09c4471ca",
+            "textureUuid": "1c55cafd-aef3-4fe9-b184-49d762285d95",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811874_image_13.png",
+            "trim": {
+              "x": 103,
+              "y": 171,
+              "width": 77,
+              "height": 34,
+              "rotatedWidth": 77,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 77,
+            "rawHeight": 34,
+            "width": 83,
+            "height": 40,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/1c/1c55cafd-aef3-4fe9-b184-49d762285d95.png",
+            "x": 100,
+            "y": 168,
+            "rotatedWidth": 83,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "9cell",
+            "uuid": "9cd305da-cc0b-400f-b620-e6eab2c0afbb",
+            "textureUuid": "4e3ad87d-9476-434c-bd19-28925547d19d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656987811870_image_10.png",
+            "trim": {
+              "x": 186,
+              "y": 171,
+              "width": 63,
+              "height": 61,
+              "rotatedWidth": 63,
+              "rotatedHeight": 61
+            },
+            "rawWidth": 63,
+            "rawHeight": 61,
+            "width": 69,
+            "height": 67,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/4e/4e3ad87d-9476-434c-bd19-28925547d19d.png",
+            "x": 183,
+            "y": 168,
+            "rotatedWidth": 69,
+            "rotatedHeight": 67
+          }
+        ],
+        "width": 1179,
+        "height": 246,
+        "name": "login_frame-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/login/picture/login_frame/login_frame.pac/login_frame-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/login/picture/login_frame/login_frame.pac/compressed/login_frame-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_ui_panelbg",
+    "texture": "dde044ff-7bc1-40eb-913c-e7377139de6f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      689,
+      447
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      689,
+      447
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

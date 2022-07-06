@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yizi_gg",
+    "texture": "fff4074a-268c-490b-abd1-dcaf36582ab2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      169
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

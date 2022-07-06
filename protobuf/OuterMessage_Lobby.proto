@@ -1,0 +1,786 @@
+syntax = "proto3";
+package MST;
+import "MessageCommon.proto";
+import "OuterMessage_Gate.proto";
+
+//ResponseType L2C_BindMailBox_Res
+//OpCode 10302
+message C2L_BindMailBox_Req //IActorLocationRequest
+{
+	int32 RpcId = 90;
+	//邮箱地址
+	string MailAddress = 2;
+}
+
+//OpCode 10303
+message L2C_BindMailBox_Res //IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+}
+
+//ResponseType L2C_BindPhone_Res
+//OpCode 10304
+message C2L_BindPhone_Req //IActorLocationRequest
+{
+	int32 RpcId = 90;
+	//电话号码
+	string Phone = 2;
+	//短信码
+	string Code = 3;
+}
+
+//OpCode 10305
+message L2C_BindPhone_Res //IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+}
+
+message UnitRankInfo
+{
+	//玩家账户Id
+	int32 AccountId = 1;
+	//玩家昵称
+	string NickName = 2;
+	//玩家金币
+	int64 gold = 3;
+}
+
+//请求日榜
+//ResponseType L2C_GoldRankDay_Res
+//OpCode 10306
+message C2L_GoldRankDay_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10307
+message L2C_GoldRankDay_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	repeated UnitRankInfo Units = 1;
+}
+
+message BetInfo
+{
+	//账号ID
+	int64 AccountId = 1;
+	//昵称
+	string Nick = 2;
+	//排行榜分数
+	int64 Score = 3;
+	// 头像
+	string headUrl = 4;
+	// 游戏名称
+	string gameName = 5;
+}
+
+//请求下注榜
+//ResponseType L2C_BetRank_Res
+//OpCode 10308
+message C2L_BetRank_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10309
+message L2C_BetRank_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	repeated BetInfo infos = 1;
+}
+
+//请求赢分日榜
+//ResponseType L2C_WinDayRank_Res
+//OpCode 10310
+message C2L_WinDayRank_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10311
+message L2C_WinDayRank_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	repeated RankInfoCell infos = 1;
+}
+
+//请求赢分周榜
+//ResponseType L2C_WinWeekRank_Res
+//OpCode 10312
+message C2L_WinWeekRank_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10313
+message L2C_WinWeekRank_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	repeated RankInfoCell infos = 1;
+}
+
+//请求赢分月榜
+//ResponseType L2C_WinMonthRank_Res
+//OpCode 10314
+message C2L_WinMonthRank_Req // IActorLocationRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10315
+message L2C_WinMonthRank_Res // IActorLocationResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	repeated RankInfoCell infos = 1;
+}
+
+//OpCode 10316
+message C2L_GetGameList_Req
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10317
+message L2C_GetGameList_Res
+{
+	int32 RpcId = 90;
+	repeated string games = 1;
+}
+
+//Opcode 10318 筹码改变通知，增量通知
+message L2C_ChipsChange_Mes
+{
+	//增加金额来源 0:充值, 1:提现失败返回
+	int32 sourceType = 1;
+	int64 gold = 2;
+}
+
+//Opcode 10319 充值请求
+message C2L_Deposit_Req
+{
+	int32 RpcId = 90;
+	
+	//充值渠道  0:flash_payment
+	int32 platType = 1;
+	//充值类型，商城或者自定义输入金额   0:商城 1:自定义
+	int32 depositType = 2;
+	//如果是商城则传入id，如果是自定义输入金额则传入金额
+	int64 idOrMoney = 3;
+}
+
+//Opcode 10320 充值返回
+message L2C_Deposit_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string paymentUrl = 1;
+}
+
+//Opcode 10321 提现请求
+message C2L_Withdraw_Req
+{
+	int32 RpcId = 90;
+	int64 chips = 1;
+	string bankNo = 2;
+	string bankCode = 3;
+	string name = 4;
+}
+
+//Opcode 10322 提现返回
+message L2C_Withdraw_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+}
+
+//Opcode 10323 获取提现记录请求
+message C2L_GetWithdrawReocrds_Req
+{
+	int32 RpcId = 90;
+	
+	int32 index = 1;
+	int32 limit = 2;
+}
+
+message WithDrawRecord
+{
+	// 银行卡号
+	string backNo = 1;
+	// 提现金额
+	int64 amount =2;
+	// 提现描述
+	string orderMessage = 3;
+	// 提现筹码
+	int64 chips = 4;
+	// 订单id
+	string orderId = 5;
+	// 手续费
+	int64 fee = 6;
+	// 审核状态 0：等待审核 1审核通过 2审核拒绝
+	int32 auditStatus = 7;
+	// 提现时间
+	int64 withdrawTime = 8;
+	// 银行码
+	string bankCode = 9;
+	
+}
+
+//Opcode 10324 获取提现记录返回
+message L2C_GetWithdrawRecords_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;	
+	repeated WithDrawRecord records = 1;
+	int32 index = 2;
+}
+
+//Opcode 10325 获取充值最大最小额度请求
+message C2L_GetDepositLimit_Req
+{
+	int32 RpcId = 90;
+}
+
+//Opcode 10326 获取充值最大最小额度返回
+message L2C_GetDepositLimit_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	
+	int64 minAmount = 1;
+	int64 maxAmount = 2;
+}
+
+//Opcode 10327 获取提现最大最小额度请求
+message C2L_GetWithdrawLimit_Req
+{
+	int32 RpcId = 90;
+}
+
+//Opcode 10328 获取提现最大最小额度返回
+message L2C_GetWithdrawLimit_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	
+	int64 minAmount = 1;
+	int64 maxAmount = 2;
+}
+
+//Opcode 10329 获取商城列表请求
+message C2L_GetStoreList_Req
+{
+	int32 RpcId = 90;
+}
+
+message StoreInfo
+{
+	int32 id = 1;
+	int64 chips = 2;
+	int64 price = 3;
+	int64 giftChips = 4;
+}
+
+//Opcode 10330 获取商城列表返回
+message L2C_GetStoreList_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	
+	repeated StoreInfo info = 1;
+}
+
+//Opcode 10331 获取银行列表请求
+message C2L_GetBankList_Req
+{
+	int32 RpcId = 90;
+	int32 index = 1;
+	int32 limit = 2;
+}
+
+message BankInfo
+{
+	string bankName = 1;
+	string bankCode = 2;
+}
+
+//Opcode 10332 获取银行列表返回
+message L2C_GetBankList_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	
+	repeated BankInfo info = 1;
+	int32 index = 2;
+}
+
+//Opcode 10333 绑定银行卡请求
+message C2L_BindBankCard_Req
+{
+	int32 RpcId = 90;
+	string bankCode = 1;
+	string name = 2;
+	string bankNo = 3;
+}
+
+//Opcode 10334 绑定银行卡返回
+message L2C_BindBankCard_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+}
+
+//Opcode 10335 获取银行卡信息请求
+message C2L_GetBankCardInfo_Req
+{
+	int32 RpcId = 90;	
+}
+
+//Opcode 10336 获取银行卡信息返回
+message L2C_GetBankCardInfo_Res
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string bankCode = 1;
+	string name = 2;
+	string bankNo = 3;
+}
+
+// 请求小游戏信息 10337
+message C2S_MinigameInfo {
+	// 序列号 ID
+	int32 serial = 1;
+}
+
+// 响应小游戏信息 10338
+message S2C_MinigameInfo {
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 是否完成任意一局游戏任务
+	bool isFinishGame = 3;
+	// 当日奖金高达（未登录时也需要发送）
+	int64 todayBonus = 4;
+	// 是否领取当日奖金
+	bool isReceiveBonus = 5;
+}
+
+// 请求小游戏开奖 10339
+message C2S_MinigameLottery {
+	// 序列号 ID
+	int32 serial = 1;
+	// 箱子索引 （0 开始）
+	int32 boxIndex = 2;
+}
+
+// 响应小游戏开奖 10340
+message S2C_MinigameLottery {
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 箱子索引 （0 开始）
+	int32 boxIndex = 3;
+	// 奖励（暂定金币）
+	int64 award = 4;
+}
+
+// 获取签到信息请求 10341
+message C2S_GetSignedInfo
+{
+	// 序列号 ID
+	int32 serial = 1;
+	
+}
+//获取签到信息返回 10342
+message S2C_GetSignedInfo
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 签到类型 0：7天签到， 1:30天签到
+	int32 signedType = 3;
+	// 连续签到天数
+	int32 signedDays = 4;
+	// 今天是否已签到
+	bool isSigned = 5;
+	// 签到满的奖励
+	int64 reward = 6;
+	//签到活动截止日期,如果是0表示没有期限
+	int64 deadLine = 7;
+}
+
+//签到请求 10343
+message C2S_Signed
+{
+	// 序列号 ID
+	int32 serial = 1;
+}
+
+//签到返回 10344
+message S2C_Signed
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 签到满的奖励
+	int64 reward = 3;
+	// 连续签到天数
+	int32 signedCount = 4;
+}
+
+
+// 注册请求 10345
+message C2S_Register
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 手机号或者邮箱
+	string username = 2;
+	// 密码 大于6位
+	string password = 3;
+	// imei
+	string imei = 4;
+	// 验证码 , 6位
+	string checkCode = 5;
+	// 推广码
+	string extentCode = 6;
+}
+
+// 注册返回 10346
+message S2C_Register
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+}
+
+// 重置密码请求 10347
+message C2S_ResetPassword
+{
+    // 序列号 ID
+	int32 serial = 1;
+	// 手机号或者邮箱
+	string username = 2;
+	// 密码 大于6位
+	string password = 3;
+	// 验证码 , 6位
+	string checkCode = 4;
+}
+
+//重置密码返回 10348
+message S2C_ResetPassword
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+}
+
+// 获取验证码请求 10349
+message C2S_GetCheckCode
+{
+    // 序列号 ID
+	int32 serial = 1;
+	// 手机号或者邮箱
+	string username = 2;
+}
+
+// 获取验证码返回 10350
+message S2C_GetCheckCode
+{
+    // 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+}
+
+// 绑定手机请求 10351
+message C2S_BindPhone
+{
+     // 序列号 ID
+	int32 serial = 1;
+	// 手机号
+	string phoneNo = 2;
+	// 验证码 , 6位
+	string checkCode = 4;
+}
+
+// 绑定手机返回 10352
+message S2C_BindPhone
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 手机号
+	string phoneNo = 3;
+}
+
+// 绑定邮箱请求 10353
+message C2S_BindEmail
+{
+   // 序列号 ID
+	int32 serial = 1;
+	// 邮箱地址
+	string email = 2;
+	// 验证码 , 6位
+	string checkCode = 3;
+}
+
+// 绑定邮箱返回 10354
+message S2C_BindEmail
+{
+    // 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 邮箱地址
+	string email = 3;
+	
+}
+
+// 获取注册奖励配置请求 10355
+message C2S_GetRegisterRewardConfig
+{
+    // 序列号 ID
+	int32 serial = 1;
+}
+
+// 获取注册奖励配置返回 10356
+message S2C_GetRegisterRewordConfig
+{
+    // 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 首充奖励百分比, 做了*100处理
+	int32 firstDepositReward = 3;
+	// 填写推广码奖励
+	int64 chips = 4;
+	// 注册奖励
+	int64 registerChips = 5;
+	// 是否已获得首充奖励
+	bool isGetFirstDepositReward = 6;
+}
+
+// 推广统计数据信息
+message PromotionDataInfo {
+	// 总推广收入
+	int64 totalIncomeGold = 1;
+	// 总推广提现
+	int64 totalWithdrawGold = 2;
+	// 昨日推广收入
+	int64 ayerIncomeGold = 3;
+	// 昨日邀请人数
+	int32 ayerInvitationCount = 4;
+	// 总邀请人数
+	int32 totalInvitationCount = 5;
+	// 数据最后更新时间（毫秒级时间戳）
+	int64 lastUpdateTime = 6;
+}
+
+// 推广邀请排行信息
+message PromotionRankInfo {
+	// 用户信息
+	UnitInfo userInfo = 1;
+	// 推广收益金币
+	int64 incomeGold = 2;
+}
+
+// 推广等级枚举
+enum PromotionLevel {
+	// 青铜
+	Level0 = 0;
+	// 白银
+	Level1 = 1;
+	// 黄金
+	Level2 = 2;
+}
+
+// 请求推广信息 10357
+message C2S_PromotionInfo {
+	// 序列号 ID
+	int32 serial = 1;
+}
+
+// 响应推广信息 10358
+message S2C_PromotionInfo {
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 当前等级 PromotionLevel
+	int32 level = 3;
+	// 当前等级百分比（0 - 100）
+	int32 levelPercent = 4;
+	// 统计数据信息
+	PromotionDataInfo promotionDataInfo = 5;
+	// 最近 7 天推广收益列表（0 下标为最近的一天）
+	repeated int64 incomeList = 6;
+	// 最近 7 天邀请注册人数列表（0 下标为最近的一天）
+	repeated int32 registerCountList = 7;
+	// 最近 7 天邀请有效人数列表（0 下标为最近的一天）
+	repeated int32 validCountList = 8;
+	// 推广收益排行榜（只显示 10 个，0 下标就是第 1 名）（未登录账号时也需要下发）
+	repeated PromotionRankInfo promotionRankInfo = 9;
+}
+
+// 修改头像请求 10359
+message C2S_ModifyAvartar
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 头像
+	string avartar = 2;
+}
+
+// 修改头像返回 10360
+message S2C_ModifyAvartar
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// 头像
+	string avartar = 3;
+}
+
+// 获取充值列表请求 10361
+message C2S_GetDepositList
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 开始索引
+	int32 index = 2;
+	// 获取数量
+	int32 limit = 3;
+}
+
+message DepositRecord
+{
+	// 订单号
+	string orderId = 1;
+    // 充值金额
+	int64 amount = 2;
+	// 充值筹码
+	int64 chips = 3;
+	// 手续费
+	int64 fee = 4;
+	// 订单状态
+	string status = 5;
+	// 充值时间
+	int64 depositTime = 6;
+}
+
+// 获取充值列表返回 10362
+message S2C_GetDepositList
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	
+	repeated DepositRecord records = 3;
+	int32 index = 4;
+}
+
+// 获取任务列表请求 10363
+message C2S_GetMissionList
+{
+	// 序列号 ID
+	int32 serial = 1;
+}
+
+enum MissionType
+{
+	// 7天签到
+	MissionSevenSignInType = 0;
+	// 30天签到
+	MissionThirtySignInType = 1;
+	// 充值任务
+	MissionDepositType = 2;
+	// 推广任务
+	MissionPromotionType = 3;
+	// 下线充值任务
+	MissionPromotionDepositType = 4;
+}
+
+message MissionInfo
+{
+	// 任务ID,参考mission type
+	int32 missionId = 1;
+	// 截止时间，0没有限制
+	int64 endTime = 2;
+	// 目标进度
+	int64 targetProgress = 3;
+	// 当前进度
+	int64 curProgress = 4;
+	// 奖励
+	int64 reward = 5;
+	// 图标
+	string iconUrl = 6;
+	// 开始时间
+	int64 beginTime = 7;
+}
+
+// 获取任务列表返回10364
+message S2C_GetMissionList
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	
+	repeated MissionInfo info = 3;
+}
+
+// 领取任务奖励请求 10365
+message C2S_MissionClaim
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// mission id
+	int32 missionId = 2;
+}
+
+// 领取任务奖励返回 10366
+message S2C_MissionClaim
+{
+	// 序列号 ID
+	int32 serial = 1;
+	// 响应码（非 0 都是错误）
+	int32 code = 2;
+	// reward
+	int64 reward = 3;
+	// mission id
+	int32 missionId = 4;
+}
+
+//公告通知 10367
+message S2C_MessageNotify
+{
+	//消息内容
+	string message = 1;
+	//消息类型，0为中奖消息，1为系统公告
+	int32 type = 2;
+	// 是否循环播放
+	bool isLoop = 3;
+}

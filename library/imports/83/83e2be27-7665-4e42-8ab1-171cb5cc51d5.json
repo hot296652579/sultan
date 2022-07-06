@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gouxuan",
+    "texture": "b0b00ef1-e652-46a4-9da1-25f662323338",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      25,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      26
+    ],
+    "capInsets": [
+      9,
+      9,
+      9,
+      9
+    ]
+  }
+}

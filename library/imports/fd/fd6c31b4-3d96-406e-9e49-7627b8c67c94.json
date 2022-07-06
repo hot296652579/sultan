@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhizhen",
+    "texture": "988f9899-21de-4306-b98b-678c52acc91a",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      1455,
+      109
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      1461,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

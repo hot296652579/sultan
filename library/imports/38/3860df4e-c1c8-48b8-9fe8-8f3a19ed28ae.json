@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txdi",
+    "texture": "d9577816-ffa6-4851-895f-c520a91e8d74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      528
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      528
+    ],
+    "capInsets": [
+      10,
+      10,
+      10,
+      10
+    ]
+  }
+}

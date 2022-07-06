@@ -1,0 +1,11 @@
+{
+    "packageUrl":"http://192.168.2.254:81/hotUpdate/",
+    "forceIncludeAllGameToApk": false,
+    "games":[
+        {  "id" : "0"    , "name" : "大厅"     , "dir" : ""          , "version" : "0" , "includeApk" : false },
+        {  "id" : "1"    , "name" : "游戏1"    , "dir" : "crash"   , "version" : "0" , "includeApk" : false },
+        {  "id" : "2"    , "name" : "游戏2"    , "dir" : "roulette"   , "version" : "0" , "includeApk" : false },
+        {  "id" : "3"    , "name" : "游戏3"    , "dir" : "wingo"   , "version" : "0" , "includeApk" : false }
+    ]
+}
+

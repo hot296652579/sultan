@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "feiji",
+    "texture": "579a8b47-ee86-4e6c-88de-2b2d06ac8672",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      92,
+      80
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      92,
+      81
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

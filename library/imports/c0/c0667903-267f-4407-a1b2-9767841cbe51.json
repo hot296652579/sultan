@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ku_bg",
+    "texture": "4c788671-a442-400a-8506-9334a5203126",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      176,
+      65
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      185,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

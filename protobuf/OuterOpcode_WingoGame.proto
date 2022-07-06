@@ -1,0 +1,17 @@
+syntax = "proto3";
+package MST;
+
+
+enum OuterOpcode_WingoGame
+{
+	None = 0;
+	C2M_GetWingoInfo_Req = 10702;
+	M2C_GetWingoInfo_Res = 10703;
+	C2M_GetWingoHistory_Req = 10704;
+	M2C_GetWingoHistory_Res = 10705;
+	M2C_WingoLottery_Mes = 10706;
+	C2M_WingoBet_Req = 10707;
+	M2C_WingoBet_Res = 10708;
+	C2S_WingoMyRecord = 10709;
+	S2C_WingoMyRecord = 10710;
+}

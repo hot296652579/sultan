@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f88f3f35-3a7b-4143-802b-ad5dc729945f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 3717,
+  "platformSettings": {},
+  "subMetas": {
+    "主界面2_切图蓝湖 ": {
+      "ver": "1.0.6",
+      "uuid": "87fd2ba5-c88a-4101-8c41-5a07a68dc09f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f88f3f35-3a7b-4143-802b-ad5dc729945f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 3717,
+      "rawWidth": 750,
+      "rawHeight": 3717,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

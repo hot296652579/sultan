@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_mines",
+    "texture": "ff2b1773-8632-4e1a-bfd7-ccc264ea8c44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      285
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      285
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

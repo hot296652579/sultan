@@ -1,0 +1,119 @@
+syntax = "proto3";
+package MST;
+
+//必须大于300000
+enum ErrorCodeGame
+{
+	// 成功
+	ERR_SUCCESS = 0;
+	//登录错误
+	ERR_LoginError = 300002;
+	//重复调用
+	ERR_FunctionRepeatedCall = 300003;
+	//登录被阻止
+	ERR_LoginLockError = 300004;
+	//进入游戏失败
+	ERR_TransferMapError = 300005;
+	//账号数据异常
+	ERR_LoginUnitDBError = 300006;
+	//账号数据状态异常
+	ERR_ChangeUnitNotFound = 300007;
+	//游戏没有登录
+	ERR_PlayerNotAuth = 300008;
+	//需要重新进入
+	ERR_RoomLost = 300009;
+	//当前状态不能下注
+	ERR_CannotBet = 300010;
+	//下注金币错误
+	ERR_BetError = 300011;
+	//添加订阅失败
+	ERR_Subscription = 300012;
+	//Crash自动押注限压
+	ERR_CrashAutoBetLimit = 300013;
+	//下注次数限制
+	ERR_BetCountLimit = 300014;
+	//不允许添加自动下注
+	ERR_AddAutoBetLimit = 300015;
+	//Crash自动下注止损
+	ERR_CrashAutoBetStopLose = 300016;
+	//Crash自动下注止盈
+	ERR_CrashAutoBetStopProfit = 300017;
+	//Crash自动下注完成
+	ERR_CrashAutoBetFinish = 300018;
+	//Crash取消下注失败，不存在
+	ERR_CrashAutoBetNotExist = 300019;
+	//重复添加订阅
+	ERR_SubScriptionRepeated = 300020;
+	//获取hash记录参数错误
+	ERR_GetHashRecordParam = 300021;
+	//获取hash记录不存在
+	ERR_GetHashRecordNotExit = 300022;
+	//无效的Token
+	ERR_InvalidToken = 300023;
+	//登出失败
+	ERR_LogoutFailed = 300024;
+	// 余额不足
+	ERR_ChipsInsufficient = 300025;
+	// 充值失败
+	ERR_DepositFailed = 300026;
+	// 提现失败
+	ERR_WithdrawFailed = 300027;
+	// 获取银行卡列表失败
+	ERR_GetBankListFailed = 300028;
+	// 签到失败
+	ERR_SignInFailed = 300029;
+	// 无效的手机号或邮箱
+	ERR_InvalidPhoneNoOrEmail = 300030;
+	// 参数错误
+	ERR_InvalidParam = 300031;
+	// 无效的验证码
+	ERR_InvalidCheckCode = 300032;
+	// 手机号已存在
+	ERR_PhoneNoExist = 300033;
+	// 邮箱已存在
+	ERR_EmailExist = 300034;
+	// imei已存在
+	ERR_ImeiExist = 300035;
+	// 注册失败
+	ERR_RegisterFailed = 300036;
+	// 重置密码失败
+	ERR_ResetPasswordFailed = 300037;
+	// 玩小游戏失败
+	ERR_PlayTinyGameFailed = 300038;
+	// 获取任务奖励失败
+	ERR_ClaimMissionFailed = 300039;
+	// 服务器关闭中
+	ERR_ServerIsClosing = 300040;
+	// 没有足够的流水
+	ERR_BetChipsInsufficient = 300041;
+	// 当日充值已达上限
+	ERR_DepositLimitPerDay = 300042;
+}
+
+//hash信息单元
+message HashInfoCell
+{
+	//服务器种子
+	string ServerSeed = 1;
+	//服务器种子hash值
+	string ServerHashSeed = 2;
+	//公共种子
+	int64 PublicSeed = 3;
+	//游戏编号
+	int64 GameNo = 4;
+	//计算hash值
+	string RoundHash = 5;
+}
+
+//排行榜单元
+message RankInfoCell
+{
+	//账号ID
+	int64 AccountId = 1;
+	//昵称
+	string Nick = 2;
+	//排行榜分数
+	int64 Score = 3;
+	
+	string headUrl = 4;
+}

@@ -1,0 +1,181 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "903c2c8b-b65b-4d6a-a672-7d5e032170bf": {
+      "assetMtime": 1656927383192,
+      "metaMtime": 1656927715286
+    },
+    "2c6bc6d2-fea4-489b-8cc5-699c32458c88": {
+      "assetMtime": 1656927383188,
+      "metaMtime": 1656927715285
+    },
+    "a13e79fb-b6b8-4b69-bf2e-e533990b4210": {
+      "assetMtime": 1656927383188,
+      "metaMtime": 1656927715285
+    },
+    "5430ae17-dede-489c-923b-581500cd09a4": {
+      "assetMtime": 1656927383191,
+      "metaMtime": 1656927715306
+    },
+    "2a268d3b-8cea-4fcb-9cd2-cc46c4a17376": {
+      "assetMtime": 1656927383191,
+      "metaMtime": 1656927715306
+    },
+    "54565141-2696-4987-bd51-57023b66a381": {
+      "assetMtime": 1656927383191,
+      "metaMtime": 1656927715305
+    },
+    "b920deac-358e-45c6-92fb-89ced6badc15": {
+      "assetMtime": 1656927383191,
+      "metaMtime": 1656927715305
+    },
+    "c3609f51-89e2-4e47-ab1e-ccfd70e0f4c5": {
+      "assetMtime": 1656927383191,
+      "metaMtime": 1656927715289
+    },
+    "448b0281-db5a-4ef2-8806-671b22986049": {
+      "assetMtime": 1656927383191,
+      "metaMtime": 1656927715289
+    }
+  },
+  "result": {
+    "name": "service",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "903c2c8b-b65b-4d6a-a672-7d5e032170bf",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "img_service_girl",
+            "uuid": "5430ae17-dede-489c-923b-581500cd09a4",
+            "textureUuid": "2a268d3b-8cea-4fcb-9cd2-cc46c4a17376",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751906_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 355,
+              "height": 500,
+              "rotatedWidth": 355,
+              "rotatedHeight": 500
+            },
+            "rawWidth": 355,
+            "rawHeight": 500,
+            "width": 361,
+            "height": 506,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/2a/2a268d3b-8cea-4fcb-9cd2-cc46c4a17376.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 361,
+            "rotatedHeight": 506
+          },
+          {
+            "name": "img_service_copy",
+            "uuid": "2c6bc6d2-fea4-489b-8cc5-699c32458c88",
+            "textureUuid": "a13e79fb-b6b8-4b69-bf2e-e533990b4210",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751906_image_0.png",
+            "trim": {
+              "x": 364,
+              "y": 3,
+              "width": 143,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 143
+            },
+            "rawWidth": 143,
+            "rawHeight": 42,
+            "width": 149,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/a1/a13e79fb-b6b8-4b69-bf2e-e533990b4210.png",
+            "x": 361,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 48,
+            "rotatedHeight": 149
+          },
+          {
+            "name": "img_title",
+            "uuid": "c3609f51-89e2-4e47-ab1e-ccfd70e0f4c5",
+            "textureUuid": "448b0281-db5a-4ef2-8806-671b22986049",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751906_image_3.png",
+            "trim": {
+              "x": 412,
+              "y": 3,
+              "width": 319,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 319
+            },
+            "rawWidth": 319,
+            "rawHeight": 29,
+            "width": 325,
+            "height": 35,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/44/448b0281-db5a-4ef2-8806-671b22986049.png",
+            "x": 409,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 325
+          },
+          {
+            "name": "kf_btn_copy2",
+            "uuid": "54565141-2696-4987-bd51-57023b66a381",
+            "textureUuid": "b920deac-358e-45c6-92fb-89ced6badc15",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751906_image_2.png",
+            "trim": {
+              "x": 364,
+              "y": 152,
+              "width": 143,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 143
+            },
+            "rawWidth": 143,
+            "rawHeight": 42,
+            "width": 149,
+            "height": 48,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/b9/b920deac-358e-45c6-92fb-89ced6badc15.png",
+            "x": 361,
+            "y": 149,
+            "rotated": true,
+            "rotatedWidth": 48,
+            "rotatedHeight": 149
+          }
+        ],
+        "width": 444,
+        "height": 506,
+        "name": "service-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/service/images/service.pac/service-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/service/images/service.pac/compressed/service-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_Wingo",
+    "texture": "d7766951-bc37-48dc-afca-e69c06230e17",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      330,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      219
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

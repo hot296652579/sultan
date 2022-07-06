@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_hg2",
+    "texture": "d7f5857f-8eeb-411a-ad1b-5bdb5881c9b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

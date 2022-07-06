@@ -1,0 +1,88 @@
+syntax = "proto3";
+package MST;
+
+//ResponseType G2C_EnterMap_Res
+//OpCode 10102
+message C2G_EnterMap_Req // IRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10103
+message G2C_EnterMap_Res // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	// 自己unitId
+	int64 MyId = 4;
+}
+
+message UnitInfo
+{
+	//id
+	int64 UnitId = 1;
+	//昵称
+	string Nick = 2;
+	//金币
+	int64 Gold = 3; 
+	//头像
+	string HeaderUrl = 4;
+}
+
+message RoomInfo
+{
+	//游戏房间id
+	int64 id = 1;
+	//游戏房间名称
+	string Name = 2;
+}
+
+//ResponseType G2C_Ping_Res
+//OpCode 10104
+message C2G_Ping_Req // IRequest
+{
+	int32 RpcId = 90;
+}
+
+//OpCode 10105
+message G2C_Ping_Res // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	//时间戳
+	int64 Time = 1;
+}
+
+//ResponseType G2C_LoginGate_Res
+//OpCode 10106
+message C2G_LoginGate_Req // IRequest
+{
+	int32 RpcId = 90;
+	//登录设备机器码
+	string MachineCode = 1;
+	//系统类型 0-安卓 1-ios 2-windowsPC
+	int32 OS = 2;
+	//登录设别描述
+	string Description = 3;
+}
+
+//OpCode 10107
+message G2C_LoginGate_Res // IResponse
+{
+	int32 RpcId = 90;
+	int32 Error = 91;
+	string Message = 92;
+	string Token = 1;
+	//房间信息
+	repeated RoomInfo Rooms = 4;
+}
+
+//OpCode 10110
+message G2C_SystemError_Mes // IActorMessage
+{
+	int32 Error = 91;
+	string Message = 92;
+}
+

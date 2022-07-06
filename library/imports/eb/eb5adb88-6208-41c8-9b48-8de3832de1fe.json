@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_gongka",
+    "texture": "31955686-bc9c-441c-8d68-8baae539dc40",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

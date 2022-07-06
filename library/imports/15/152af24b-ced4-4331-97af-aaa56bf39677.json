@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_qidao",
+    "texture": "54693ff7-36dd-406a-a841-ff6d257f24c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_nomor",
+    "texture": "c36e378d-be0b-4e54-a259-a0f464e5ff6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      33,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      33,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

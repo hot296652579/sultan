@@ -1,0 +1,1 @@
+scp -r ../../build/web-mobile/* root@home.ougato.com:/usr/local/src/docker-compose/nginx/html/game/rongyou

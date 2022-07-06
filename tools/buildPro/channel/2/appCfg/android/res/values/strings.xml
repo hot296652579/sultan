@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Top Entertainment</string>
+    <string name="facebook_app_id">3070168289909201</string>
+    <string name="fb_login_protocol_scheme">fb3070168289909201</string>
+    <string name="gameweb_scheme">top.game</string>
+</resources>

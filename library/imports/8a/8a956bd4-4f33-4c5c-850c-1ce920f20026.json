@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_sanjiao",
+    "texture": "2c9a3294-c4cb-4900-b0a0-409440a7ace9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      12,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      12,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

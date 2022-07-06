@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biku",
+    "texture": "6604abb7-59f6-47df-8012-47101af329c8",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      130,
+      131
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      136,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

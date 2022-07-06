@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_sj",
+    "texture": "ca5964da-7c29-4008-b861-af325498eda4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

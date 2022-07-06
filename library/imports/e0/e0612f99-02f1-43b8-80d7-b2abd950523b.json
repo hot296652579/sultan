@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baoshi",
+    "texture": "1726cc0a-92ae-4f13-8737-ee8393ba7c79",
+    "atlas": "",
+    "rect": [
+      2,
+      7,
+      2016,
+      2039
+    ],
+    "offset": [
+      -14,
+      -2.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

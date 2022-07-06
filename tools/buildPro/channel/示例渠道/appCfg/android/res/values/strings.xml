@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Namjar</string>
+    <string name="facebook_app_id">876591483069045</string>
+    <string name="fb_login_protocol_scheme">fb876591483069045</string>
+
+</resources>

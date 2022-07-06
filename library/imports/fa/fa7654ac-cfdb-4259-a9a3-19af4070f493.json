@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_shuaxin1",
+    "texture": "fc55035e-828c-4f6c-8a40-a9d79e7b121f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

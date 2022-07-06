@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_dixian",
+    "texture": "e984c293-e269-4dee-b919-c0b90e95e5d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      6,
+      1344
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      6,
+      1344
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "projectPath": "/Users/jichengwang/work/client",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "3875d112-bac0-458b-871b-9917a745bd56": {
+      "assetMtime": 1656927383202,
+      "metaMtime": 1656927715366
+    },
+    "59cc8440-e93d-4f95-82cc-640e2fb68495": {
+      "assetMtime": 1656927383202,
+      "metaMtime": 1656927715377
+    },
+    "4a4f01c2-21ab-4298-9630-765e2ad475b3": {
+      "assetMtime": 1656927383202,
+      "metaMtime": 1656927715377
+    },
+    "83b4f2c0-b769-409a-9c8e-9ebc6cc0fcbf": {
+      "assetMtime": 1656927383202,
+      "metaMtime": 1656927715378
+    },
+    "b3dcc20b-f807-4579-bac6-3077e03f09df": {
+      "assetMtime": 1656927383202,
+      "metaMtime": 1656927715378
+    },
+    "e91e6885-bd9f-4426-8429-9448d9bdf786": {
+      "assetMtime": 1656927383203,
+      "metaMtime": 1656927715383
+    },
+    "c1e35de1-9d9c-41b1-a6b5-cefa3333c95d": {
+      "assetMtime": 1656927383203,
+      "metaMtime": 1656927715383
+    }
+  },
+  "result": {
+    "name": "share",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "3875d112-bac0-458b-871b-9917a745bd56",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "share_img",
+            "uuid": "e91e6885-bd9f-4426-8429-9448d9bdf786",
+            "textureUuid": "c1e35de1-9d9c-41b1-a6b5-cefa3333c95d",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751398_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 625,
+              "height": 350,
+              "rotatedWidth": 350,
+              "rotatedHeight": 625
+            },
+            "rawWidth": 625,
+            "rawHeight": 350,
+            "width": 631,
+            "height": 356,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/c1/c1e35de1-9d9c-41b1-a6b5-cefa3333c95d.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 356,
+            "rotatedHeight": 631
+          },
+          {
+            "name": "img_title",
+            "uuid": "83b4f2c0-b769-409a-9c8e-9ebc6cc0fcbf",
+            "textureUuid": "b3dcc20b-f807-4579-bac6-3077e03f09df",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751398_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 634,
+              "width": 107,
+              "height": 29,
+              "rotatedWidth": 107,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 107,
+            "rawHeight": 29,
+            "width": 113,
+            "height": 35,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/b3/b3dcc20b-f807-4579-bac6-3077e03f09df.png",
+            "x": 0,
+            "y": 631,
+            "rotatedWidth": 113,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "img_splice",
+            "uuid": "59cc8440-e93d-4f95-82cc-640e2fb68495",
+            "textureUuid": "4a4f01c2-21ab-4298-9630-765e2ad475b3",
+            "path": "/Users/jichengwang/work/client/temp/trimImages/spritesheet_js_1656927751398_image_0.png",
+            "trim": {
+              "x": 359,
+              "y": 3,
+              "width": 90,
+              "height": 86,
+              "rotatedWidth": 86,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 90,
+            "rawHeight": 86,
+            "width": 96,
+            "height": 92,
+            "originalPath": "/Users/jichengwang/work/client/library/imports/4a/4a4f01c2-21ab-4298-9630-765e2ad475b3.png",
+            "x": 356,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 92,
+            "rotatedHeight": 96
+          }
+        ],
+        "width": 448,
+        "height": 666,
+        "name": "share-1",
+        "imagePath": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/share/images/share.pac/share-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/jichengwang/work/client/temp/TexturePacker/build/native/assets/resources/share/images/share.pac/compressed/share-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

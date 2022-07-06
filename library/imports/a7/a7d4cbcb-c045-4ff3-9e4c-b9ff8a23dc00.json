@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yihe",
+    "texture": "4bc06689-6fa0-4aca-8214-8fa0ea260efd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      541,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      541,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

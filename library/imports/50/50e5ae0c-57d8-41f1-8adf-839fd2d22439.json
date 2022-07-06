@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xialajt",
+    "texture": "97a61c23-a578-49f0-96e8-4c3085a6b622",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      18
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

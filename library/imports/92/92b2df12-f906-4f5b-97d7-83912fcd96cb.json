@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shez",
+    "texture": "3450721d-4d08-4def-ab8e-6534bfc17f16",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      244,
+      114
+    ],
+    "offset": [
+      -5,
+      6
+    ],
+    "originalSize": [
+      256,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

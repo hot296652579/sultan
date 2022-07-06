@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_kuang",
+    "texture": "06ff58d0-9512-4481-8a82-1d28a2d08a47",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      49
+    ],
+    "capInsets": [
+      10,
+      10,
+      10,
+      10
+    ]
+  }
+}

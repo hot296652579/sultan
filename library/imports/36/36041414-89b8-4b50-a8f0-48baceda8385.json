@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_pemenang",
+    "texture": "8f92bf9a-9d3c-4cf0-856c-d6a66d14cd4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

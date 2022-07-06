@@ -1,0 +1,10 @@
+{   
+    "CCCInstallRoute": {
+        "explain": "引擎路径",
+        "value": "C:/CocosDashboard_1.0.10/resources/.editors/Creator/2.4.2/CocosCreator.exe"
+    }, 
+    "CreateorProjectPath": {
+        "explain": "工程路径",
+        "value": "E:/game-client"
+    }
+}

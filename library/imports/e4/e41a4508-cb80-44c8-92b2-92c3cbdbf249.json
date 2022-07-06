@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yincangmima",
+    "texture": "e4ae863f-e78d-4a86-8465-1c97af27e285",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      41,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      41,
+      19
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

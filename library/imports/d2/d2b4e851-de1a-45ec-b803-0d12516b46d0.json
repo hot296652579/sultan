@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hidni_0",
+    "texture": "5221011a-f7b7-4476-b4d5-69b995c20747",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      511,
+      170
+    ],
+    "offset": [
+      -0.5,
+      171
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

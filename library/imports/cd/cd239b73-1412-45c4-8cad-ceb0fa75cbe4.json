@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ibian",
+    "texture": "e9ff8309-0b17-437d-a4ea-0397d394562f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

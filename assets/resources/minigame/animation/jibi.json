@@ -1,0 +1,44 @@
+{
+"skeleton": { "hash": "q6Qxz5EmJp/uf8BaNuP6FGfxtFM", "spine": "3.7.94", "width": 240.39, "height": 240.39, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 27.02, "rotation": 45.8, "x": 1, "y": 1 }
+],
+"slots": [
+	{ "name": "jibi", "bone": "bone", "attachment": "f9" }
+],
+"skins": {
+	"default": {
+		"jibi": {
+			"f1": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f2": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f3": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f4": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f5": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f6": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f7": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f8": { "x": -1, "y": -1, "width": 170, "height": 170 },
+			"f9": { "x": -1, "y": -1, "width": 170, "height": 170 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"jibi": {
+				"attachment": [
+					{ "time": 0.0667, "name": "f8" },
+					{ "time": 0.1333, "name": "f7" },
+					{ "time": 0.2, "name": "f6" },
+					{ "time": 0.2667, "name": "f5" },
+					{ "time": 0.3333, "name": "f4" },
+					{ "time": 0.4, "name": "f3" },
+					{ "time": 0.4667, "name": "f2" },
+					{ "time": 0.5333, "name": "f1" },
+					{ "time": 0.6, "name": "f1" }
+				]
+			}
+		}
+	}
+}
+}

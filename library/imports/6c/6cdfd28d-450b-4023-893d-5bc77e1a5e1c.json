@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meci1",
+    "texture": "30df7e3f-494a-4ef3-91a4-6e3435f4e2f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

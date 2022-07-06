@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_qianbao",
+    "texture": "d678765b-38cb-447a-89c8-d2071b5f1793",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

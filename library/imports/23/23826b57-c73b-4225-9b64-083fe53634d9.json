@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_zhekou",
+    "texture": "61be898c-124e-4417-a06a-00bf8b58a526",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      60,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      60,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

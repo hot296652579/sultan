@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_mines",
+    "texture": "122d28aa-84da-4b13-9836-fbb0e94cbb83",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      226
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      226
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

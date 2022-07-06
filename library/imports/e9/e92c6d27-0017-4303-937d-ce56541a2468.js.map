@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/script/framework/base/BaseManager.ts"],"names":[],"mappings":";;;;;;AAAA,MAAqB,WAAW;IAE5B;IAEA,CAAC;IAES,OAAO;IAEjB,CAAC;CACJ;AATD,8BASC","file":"","sourceRoot":"/","sourcesContent":["export default class BaseManager {\n\n    constructor() {\n\n    }\n\n    protected destroy(): void {\n\n    }\n}"]}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_lsi",
+    "texture": "1c82d5e1-7eb4-4410-9545-a3ec8eff88be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_fenxian",
+    "texture": "e806b530-fee1-4cd8-999d-ec370864bcb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
